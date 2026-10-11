@@ -3,7 +3,7 @@ title: Reproduce Locke base-10 cord values from knot type and position
 kind: reproduction
 phase: 1
 date: 2026-10-11
-status: registered
+status: not_reproduced
 
 claim: >-
   Cord values computed independently from knot type, number of turns and knot position using
@@ -80,3 +80,8 @@ notes: >-
   Reference column changed from TOTAL_VALUE (as proposed in plan §4.3) to the summed per-knot
   recorder values after schema inspection showed TOTAL_VALUE is unreliable. The tolerance is
   unchanged. Recorded before any decoder run.
+  RESULT (run 20261011T152605Z_P1-001): agreement 0.937 (95% CI 0.934-0.940) on 29,688 eligible
+  cords, outside the 0.99 tolerance. NOT REPRODUCED; Gate G1 stops for debugging. Main cause is
+  place assignment, not digit reading: the spacing rule inferred zero places the recorders did
+  not (1,113 cords), and cords without a units knot are ambiguous (431). Debug notes are in
+  reports/phase1_reproduction.md. Any revision is a new file P1-001v2 with supersedes: P1-001.
