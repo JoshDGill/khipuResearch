@@ -1,0 +1,1870 @@
+kh,CORD_ID,knots_top_to_bottom,reference,decoded,exponents_bottom_up,has_units_cluster,decoded_consecutive,decoded_group_spacing,agree,cause
+KH0244,3000019,SS@2,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0244,3000020,SSSSSSSSS@5.5 | S@17.5,99,9010,"[1, 3]",False,910,9010,False,no_units_cluster_place_ambiguous
+KH0256,3000027,SSSS@8 | L@28,405,4005,[3],True,45,4005,False,other
+KH0256,3000029,SSSSS@5.5 | L@22.5,5004,504,[2],True,54,504,False,other
+KH0256,3000030,SS@6.5 | SSSSSSS@14.5 | L@23.5,2708,278,"[1, 2]",True,278,278,False,other
+KH0256,3000031,SSSS@9 | L@19,404,44,[1],True,44,44,False,other
+KH0256,3000032,S@4 | L@18,1004,104,[2],True,14,104,False,other
+KH0256,3000034,SSSSSSSS@8.5 | L@18,804,84,[1],True,84,84,False,other
+KH0256,3000035,S@4 | L@19.5,1006,106,[2],True,16,106,False,other
+KH0256,3000038,S@10 | L@18.5,106,16,[1],True,16,16,False,other
+KH0256,3000039,S@9.5 | L@17,107,17,[1],True,17,17,False,other
+KH0256,3000040,S@9,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0256,3000041,SSS@9 | L@17,304,34,[1],True,34,34,False,other
+KH0256,3000042,SSSS@3 | SSSSSS@9 | L@16.5,4607,467,"[1, 2]",True,467,467,False,other
+KH0256,3000043,S@3.5 | L@18.5,1006,106,[2],True,16,106,False,other
+KH0256,3000044,SSSSSS@9 | L@18,604,64,[1],True,64,64,False,other
+KH0256,3000048,SSS@4 | SSSSSSSSS@9 | L@17,3908,398,"[1, 2]",True,398,398,False,other
+KH0256,3000050,SS@6 | L@13,207,27,[1],True,27,27,False,other
+KH0254,3000056,SSSS@4.5 | SS@18 | L@30.5,4023,423,"[1, 2]",True,423,40203,False,other
+KH0254,3000061,S@17,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0254,3000064,SS@6.5 | SSSS@13.5 | L@23.5,2049,249,"[1, 2]",True,249,249,False,other
+KH0254,3000065,S@6.5 | SSS@15 | L@30,1036,1306,"[2, 3]",True,136,1306,False,other
+KH0254,3000071,SSSSSSSSS@3 | S@12.5 | L@20,9018,918,"[1, 2]",True,918,918,False,other
+KH0254,3000073,SSS@3.5 | SSSS@10 | L@20.5,3043,343,"[1, 2]",True,343,343,False,other
+KH0254,3000075,SS@4.5 | SSSSSSS@9.5 | L@19.5,2073,273,"[1, 2]",True,273,273,False,other
+KH0254,3000081,S@6.5 | E@13.5,101,11,[1],True,11,11,False,other
+KH0246,3000229,SS@9 | L@28,25,205,[2],True,25,2005,False,zero_place_inferred_from_spacing
+KH0246,3000248,SSSSSSSSS@6 | L@23,92,902,[2],True,92,902,False,zero_place_inferred_from_spacing
+KH0241,3000327,SS@4.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0247,3000436,SSS@17 | L@28.5,32,302,[2],True,32,302,False,zero_place_inferred_from_spacing
+KH0247,3000446,SSS@17 | L@28.5,35,305,[2],True,35,305,False,zero_place_inferred_from_spacing
+KH0247,3000456,S@15.5 | L@26,12,102,[2],True,12,12,False,zero_place_inferred_from_spacing
+KH0247,3000457,SS@15 | E@25,21,201,[2],True,21,21,False,zero_place_inferred_from_spacing
+KH0247,3000458,SSSSSSS@12 | SS@28,720,7020,"[1, 3]",False,720,7020,False,zero_place_inferred_from_spacing
+KH0247,3000459,SSSSSSSS@10 | L@22,87,807,[2],True,87,807,False,zero_place_inferred_from_spacing
+KH0247,3000475,SSSS@14.5 | E@25,41,401,[2],True,41,41,False,zero_place_inferred_from_spacing
+KH0247,3000476,S@15,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0247,3000477,SSSS@14 | L@25,49,409,[2],True,49,49,False,zero_place_inferred_from_spacing
+KH0247,3000492,SSSSSSSS@13 | E@23,81,801,[2],True,81,81,False,zero_place_inferred_from_spacing
+KH0247,3000493,S@7.5 | L@24,105,1005,[3],True,15,105,False,other
+KH0247,3000494,S@7.5,100,1000,[3],False,10,100,False,no_units_cluster_place_ambiguous
+KH0247,3000495,S@7.5 | SSS@14.5,130,1300,"[2, 3]",False,130,130,False,zero_place_inferred_from_spacing
+KH0247,3000507,SSSSSSSSS@9.5 | SSSSS@19.5 | E@25.5,951,9051,"[1, 3]",True,951,951,False,zero_place_inferred_from_spacing
+KH0247,3000623,S@13,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0247,3000629,S@15 | L@26,13,103,[2],True,13,13,False,zero_place_inferred_from_spacing
+KH0247,3000657,S@9.5 | S@19.5 | L@26,114,1014,"[1, 3]",True,114,114,False,zero_place_inferred_from_spacing
+KH0247,3000690,SS@17 | E@27.5,21,201,[2],True,21,21,False,zero_place_inferred_from_spacing
+KH0247,3000692,S@18,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0247,3000698,S@3.5 | SSSSSSSSS@8.5 | L@19.5,199,1909,"[2, 3]",True,199,199,False,zero_place_inferred_from_spacing
+KH0247,3000700,SSS@18.5 | E@29,31,301,[2],True,31,31,False,zero_place_inferred_from_spacing
+KH0247,3000704,S@3.5 | SSSSS@9.5 | S@21 | L@27,1515,15015,"[1, 3, 4]",True,1515,15015,False,zero_place_inferred_from_spacing
+KH0248,3000814,SSSSSS@15.5 | E@25.5,61,601,[2],True,61,61,False,zero_place_inferred_from_spacing
+KH0248,3000826,S@22 | L@32.5,13,103,[2],True,13,13,False,zero_place_inferred_from_spacing
+KH0248,3000836,SS@6,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0248,3000903,S@7.5,0,100,[2],False,10,100,False,no_units_cluster_place_ambiguous
+KH0248,3000907,S@8.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0248,3000908,S@8.5 | L@14.5,102,12,[1],True,12,12,False,other
+KH0251,3000939,SSSSSSS@9,70,700,[2],False,70,70,False,zero_place_inferred_from_spacing
+KH0251,3000940,SSSSS@8.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0251,3000990,SS@1.5 | SSSSS@7.5 | SSSSSS@21.5 | L@29,2565,25065,"[1, 3, 4]",True,2565,2500605,False,zero_place_inferred_from_spacing
+KH0251,3000992,SSSSS@7,500,50,[1],False,50,500,False,no_units_cluster_place_ambiguous
+KH0238,3001071,SSSSSSSSS@4.5 | L@19,96,906,[2],True,96,906,False,zero_place_inferred_from_spacing
+KH0238,3001078,S@11 | E@22.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0238,3001091,SSSSSS@9 | L@22,66,606,[2],True,66,6006,False,zero_place_inferred_from_spacing
+KH0238,3001114,S@4.5 | SSS@10 | L@20.5,133,1303,"[2, 3]",True,133,133,False,zero_place_inferred_from_spacing
+KH0238,3001115,SSSSS@10 | L@21.5,52,502,[2],True,52,502,False,zero_place_inferred_from_spacing
+KH0238,3001116,S@10 | L@21,17,107,[2],True,17,17,False,zero_place_inferred_from_spacing
+KH0238,3001119,SSSS@9.5 | E@25,41,401,[2],True,41,401,False,zero_place_inferred_from_spacing
+KH0238,3001120,SSSS@10 | L@25.5,45,405,[2],True,45,405,False,zero_place_inferred_from_spacing
+KH0238,3001121,S@11 | L@26,15,105,[2],True,15,105,False,zero_place_inferred_from_spacing
+KH0238,3001125,SS@12.5 | L@29.5,22,202,[2],True,22,202,False,zero_place_inferred_from_spacing
+KH0238,3001126,SSSS@10.5 | L@21.5,44,404,[2],True,44,44,False,zero_place_inferred_from_spacing
+KH0238,3001130,S@6 | L@18,12,102,[2],True,12,102,False,zero_place_inferred_from_spacing
+KH0238,3001131,SSSS@11.5 | L@24,45,405,[2],True,45,405,False,zero_place_inferred_from_spacing
+KH0238,3001132,S@8.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0238,3001171,SSSSSSSSS@10.5 | E@22,91,901,[2],True,91,901,False,zero_place_inferred_from_spacing
+KH0238,3001172,S@12 | L@22.5,15,105,[2],True,15,15,False,zero_place_inferred_from_spacing
+KH0238,3001179,SS@9 | L@21.5,26,206,[2],True,26,206,False,zero_place_inferred_from_spacing
+KH0224,3001261,S@5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0224,3001266,S@5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0252,3001546,SSS@8,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0252,3001547,SSS@8 | E@23.5,31,301,[2],True,31,301,False,zero_place_inferred_from_spacing
+KH0252,3001551,S@10 | L@23,16,106,[2],True,16,106,False,zero_place_inferred_from_spacing
+KH0252,3001628,E@12.5,10,1,[],True,1,1,False,other
+KH0252,3001686,S@7 | E@20,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0253,3002556,SSSS@11 | E@23.5,41,401,[2],True,41,401,False,zero_place_inferred_from_spacing
+KH0253,3002575,S@14.5 | L@27,16,106,[2],True,16,106,False,zero_place_inferred_from_spacing
+KH0253,3002582,SS@10.5 | L@26,26,206,[2],True,26,206,False,zero_place_inferred_from_spacing
+KH0253,3002584,SSSSSSSS@9 | L@22,85,805,[2],True,85,805,False,zero_place_inferred_from_spacing
+KH0253,3002588,S@11 | L@23,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0253,3002593,SSS@11 | L@22.5,39,309,[2],True,39,309,False,zero_place_inferred_from_spacing
+KH0253,3002599,S@9 | L@21,19,109,[2],True,19,109,False,zero_place_inferred_from_spacing
+KH0253,3002600,S@9 | L@21,16,106,[2],True,16,106,False,zero_place_inferred_from_spacing
+KH0240,3002964,SS@9 | L@24.5,22,202,[2],True,22,202,False,zero_place_inferred_from_spacing
+KH0240,3002973,S@9.5 | L@20.5,17,107,[2],True,17,17,False,zero_place_inferred_from_spacing
+KH0240,3002977,S@9 | L@25,18,108,[2],True,18,108,False,zero_place_inferred_from_spacing
+KH0240,3002978,SSSS@10 | L@20.5,44,404,[2],True,44,44,False,zero_place_inferred_from_spacing
+KH0240,3003066,S@4 | L@17,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0240,3003118,SS@4.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0240,3003234,SS@6.5 | L@19.5,26,206,[2],True,26,206,False,zero_place_inferred_from_spacing
+KH0240,3003380,SSS@4.5 | L@15.5,32,302,[2],True,32,32,False,zero_place_inferred_from_spacing
+KH0242,3003677,S@3,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0242,3003738,L@8.5,3,4,[],True,4,4,False,other
+KH0242,3004237,E@8,0,1,[],True,1,1,False,other
+KH0240,3004310,SS@2.5,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0240,3004323,SSS@2 | L@13.5,35,305,[2],True,35,305,False,zero_place_inferred_from_spacing
+KH0237,3004407,S@5 | SS@14 | E@25,1021,121,"[1, 2]",True,121,121,False,other
+KH0237,3004457,SSSSS@14,500,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0237,3004458,SSSSSSSS@4 | SS@12.5 | E@21,8201,821,"[1, 2]",True,821,821,False,other
+KH0237,3004464,SS@6 | SSSSSSSS@10,2800,280,"[1, 2]",False,280,2800,False,no_units_cluster_place_ambiguous
+KH0237,3004469,SSSSSSSS@5 | SSS@11 | L@18,8308,838,"[1, 2]",True,838,838,False,other
+KH0237,3004476,S@12 | L@24,105,15,[1],True,15,105,False,other
+KH0237,3004477,SSS@6 | S@15 | E@26,3101,311,"[1, 2]",True,311,311,False,other
+KH0237,3004487,SSSS@6 | L@28,4005,405,[2],True,45,4005,False,other
+KH0237,3004505,SSS@7 | SSSS@15 | L@24,3405,345,"[1, 2]",True,345,345,False,other
+KH0237,3004511,S@17 | L@30,103,13,[1],True,13,103,False,other
+KH0237,3004541,SSSS@5 | SSSSS@8 | E@19,4501,451,"[1, 2]",True,451,451,False,other
+KH0237,3004546,SSSSSS@9.5 | L@15,605,65,[1],True,65,65,False,other
+KH0237,3004551,SSSS@5 | S@9 | L@16,4104,414,"[1, 2]",True,414,414,False,other
+KH0237,3004578,SS@20 | L@43.5,22,202,[2],True,22,2002,False,zero_place_inferred_from_spacing
+KH0237,3004600,S@6 | SS@20 | L@30,1208,128,"[1, 2]",True,128,1028,False,other
+KH0237,3004665,SS@13 | L@24.5,202,22,[1],True,22,202,False,other
+KH0237,3004676,SSSS@8.5 | L@32.5,405,4005,[3],True,45,4005,False,other
+KH0237,3004699,SSSS@14 | L@25,402,42,[1],True,42,42,False,other
+KH0237,3004727,S@2.5 | SS@9 | L@20.5,1206,126,"[1, 2]",True,126,1206,False,other
+KH0237,3004732,SSSSSS@9.5 | L@21.5,602,62,[1],True,62,602,False,other
+KH0237,3004737,SS@3 | SS@10 | L@22,2203,223,"[1, 2]",True,223,2203,False,other
+KH0237,3004744,S@3.5 | L@19.5,1004,104,[2],True,14,104,False,other
+KH0237,3004750,SSS@12.5 | L@22,303,33,[1],True,33,33,False,other
+KH0237,3004755,SS@3.5 | L@21.5,2002,202,[2],True,22,202,False,other
+KH0237,3004761,S@2.5,1000,10000,[4],False,10,100000,False,no_units_cluster_place_ambiguous
+KH0237,3004783,SSSS@8.5 | L@18,404,44,[1],True,44,44,False,other
+KH0237,3004879,SSSSSSSS@19.5 | L@34,84,804,[2],True,84,804,False,zero_place_inferred_from_spacing
+KH0237,3004902,S@4.5,10,100,[2],False,10,1000,False,zero_place_inferred_from_spacing
+KH0237,3004904,S@1.5,10,100,[2],False,10,1000,False,zero_place_inferred_from_spacing
+KH0237,3004912,SSSSS@7.5 | L@18,504,54,[1],True,54,54,False,other
+KH0237,3004915,SSS@9.5 | L@22,307,37,[1],True,37,37,False,other
+KH0237,3004916,S@10.5 | L@23.5,106,16,[1],True,16,16,False,other
+KH0237,3004925,SSSS@19.5 | E@35,41,401,[2],True,41,41,False,zero_place_inferred_from_spacing
+KH0237,3004927,SSSSSSSS@19 | E@34.5,81,801,[2],True,81,81,False,zero_place_inferred_from_spacing
+KH0237,3004947,SSSSSSS@15,700,70,[1],False,70,70,False,no_units_cluster_place_ambiguous
+KH0237,3004950,SS@6.5 | SSSS@15.5,2400,240,"[1, 2]",False,240,240,False,no_units_cluster_place_ambiguous
+KH0225,3005033,S@8 | L@17,12,102,[2],True,12,12,False,zero_place_inferred_from_spacing
+KH0225,3005333,S@3,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0229,3005337,S@7 | SSSSSSSS@16,180,1080,"[1, 3]",False,180,180,False,zero_place_inferred_from_spacing
+KH0229,3005340,SSSS@7.5 | SSSSSSSS@17 | L@22.5,483,4083,"[1, 3]",True,483,483,False,zero_place_inferred_from_spacing
+KH0229,3005349,S@7 | SSSSSSSS@16.5 | L@23.5,188,1088,"[1, 3]",True,188,188,False,zero_place_inferred_from_spacing
+KH0229,3005354,SSSSSSS@9 | E@19.5,71,701,[2],True,71,701,False,zero_place_inferred_from_spacing
+KH0231,3005504,SSS@10.5 | L@22,37,307,[2],True,37,307,False,zero_place_inferred_from_spacing
+KH0234,3005680,SSS@2.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0234,3005681,S@7 | L@19,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0234,3005682,S@7,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0235,3005733,S@1,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0111,3005838,S@6.5 | S@18.5 | L@31.5,116,10106,"[2, 4]",True,116,10106,False,zero_place_inferred_from_spacing
+KH0112,3005956,SS@12.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0112,3005959,SS@11.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0258,3006126,SSS@12 | S@23.5,33,310,"[1, 2]",False,310,3010,False,no_units_cluster_place_ambiguous
+KH0258,3006127,SSS@12 | S@24,31,310,"[1, 2]",False,310,3010,False,no_units_cluster_place_ambiguous
+KH0258,3006220,SS@8.5 | S@22.5 | L@42.5,218,2108,"[2, 3]",True,218,201008,False,zero_place_inferred_from_spacing
+KH0258,3006222,S@8.5 | SSSS@23.5 | L@43.5,145,1405,"[2, 3]",True,145,104005,False,zero_place_inferred_from_spacing
+KH0258,3006229,SSSSSSS@23 | L@47,76,706,[2],True,76,7006,False,zero_place_inferred_from_spacing
+KH0258,3006230,S@24 | L@43.5,15,105,[2],True,15,1005,False,zero_place_inferred_from_spacing
+KH0258,3006295,S@30 | L@51.5,13,103,[2],True,13,1003,False,zero_place_inferred_from_spacing
+KH0258,3006296,SSS@29 | L@57,35,305,[2],True,35,30005,False,zero_place_inferred_from_spacing
+KH0258,3006305,SSSSSSS@31 | L@63.5,78,7008,[3],True,78,70008,False,zero_place_inferred_from_spacing
+KH0258,3006306,SSSSSSSS@25,80,800,[2],False,80,8000,False,zero_place_inferred_from_spacing
+KH0258,3006307,S@27.5 | L@53,13,103,[2],True,13,1003,False,zero_place_inferred_from_spacing
+KH0258,3006308,SSS@27.5 | L@47,32,302,[2],True,32,3002,False,zero_place_inferred_from_spacing
+KH0258,3006312,SS@21,20,200,[2],False,20,2000,False,zero_place_inferred_from_spacing
+KH0258,3006339,SS@24.5 | L@49.5,23,203,[2],True,23,2003,False,zero_place_inferred_from_spacing
+KH0258,3006340,S@24.5 | L@47.5,19,109,[2],True,19,1009,False,zero_place_inferred_from_spacing
+KH0258,3006341,S@25 | L@45,17,107,[2],True,17,1007,False,zero_place_inferred_from_spacing
+KH0258,3006345,S@26.5 | L@45.5,18,108,[2],True,18,1008,False,zero_place_inferred_from_spacing
+KH0258,3006347,S@12.5 | S@24 | L@50,114,1104,"[2, 3]",True,114,101004,False,zero_place_inferred_from_spacing
+KH0258,3006352,S@26.5 | L@47.5,12,102,[2],True,12,1002,False,zero_place_inferred_from_spacing
+KH0258,3006353,SS@26 | L@49,26,206,[2],True,26,2006,False,zero_place_inferred_from_spacing
+KH0258,3006354,S@26,10,100,[2],False,10,1000,False,zero_place_inferred_from_spacing
+KH0258,3006355,S@27,10,100,[2],False,10,1000,False,zero_place_inferred_from_spacing
+KH0258,3006363,S@26.5,10,100,[2],False,10,1000,False,zero_place_inferred_from_spacing
+KH0258,3006364,S@28 | L@51.5,12,102,[2],True,12,1002,False,zero_place_inferred_from_spacing
+KH0116,3006439,S@5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0116,3006440,SS@5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0116,3006441,SS@5.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0116,3006451,SSSSSS@8,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0116,3006452,SSSS@8.5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0116,3006454,SSSSSS@8.5,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0116,3006455,SSS@8.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0116,3006456,S@7.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0116,3006458,SS@7,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0117,3006459,S@7.5 | S@14.5 | L@27,1104,114,"[1, 2]",True,114,1104,False,other
+KH0117,3006502,SSS@13,300,30,[1],False,30,30,False,no_units_cluster_place_ambiguous
+KH0117,3006505,SS@5.5 | SSSSSS@20 | SSSSSSS@27.5,2670,20670,"[1, 2, 4]",False,2670,20670,False,zero_place_inferred_from_spacing
+KH0117,3006506,SSSSSSSS@9.5,80,800,[2],False,80,800,False,zero_place_inferred_from_spacing
+KH0117,3006510,SSSSS@9,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0117,3006516,S@9,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0117,3006519,SS@8.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0117,3006524,SSSSS@9,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0117,3006526,S@9,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0118,3006537,SS@11 | L@26.5,2007,207,[2],True,27,207,False,other
+KH0121,3006580,SSSSSSSS@17.5,800,80,[1],False,80,80000,False,no_units_cluster_place_ambiguous
+KH0121,3006586,S@15 | E@46,101,11,[1],True,11,10001,False,other
+KH0121,3006590,SS@12.5 | L@40.5,207,27,[1],True,27,20007,False,other
+KH0121,3006599,SSSSS@0,50,500,[2],False,50,5000000,False,zero_place_inferred_from_spacing
+KH0121,3006600,SSSSSSSS@0,80,800,[2],False,80,8000000,False,zero_place_inferred_from_spacing
+KH0120,3006652,SSS@18.5 | L@41,35,305,[2],True,35,3005,False,zero_place_inferred_from_spacing
+KH0120,3006675,S@18,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0120,3006689,SSS@6 | SS@25.5 | SSSSSS@49.5,3260,32060,"[1, 3, 4]",False,3260,30020060,False,zero_place_inferred_from_spacing
+KH0120,3006692,SSSS@23,400,40,[1],False,40,400,False,no_units_cluster_place_ambiguous
+KH0120,3006704,SS@10,20,200,[2],False,20,2000,False,zero_place_inferred_from_spacing
+KH0123,3006812,S@0 | SSS@18.5,130,1030,"[1, 3]",False,130,1030,False,zero_place_inferred_from_spacing
+KH0123,3006854,S@6.5 | SS@21,120,1020,"[1, 3]",False,120,1020,False,zero_place_inferred_from_spacing
+KH0123,3006859,S@7.5 | SS@22,120,1020,"[1, 3]",False,120,1020,False,zero_place_inferred_from_spacing
+KH0123,3006864,S@9 | SS@22,120,1020,"[1, 3]",False,120,1020,False,zero_place_inferred_from_spacing
+KH0123,3006871,SS@11.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0123,3006876,S@11 | SS@17,100,120,"[1, 2]",False,120,120,False,no_units_cluster_place_ambiguous
+KH0123,3006886,S@12 | SS@19,120,1200,"[2, 3]",False,120,1200,False,zero_place_inferred_from_spacing
+KH0123,3006887,S@12.5 | L@40.5,103,1003,[3],True,13,10003,False,other
+KH0123,3006892,S@12 | L@40,103,1003,[3],True,13,10003,False,other
+KH0123,3006897,S@12.5 | L@40.5,103,1003,[3],True,13,10003,False,other
+KH0123,3006962,SSSSSS@13 | L@28,62,602,[2],True,62,602,False,zero_place_inferred_from_spacing
+KH0123,3006963,S@6 | SSSSS@14.5,150,1500,"[2, 3]",False,150,1500,False,zero_place_inferred_from_spacing
+KH0123,3006964,S@5.5 | SS@13,120,1200,"[2, 3]",False,120,1200,False,zero_place_inferred_from_spacing
+KH0123,3006975,SSSSSS@12,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0123,3006978,S@5 | SSSSS@11.5,150,1500,"[2, 3]",False,150,1500,False,zero_place_inferred_from_spacing
+KH0123,3006988,SSSSSSS@11.5,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0123,3006992,SSSSSSS@11,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0123,3006996,SSSSSSS@11.5,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0123,3007000,SSSSSSS@11.5,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0127,3007116,SSSSSS@24.5 | L@33.5,63,603,[2],True,63,63,False,zero_place_inferred_from_spacing
+KH0127,3007117,SSS@23 | L@32.5,32,302,[2],True,32,32,False,zero_place_inferred_from_spacing
+KH0127,3007118,SSS@23.5 | L@33,37,307,[2],True,37,37,False,zero_place_inferred_from_spacing
+KH0127,3007119,SS@14 | E@30.5,201,2001,[3],True,21,201,False,other
+KH0127,3007121,SSSSS@23 | L@33,58,508,[2],True,58,58,False,zero_place_inferred_from_spacing
+KH0127,3007122,SSSSS@23 | L@32,59,509,[2],True,59,59,False,zero_place_inferred_from_spacing
+KH0127,3007123,SSSS@22 | L@31.5,46,406,[2],True,46,46,False,zero_place_inferred_from_spacing
+KH0127,3007124,SSS@23 | L@34.5,34,304,[2],True,34,304,False,zero_place_inferred_from_spacing
+KH0127,3007125,SSS@22 | L@33,37,307,[2],True,37,37,False,zero_place_inferred_from_spacing
+KH0127,3007223,SSSS@21 | L@30,46,406,[2],True,46,406,False,zero_place_inferred_from_spacing
+KH0175,3007284,SSSSSSS@9.5 | L@19,79,709,[2],True,79,79,False,zero_place_inferred_from_spacing
+KH0175,3007285,SS@9.5 | L@19,25,205,[2],True,25,25,False,zero_place_inferred_from_spacing
+KH0212,3007367,SSSSSS@4.5 | L@16.5,62,602,[2],True,62,602,False,zero_place_inferred_from_spacing
+KH0213,3007373,SSSSSS@7 | L@18.5,62,602,[2],True,62,602,False,zero_place_inferred_from_spacing
+KH0128,3007435,S@8,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0128,3007701,S@8.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0128,3007703,SS@9.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0214,3007888,SS@6.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0214,3007889,SSSS@7 | L@21,45,405,[2],True,45,405,False,zero_place_inferred_from_spacing
+KH0214,3007890,SSSSSS@6.5,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0214,3007891,SSS@5 | L@22,38,308,[2],True,38,308,False,zero_place_inferred_from_spacing
+KH0214,3007892,SSSSSSSS@9,80,800,[2],False,80,800,False,zero_place_inferred_from_spacing
+KH0214,3007893,S@7,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0215,3007904,S@16,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0129,3007953,S@3 | SSSS@8 | L@22,146,1406,"[2, 3]",True,146,1406,False,zero_place_inferred_from_spacing
+KH0136,3008057,S@0,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0136,3008058,SSS@0,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0138,3008473,S@0,10,100,[2],False,10,100000,False,zero_place_inferred_from_spacing
+KH0139,3008474,S@3.5 | SS@15,120,1200,"[2, 3]",False,120,1200,False,zero_place_inferred_from_spacing
+KH0139,3008475,S@3 | L@38,106,1006,[3],True,16,1006,False,other
+KH0139,3008476,SSSSS@16.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0139,3008477,SSSSSSS@17 | L@40,73,703,[2],True,73,703,False,zero_place_inferred_from_spacing
+KH0139,3008478,S@3 | SSSSSSSS@18.5 | L@40.5,189,1809,"[2, 3]",True,189,1809,False,zero_place_inferred_from_spacing
+KH0139,3008479,SSS@3.5 | SS@15,320,3200,"[2, 3]",False,320,3200,False,zero_place_inferred_from_spacing
+KH0139,3008480,SSS@4 | SSSSSSS@16.5 | L@39.5,379,3709,"[2, 3]",True,379,3709,False,zero_place_inferred_from_spacing
+KH0139,3008481,SSSSSSSSS@5.5 | SSSSSSS@16.5 | L@40.5,972,9702,"[2, 3]",True,972,9702,False,zero_place_inferred_from_spacing
+KH0139,3008482,SSSS@4.5 | SSSSSSS@16 | E@38,471,4701,"[2, 3]",True,471,4701,False,zero_place_inferred_from_spacing
+KH0139,3008483,S@2 | SSSSSS@7 | S@14,1610,16100,"[2, 3, 4]",False,1610,16100,False,zero_place_inferred_from_spacing
+KH0139,3008484,S@7.5,100,1000,[3],False,10,100,False,no_units_cluster_place_ambiguous
+KH0139,3008485,SSSSSSSSS@7.5 | SSSSSSSS@16,980,9800,"[2, 3]",False,980,98000,False,zero_place_inferred_from_spacing
+KH0139,3008486,SSSSSSSS@8 | SSS@19 | L@39.5,838,8308,"[2, 3]",True,838,83008,False,zero_place_inferred_from_spacing
+KH0139,3008487,SS@2.5 | SSSSSSSS@11,2800,28000,"[3, 4]",False,280,280000,False,no_units_cluster_place_ambiguous
+KH0139,3008488,SSSS@11,400,4000,[3],False,40,40000,False,no_units_cluster_place_ambiguous
+KH0139,3008489,SSSSS@11.5 | SSS@23,530,5300,"[2, 3]",False,530,50300,False,zero_place_inferred_from_spacing
+KH0139,3008491,SSS@11,300,3000,[3],False,30,30000,False,no_units_cluster_place_ambiguous
+KH0139,3008492,SSSSSS@11,600,6000,[3],False,60,60000,False,no_units_cluster_place_ambiguous
+KH0139,3008493,S@2.5 | SS@11.5,1200,12000,"[3, 4]",False,120,120000,False,no_units_cluster_place_ambiguous
+KH0139,3008494,SSS@11.5,300,3000,[3],False,30,30000,False,no_units_cluster_place_ambiguous
+KH0139,3008501,S@1,100,1000,[3],False,10,100000,False,no_units_cluster_place_ambiguous
+KH0140,3008503,SS@10 | SSS@19 | SSSSSSS@38.5 | L@46.5,2373,23073,"[1, 3, 4]",True,2373,23073,False,zero_place_inferred_from_spacing
+KH0140,3008514,SSS@10 | S@18 | S@26 | S@37 | S@39,3130,311110,"[1, 2, 3, 4, 5]",False,311110,311110,False,no_units_cluster_place_ambiguous
+KH0141,3008602,SSSSS@9.5 | L@26,53,503,[2],True,53,503,False,zero_place_inferred_from_spacing
+KH0143,3008958,S@7.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0145,3008984,SSS@4.5 | L@16.5,37,307,[2],True,37,307,False,zero_place_inferred_from_spacing
+KH0145,3009000,SS@4.5 | L@16,26,206,[2],True,26,206,False,zero_place_inferred_from_spacing
+KH0147,3009277,SS@12 | E@23.5,21,201,[2],True,21,21,False,zero_place_inferred_from_spacing
+KH0147,3009362,SSSSSSS@0,70,70000,[4],False,70,7000,False,zero_place_inferred_from_spacing
+KH0147,3009383,S@9.5 | L@20,17,107,[2],True,17,17,False,zero_place_inferred_from_spacing
+KH0147,3009414,SSS@5.5 | SSSSS@13,350,3500,"[2, 3]",False,350,350,False,zero_place_inferred_from_spacing
+KH0147,3009419,S@11,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0147,3009423,SS@6 | SSSSSSSS@10,280,2800,"[2, 3]",False,280,2800,False,zero_place_inferred_from_spacing
+KH0148,3009497,SS@8 | L@20,25,205,[2],True,25,205,False,zero_place_inferred_from_spacing
+KH0148,3009501,S@7.5 | L@20,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0148,3009505,S@6.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0149,3009516,SSS@6 | L@24.5,305,35,[1],True,35,305,False,other
+KH0149,3009518,SSSS@14.5,40,400,[2],False,40,4000,False,zero_place_inferred_from_spacing
+KH0149,3009519,SSSS@15.5 | L@45.5,45,405,[2],True,45,40005,False,zero_place_inferred_from_spacing
+KH0149,3009520,S@14.5 | L@39.5,14,104,[2],True,14,1004,False,zero_place_inferred_from_spacing
+KH0149,3009523,SS@6.5 | S@18.5,210,2100,"[2, 3]",False,210,201000,False,zero_place_inferred_from_spacing
+KH0149,3009528,SS@19 | L@41,27,207,[2],True,27,2007,False,zero_place_inferred_from_spacing
+KH0149,3009529,SSS@19 | L@40,32,302,[2],True,32,3002,False,zero_place_inferred_from_spacing
+KH0152,3009774,SSS@9.5 | L@23,36,306,[2],True,36,306,False,zero_place_inferred_from_spacing
+KH0152,3009780,S@2,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0152,3009789,SS@3,20,2000,[3],False,20,2000,False,zero_place_inferred_from_spacing
+KH0152,3009841,SS@2.5,20,2000,[3],False,20,2000,False,zero_place_inferred_from_spacing
+KH0082,3010842,S@11 | L@31,15,1005,[3],True,15,1005,False,zero_place_inferred_from_spacing
+KH0082,3010850,S@10.5 | L@30.5,12,1002,[3],True,12,1002,False,zero_place_inferred_from_spacing
+KH0082,3011158,SSSS@11 | L@21,42,402,[2],True,42,42,False,zero_place_inferred_from_spacing
+KH0082,3012117,S@0,10,1000,[3],False,10,100,False,zero_place_inferred_from_spacing
+KH0033,3012165,SSSSSSS@11.5 | L@26.5,77,707,[2],True,77,707,False,zero_place_inferred_from_spacing
+KH0082,3012313,SSSS@6,40,400,[2],False,40,40,False,zero_place_inferred_from_spacing
+KH0082,3012330,S@7,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0082,3012346,S@8.5 | S@15,10,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0033,3012368,SSSSSSSS@4.5 | L@17.5,802,82,[1],True,82,802,False,other
+KH0273,3012438,S@9.5 | L@22,12,102,[2],True,12,102,False,zero_place_inferred_from_spacing
+KH0273,3012447,SSS@10 | L@23,32,302,[2],True,32,302,False,zero_place_inferred_from_spacing
+KH0273,3012452,S@10 | L@24,17,107,[2],True,17,107,False,zero_place_inferred_from_spacing
+KH0273,3012458,SS@10.5 | L@26,25,205,[2],True,25,205,False,zero_place_inferred_from_spacing
+KH0273,3012469,S@10,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0273,3012470,S@11 | L@31,16,1006,[3],True,16,1006,False,zero_place_inferred_from_spacing
+KH0035,3013143,S@5 | S@14,20,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0039,3013213,SSSS@3 | L@20,47,407,[2],True,47,407,False,zero_place_inferred_from_spacing
+KH0039,3013220,SS@6.5 | E@6.5,21,120,"[1, 2]",False,120,120,False,no_units_cluster_place_ambiguous
+KH0153,3013255,SSSSS@7.5 | L@22.5,54,504,[2],True,54,504,False,zero_place_inferred_from_spacing
+KH0153,3013256,SS@9 | L@22,28,208,[2],True,28,208,False,zero_place_inferred_from_spacing
+KH0153,3013258,SS@9.5 | L@30.5,26,2006,[3],True,26,2006,False,zero_place_inferred_from_spacing
+KH0154,3013282,SSSS@11.5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0154,3013283,SSS@12,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0154,3013284,SS@12 | L@25,25,205,[2],True,25,205,False,zero_place_inferred_from_spacing
+KH0154,3013285,S@5 | S@12,110,1100,"[2, 3]",False,110,1100,False,zero_place_inferred_from_spacing
+KH0154,3013286,S@5.5 | S@12,110,1100,"[2, 3]",False,110,1100,False,zero_place_inferred_from_spacing
+KH0155,3013306,S@0,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0158,3013523,S@4.5 | L@16.5,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0159,3013565,S@5 | SS@17,1020,120,"[1, 2]",False,120,1020,False,no_units_cluster_place_ambiguous
+KH0165,3013889,S@3 | SSSSS@8.5 | S@13.5,1510,15100,"[2, 3, 4]",False,1510,1510,False,zero_place_inferred_from_spacing
+KH0165,3013890,SSSSSSS@8.5 | SS@13,720,7200,"[2, 3]",False,720,720,False,zero_place_inferred_from_spacing
+KH0165,3013893,SSSSSSSS@8.5 | SSSS@13,840,8400,"[2, 3]",False,840,840,False,zero_place_inferred_from_spacing
+KH0165,3013896,SSS@3 | SSSS@9 | S@12.5,3410,34100,"[2, 3, 4]",False,3410,3410,False,zero_place_inferred_from_spacing
+KH0165,3013898,S@3 | SSSS@8.5 | SSS@13,1430,14300,"[2, 3, 4]",False,1430,1430,False,zero_place_inferred_from_spacing
+KH0165,3013901,SSSSSSSS@8.5 | SS@13.5,820,8200,"[2, 3]",False,820,820,False,zero_place_inferred_from_spacing
+KH0165,3013925,SSS@7 | SSS@12 | L@23,3033,3303,"[2, 3]",True,333,333,False,other
+KH0165,3013929,SSSS@6 | SSS@7.5 | SSSS@12,3440,43400,"[2, 3, 4]",False,4340,43400,False,no_units_cluster_place_ambiguous
+KH0165,3013930,SSSSSSSS@15,800,80,[1],False,80,80,False,no_units_cluster_place_ambiguous
+KH0165,3013934,SSSSSSS@14,700,70,[1],False,70,70,False,no_units_cluster_place_ambiguous
+KH0166,3014009,SSSSSSSS@1.5 | L@18,86,8006,[3],True,86,8006,False,zero_place_inferred_from_spacing
+KH0167,3014033,S@7 | L@19,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0167,3014049,SS@5.5 | L@18,26,206,[2],True,26,206,False,zero_place_inferred_from_spacing
+KH0167,3014050,SS@5 | L@16.5,26,206,[2],True,26,206,False,zero_place_inferred_from_spacing
+KH0167,3014077,SS@3.5 | L@16,23,203,[2],True,23,203,False,zero_place_inferred_from_spacing
+KH0168,3014093,SSSSS@11.5 | L@31,56,506,[2],True,56,5006,False,zero_place_inferred_from_spacing
+KH0169,3014207,SS@5.5 | L@20,23,203,[2],True,23,203,False,zero_place_inferred_from_spacing
+KH0169,3014209,S@7 | L@18.5,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0169,3014212,S@6 | L@25.5,13,1003,[3],True,13,1003,False,zero_place_inferred_from_spacing
+KH0169,3014228,S@1,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0172,3014250,SSS@9 | SSSSS@14.5,350,3500,"[2, 3]",False,350,350,False,zero_place_inferred_from_spacing
+KH0172,3014251,S@9 | SSSSSS@14.5,160,1600,"[2, 3]",False,160,160,False,zero_place_inferred_from_spacing
+KH0172,3014252,SSS@9 | SSS@14,330,3300,"[2, 3]",False,330,330,False,zero_place_inferred_from_spacing
+KH0177,3014373,SSSSS@6,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0180,3014395,S@5 | L@27.5,105,1005,[3],True,15,1005,False,other
+KH0181,3014422,SS@11 | L@20,22,202,[2],True,22,22,False,zero_place_inferred_from_spacing
+KH0181,3014444,SSSSS@13.5 | L@22.5,59,509,[2],True,59,59,False,zero_place_inferred_from_spacing
+KH0182,3014458,SSSSSSSSS@6 | E@27,91,901,[2],True,91,9001,False,zero_place_inferred_from_spacing
+KH0187,3014899,SSSSSSS@8 | SSSSSS@15.5 | SS@20.5,780,7620,"[1, 2, 3]",False,7620,7620,False,no_units_cluster_place_ambiguous
+KH0187,3014900,SSSSSS@3 | SSSSSSSS@10.5 | SSSSS@15.5,6850,68500,"[2, 3, 4]",False,6850,6850,False,zero_place_inferred_from_spacing
+KH0187,3014901,SSSS@7.5 | SSSS@14 | L@26.5,445,4405,"[2, 3]",True,445,4405,False,zero_place_inferred_from_spacing
+KH0189,3015045,SS@5.5 | SSS@11.5 | SSSSS@18,23500,2350,"[1, 2, 3]",False,2350,2350,False,no_units_cluster_place_ambiguous
+KH0189,3015046,SSSS@16.5,400,40,[1],False,40,40,False,no_units_cluster_place_ambiguous
+KH0189,3015047,SSSSSS@16.5,600,60,[1],False,60,60,False,no_units_cluster_place_ambiguous
+KH0189,3015050,S@8.5 | SS@14.5,1200,120,"[1, 2]",False,120,120,False,no_units_cluster_place_ambiguous
+KH0189,3015053,S@8.5,1000,100,[2],False,10,100,False,no_units_cluster_place_ambiguous
+KH0189,3015054,S@8.5,1000,100,[2],False,10,100,False,no_units_cluster_place_ambiguous
+KH0189,3015056,SSSS@15.5,400,40,[1],False,40,40,False,no_units_cluster_place_ambiguous
+KH0189,3015060,SSSSS@15.5,500,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0189,3015061,SSSSS@15,500,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0189,3015062,SS@12.5,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0189,3015063,SS@13.5,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0189,3015080,S@5 | SSSSSSSSS@11.5 | S@18.5,1100,1910,"[1, 2, 3]",False,1910,1910,False,no_units_cluster_place_ambiguous
+KH0189,3015099,SS@11,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0192,3015140,S@20,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0192,3015155,S@18,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0192,3015234,S@15 | L@25.5,108,18,[1],True,18,18,False,other
+KH0192,3015317,SSSSSSS@16.5,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0192,3015318,SSSS@16,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0192,3015319,S@13 | SSSS@16.5,140,1400,"[2, 3]",False,140,1400,False,zero_place_inferred_from_spacing
+KH0192,3015320,SSSSS@17.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0192,3015360,SS@18.5 | L@31,27,207,[2],True,27,207,False,zero_place_inferred_from_spacing
+KH0192,3015422,S@15.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0192,3015424,SS@15,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0192,3015425,S@16,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0192,3015428,S@17.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0192,3015435,SSSS@16,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0192,3015436,S@14.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0192,3015440,SSS@14,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0193,3015687,SS@1.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0194,3015750,SS@6 | L@20,22,202,[2],True,22,202,False,zero_place_inferred_from_spacing
+KH0194,3015756,SSS@0,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0194,3015757,SSSSS@0,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0196,3015795,SSSS@7,4000,400,[2],False,40,400,False,no_units_cluster_place_ambiguous
+KH0196,3015796,S@6 | SSS@13,1300,130,"[1, 2]",False,130,130,False,no_units_cluster_place_ambiguous
+KH0196,3015799,S@4 | SSSSSS@14.5 | L@22.5,1609,169,"[1, 2]",True,169,169,False,other
+KH0196,3015804,S@7,1000,10000,[4],False,10,10000,False,no_units_cluster_place_ambiguous
+KH0196,3015805,S@26 | E@40.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0203,3016029,SSSS@6.5 | L@20.5,48,408,[2],True,48,408,False,zero_place_inferred_from_spacing
+KH0203,3016030,SS@7 | L@20,29,209,[2],True,29,209,False,zero_place_inferred_from_spacing
+KH0203,3016032,SS@6.5 | L@18,25,205,[2],True,25,205,False,zero_place_inferred_from_spacing
+KH0203,3016033,SS@5.5 | L@17,23,203,[2],True,23,203,False,zero_place_inferred_from_spacing
+KH0203,3016034,S@6.5 | L@20,15,105,[2],True,15,105,False,zero_place_inferred_from_spacing
+KH0205,3016118,S@18.5 | SSS@37 | L@56,132,103002,"[3, 5]",True,132,103002,False,zero_place_inferred_from_spacing
+KH0205,3016119,SSSSSS@26 | L@43,67,607,[2],True,67,607,False,zero_place_inferred_from_spacing
+KH0205,3016120,S@11 | L@30,103,1003,[3],True,13,1003,False,other
+KH0207,3016133,SSS@10 | L@28,37,307,[2],True,37,307,False,zero_place_inferred_from_spacing
+KH0207,3016134,SSSS@11,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0207,3016135,S@10 | L@28,18,108,[2],True,18,108,False,zero_place_inferred_from_spacing
+KH0207,3016137,S@11.5 | E@29.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0207,3016138,S@10.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0207,3016140,SS@12 | L@24,28,208,[2],True,28,208,False,zero_place_inferred_from_spacing
+KH0207,3016142,S@12 | L@24.5,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0207,3016149,S@10.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0207,3016156,SS@11.5 | L@23.5,29,209,[2],True,29,209,False,zero_place_inferred_from_spacing
+KH0217,3016198,S@8 | L@21.5,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0217,3016223,SSSSSS@11 | L@27,64,604,[2],True,64,604,False,zero_place_inferred_from_spacing
+KH0217,3016224,SSSS@10.5 | L@26.5,44,404,[2],True,44,404,False,zero_place_inferred_from_spacing
+KH0217,3016225,SSSSS@11 | L@26,55,505,[2],True,55,505,False,zero_place_inferred_from_spacing
+KH0217,3016227,SSSS@11.5 | L@26,46,406,[2],True,46,406,False,zero_place_inferred_from_spacing
+KH0217,3016228,SSSSS@12 | L@27,53,503,[2],True,53,503,False,zero_place_inferred_from_spacing
+KH0217,3016243,SSSS@3 | SSSSSSSS@16 | L@27,489,4089,"[1, 3]",True,489,4089,False,zero_place_inferred_from_spacing
+KH0217,3016251,SSSSSS@6.5,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0217,3016252,SS@1.5 | SSSS@5 | L@21.5,242,2402,"[2, 3]",True,242,2402,False,zero_place_inferred_from_spacing
+KH0217,3016254,SSSS@6,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0217,3016255,SSSSSSSS@6 | L@22,84,804,[2],True,84,804,False,zero_place_inferred_from_spacing
+KH0217,3016256,SS@5.5 | L@22.5,23,203,[2],True,23,203,False,zero_place_inferred_from_spacing
+KH0218,3016286,SSSSSS@7.5,600,60,[1],False,60,60,False,no_units_cluster_place_ambiguous
+KH0218,3016288,S@6.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0218,3016290,SSSSSS@6.5,600,60,[1],False,60,60,False,no_units_cluster_place_ambiguous
+KH0011,3016362,S@0,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0012,3016365,SSSSSS@5 | L@20.5,62,602,[2],True,62,602,False,zero_place_inferred_from_spacing
+KH0012,3016366,SSSS@5 | L@22,44,404,[2],True,44,404,False,zero_place_inferred_from_spacing
+KH0012,3016367,SSSSSS@5 | L@21,64,604,[2],True,64,604,False,zero_place_inferred_from_spacing
+KH0012,3016368,SSSS@5 | L@20,42,402,[2],True,42,402,False,zero_place_inferred_from_spacing
+KH0012,3016369,SS@4 | L@19,25,205,[2],True,25,205,False,zero_place_inferred_from_spacing
+KH0012,3016370,SSSS@6 | L@21,44,404,[2],True,44,404,False,zero_place_inferred_from_spacing
+KH0012,3016371,SSSSS@5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0012,3016372,SS@5 | L@20,25,205,[2],True,25,205,False,zero_place_inferred_from_spacing
+KH0012,3016373,SS@5 | L@21,27,207,[2],True,27,207,False,zero_place_inferred_from_spacing
+KH0073,3016625,S@9.5 | E@23.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0065,3016652,SSSSSS@11,60,600,[2],False,60,60,False,zero_place_inferred_from_spacing
+KH0065,3016653,SSSS@6.5 | SSSSS@11 | S@18,451,4510,"[1, 2, 3]",False,4510,4510,False,no_units_cluster_place_ambiguous
+KH0065,3016654,S@6 | SS@10.5 | S@14.5,121,1210,"[1, 2, 3]",False,1210,1210,False,no_units_cluster_place_ambiguous
+KH0065,3016655,SSSS@6.5 | SS@10 | S@15,421,4210,"[1, 2, 3]",False,4210,4210,False,no_units_cluster_place_ambiguous
+KH0065,3016657,SSSS@6.5 | SSS@10,430,4300,"[2, 3]",False,430,430,False,zero_place_inferred_from_spacing
+KH0065,3016659,S@9.5 | SSSS@15,14,140,"[1, 2]",False,140,140,False,no_units_cluster_place_ambiguous
+KH0065,3016660,SS@7.5 | SS@12.5,22,220,"[1, 2]",False,220,220,False,no_units_cluster_place_ambiguous
+KH0065,3016661,SSSSSS@9.5,60,600,[2],False,60,60,False,zero_place_inferred_from_spacing
+KH0065,3016662,SS@9,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0065,3016663,SS@9,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0065,3016664,SSSS@9,40,400,[2],False,40,40,False,zero_place_inferred_from_spacing
+KH0065,3016665,SSSSS@9,50,500,[2],False,50,50,False,zero_place_inferred_from_spacing
+KH0065,3016666,SS@3.5,200,2000,[3],False,20,200,False,no_units_cluster_place_ambiguous
+KH0065,3016667,SS@10 | SSSSS@16,25,250,"[1, 2]",False,250,250,False,no_units_cluster_place_ambiguous
+KH0065,3016668,SS@7.5 | SSSSS@14.5,25,250,"[1, 2]",False,250,250,False,no_units_cluster_place_ambiguous
+KH0065,3016669,SSSSS@13,5,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0065,3016670,SSSS@13,4,40,[1],False,40,40,False,no_units_cluster_place_ambiguous
+KH0065,3016671,SSSS@4 | SSS@9,430,4300,"[2, 3]",False,430,430,False,zero_place_inferred_from_spacing
+KH0013,3016682,SS@8 | L@21,24,204,[2],True,24,204,False,zero_place_inferred_from_spacing
+KH0013,3016697,S@8 | E@26,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0014,3017041,S@7 | SS@20,120,1020,"[1, 3]",False,120,1020,False,zero_place_inferred_from_spacing
+KH0014,3017054,S@8,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0015,3017093,SSSSS@5 | SSSSSS@13 | SS@20 | SS@26,150,56220,"[1, 2, 3, 4]",False,56220,56220,False,no_units_cluster_place_ambiguous
+KH0015,3017105,S@5 | SS@15 | SSS@32 | S@40,70,120310,"[1, 2, 4, 5]",False,12310,120310,False,no_units_cluster_place_ambiguous
+KH0015,3017107,S@4 | SS@14 | SSSSSSSSSS@31,130,12100,"[1, 3, 4]",False,1300,12100,False,no_units_cluster_place_ambiguous
+KH0015,3017109,S@11 | S@29 | L@39,26,1016,"[1, 3]",True,116,1016,False,other
+KH0015,3017111,SS@4 | S@15 | SSS@35 | S@42,70,210310,"[1, 2, 4, 5]",False,21310,210310,False,no_units_cluster_place_ambiguous
+KH0015,3017112,SSSSSSS@3 | S@11 | S@28 | S@30,100,710110,"[1, 2, 4, 5]",False,71110,710110,False,no_units_cluster_place_ambiguous
+KH0015,3017117,SSSS@3 | SSS@11 | SSS@23 | S@31,110,43310,"[1, 2, 3, 4]",False,43310,43310,False,no_units_cluster_place_ambiguous
+KH0015,3017122,SSS@4.5 | SSSS@20.5 | S@30.5 | S@39.5,90,304110,"[1, 2, 3, 5]",False,34110,304110,False,no_units_cluster_place_ambiguous
+KH0015,3017123,SSSSS@4.5 | SSSSS@14.5 | SSSSS@19.5,150,55500,"[2, 3, 4]",False,5550,55500,False,no_units_cluster_place_ambiguous
+KH0015,3017128,S@7 | S@17 | S@24 | S@28 | SS@42,60,111120,"[1, 2, 3, 4, 5]",False,111120,111120,False,no_units_cluster_place_ambiguous
+KH0017,3017152,E@5,10,1,[],True,1,1,False,other
+KH0017,3017153,L@4.5,30,3,[],True,3,3,False,other
+KH0015,3017156,SS@5 | SSSS@13 | SSS@18 | L@29,96,2436,"[1, 2, 3]",True,2436,2436,False,other
+KH0015,3017157,SS@7 | SS@14 | SS@26 | S@32,70,22210,"[1, 2, 3, 4]",False,22210,220210,False,no_units_cluster_place_ambiguous
+KH0015,3017163,SSSS@6 | SSS@22 | L@32,74,4034,"[1, 3]",True,434,4034,False,other
+KH0015,3017177,SSSSS@4 | SSSSSS@14 | L@29,115,5605,"[2, 3]",True,565,5605,False,other
+KH0015,3017178,SSSS@4 | SSSS@17 | SSSS@26,120,4440,"[1, 2, 3]",False,4440,40440,False,no_units_cluster_place_ambiguous
+KH0018,3017189,SS@8.5,2,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0022,3017306,SSS@5.5 | S@11.5,31,310,"[1, 2]",False,310,310,False,no_units_cluster_place_ambiguous
+KH0022,3017307,S@6.5 | S@13,11,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0022,3017311,S@8 | S@15,11,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0022,3017313,S@7 | S@14.5,11,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0022,3017314,S@6.5 | S@14.5,11,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0022,3017316,S@7.5 | S@14,11,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0022,3017322,S@9.5 | S@16.5,11,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0022,3017323,S@9 | S@16.5,11,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0025,3017358,E@6,10,1,[],True,1,1,False,other
+KH0027,3017364,L@13,1,3,[],True,3,3,False,other
+KH0027,3017388,S@7 | L@18.5,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0028,3017463,S@6 | L@12,104,14,[1],True,14,14,False,other
+KH0028,3017484,SSSS@5 | L@13,406,46,[1],True,46,46,False,other
+KH0028,3017531,S@9,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017558,S@11.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017559,S@12,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017560,S@11.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017561,S@11.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017569,S@11.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017570,S@12,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017574,S@12,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017577,S@13.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017578,S@12,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017579,S@13,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017580,S@12.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017581,S@12.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017582,S@13,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017584,S@13.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017585,S@14.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017586,S@15,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017588,S@10,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017589,S@10.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017590,S@9.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017592,S@9,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017593,S@10,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017597,S@10,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017601,S@11,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017603,S@12,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017605,S@13,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017609,S@11,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017658,S@5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017682,S@8.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017683,S@5.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017685,S@12.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017688,S@4.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0028,3017690,S@11,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0029,3017701,E@2,100,1,[],True,1,1,False,other
+KH0029,3017703,E@5.5,10,1,[],True,1,1,False,other
+KH0029,3017704,E@4.5,10,1,[],True,1,1,False,other
+KH0029,3017721,E@4,10,1,[],True,1,1,False,other
+KH0029,3017722,E@6,10,1,[],True,1,1,False,other
+KH0029,3017723,L@5.5,20,2,[],True,2,2,False,other
+KH0029,3017724,L@5.5,20,2,[],True,2,2,False,other
+KH0029,3017725,E@4,10,1,[],True,1,1,False,other
+KH0030,3017734,S@19,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0030,3017740,L@14.5,40,4,[],True,4,4,False,other
+KH0030,3017741,L@13.5,40,4,[],True,4,4,False,other
+KH0030,3017742,L@13.5,30,3,[],True,3,3,False,other
+KH0030,3017743,L@14.5,60,6,[],True,6,6,False,other
+KH0030,3017755,L@11,30,3,[],True,3,3,False,other
+KH0030,3017759,SSS@7.5 | L@17.5,304,34,[1],True,34,34,False,other
+KH0030,3017772,L@9.5,200,2,[],True,2,2,False,other
+KH0030,3017776,L@14,30,3,[],True,3,3,False,other
+KH0030,3017779,L@11,30,3,[],True,3,3,False,other
+KH0030,3017780,S@10,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0031,3017822,SSSSSS@8,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0052,3018065,SSS@4.5,300,30,[1],False,30,30,False,no_units_cluster_place_ambiguous
+KH0052,3018090,S@2,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0052,3018098,S@2.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0053,3018119,S@10 | SS@17 | L@28.5,124,1204,"[2, 3]",True,124,1204,False,zero_place_inferred_from_spacing
+KH0053,3018124,SSS@8.5,300,30,[1],False,30,30,False,no_units_cluster_place_ambiguous
+KH0053,3018131,S@8 | L@16.5,104,14,[1],True,14,14,False,other
+KH0053,3018132,SS@6.5 | L@16,208,28,[1],True,28,28,False,other
+KH0056,3018188,SSS@8 | SSS@9.5,60,330,"[1, 2]",False,330,330,False,no_units_cluster_place_ambiguous
+KH0050,3018216,S@7,7,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0050,3018220,SSSSSS@7.5,6,60,[1],False,60,60,False,no_units_cluster_place_ambiguous
+KH0050,3018231,SSSSS@8.5,5,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0050,3018235,S@3,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0050,3018241,SS@5.5,2,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0050,3018247,S@4 | S@8.5,11,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0062,3018268,SSS@7 | L@17.5,38,308,[2],True,38,38,False,zero_place_inferred_from_spacing
+KH0062,3018278,SSS@3.5 | L@21.5,305,3005,[3],True,35,305,False,other
+KH0062,3018290,SS@2,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0089,3018317,SSSSS@13.5 | L@21.5,8,53,[1],True,53,53,False,other
+KH0093,3018352,S@10.5 | L@17.5,170,17,[1],True,17,17,False,other
+KH0093,3018353,L@17.5,70,7,[],True,7,7,False,other
+KH0093,3018355,L@16.5,50,5,[],True,5,5,False,other
+KH0093,3018357,E@16.5,10,1,[],True,1,1,False,other
+KH0093,3018365,S@6 | L@18.5,16,106,[2],True,16,106,False,zero_place_inferred_from_spacing
+KH0093,3018369,E@15.5,10,1,[],True,1,1,False,other
+KH0093,3018370,L@16,60,6,[],True,6,6,False,other
+KH0093,3018371,E@16,10,1,[],True,1,1,False,other
+KH0093,3018372,L@15,20,2,[],True,2,2,False,other
+KH0093,3018373,L@14.5,30,3,[],True,3,3,False,other
+KH0093,3018374,E@14.5,10,1,[],True,1,1,False,other
+KH0074,3018394,SSS@10 | L@21.5,36,306,[2],True,36,306,False,zero_place_inferred_from_spacing
+KH0074,3018396,SSSSS@7.5 | L@20,54,504,[2],True,54,504,False,zero_place_inferred_from_spacing
+KH0094,3018449,L@0,0,3,[],True,3,3,False,other
+KH0094,3018450,L@0,0,8,[],True,8,8,False,other
+KH0099,3018508,SS@9,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0099,3018509,SSSS@9 | L@17.5,45,405,[2],True,45,405,False,zero_place_inferred_from_spacing
+KH0099,3018514,S@9,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0099,3018517,SS@7.5 | L@17.5,22,202,[2],True,22,202,False,zero_place_inferred_from_spacing
+KH0099,3018518,S@7.5 | E@17,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0099,3018520,SSSSSSS@8,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0099,3018521,SS@3 | SSSSSSS@8,270,2700,"[2, 3]",False,270,2700,False,zero_place_inferred_from_spacing
+KH0099,3018522,SS@3 | SSSSSS@8.5,260,2600,"[2, 3]",False,260,2600,False,zero_place_inferred_from_spacing
+KH0099,3018525,SSS@3 | SSSS@8,340,3400,"[2, 3]",False,340,3400,False,zero_place_inferred_from_spacing
+KH0099,3018526,S@8,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0099,3018529,SSSSS@9,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0099,3018539,S@9,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0099,3018540,SS@3.5,200,2000,[3],False,20,2000,False,no_units_cluster_place_ambiguous
+KH0099,3018544,SSSSS@7.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0099,3018545,SS@3.5 | SSSS@7.5,240,2400,"[2, 3]",False,240,2400,False,zero_place_inferred_from_spacing
+KH0099,3018546,SS@3.5 | SSSS@7.5,240,2400,"[2, 3]",False,240,2400,False,zero_place_inferred_from_spacing
+KH0099,3018547,SSS@3.5 | SSSS@8,340,3400,"[2, 3]",False,340,3400,False,zero_place_inferred_from_spacing
+KH0099,3018548,S@7,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0099,3018552,SSSS@7.5 | L@19.5,46,406,[2],True,46,406,False,zero_place_inferred_from_spacing
+KH0103,3018799,L@7,20,2,[],True,2,2,False,other
+KH0103,3018842,L@10.5,30,3,[],True,3,3,False,other
+KH0103,3018843,L@10,40,4,[],True,4,4,False,other
+KH0103,3018844,L@9,40,4,[],True,4,4,False,other
+KH0103,3018845,L@9.5,40,4,[],True,4,4,False,other
+KH0103,3018846,L@9,30,3,[],True,3,3,False,other
+KH0103,3018847,L@8,50,5,[],True,5,5,False,other
+KH0103,3018848,L@9,50,5,[],True,5,5,False,other
+KH0103,3018849,L@8.5,20,2,[],True,2,2,False,other
+KH0103,3018850,L@8,40,4,[],True,4,4,False,other
+KH0103,3018851,L@8.5,40,4,[],True,4,4,False,other
+KH0103,3018852,L@8,40,4,[],True,4,4,False,other
+KH0103,3018853,L@8,20,2,[],True,2,2,False,other
+KH0103,3018854,L@8.5,30,3,[],True,3,3,False,other
+KH0047,3018920,SSSSSSSS@7 | L@16.5,88,808,[2],True,88,88,False,zero_place_inferred_from_spacing
+KH0047,3018931,S@6 | L@14,14,104,[2],True,14,14,False,zero_place_inferred_from_spacing
+KH0047,3018933,SS@7 | L@16,22,202,[2],True,22,22,False,zero_place_inferred_from_spacing
+KH0048,3019064,SS@5.5,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0048,3019065,S@5.5 | L@13,19,109,[2],True,19,19,False,zero_place_inferred_from_spacing
+KH0279,3019215,SS@8.5 | L@19,28,208,[2],True,28,28,False,zero_place_inferred_from_spacing
+KH0279,3019286,SSS@5.5 | L@20.5,37,307,[2],True,37,307,False,zero_place_inferred_from_spacing
+KH0279,3019300,SS@7.5 | L@18,28,208,[2],True,28,208,False,zero_place_inferred_from_spacing
+KH0279,3019301,S@7,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0279,3019311,S@8.5 | E@21.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0279,3019318,S@8.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0279,3019336,SSSS@7.5 | L@20,45,405,[2],True,45,405,False,zero_place_inferred_from_spacing
+KH0279,3019341,S@6 | L@19,14,104,[2],True,14,104,False,zero_place_inferred_from_spacing
+KH0279,3019347,SS@7.5 | L@20.5,26,206,[2],True,26,206,False,zero_place_inferred_from_spacing
+KH0279,3019394,SSSS@6 | SSS@11,43,430,"[1, 2]",False,430,430,False,no_units_cluster_place_ambiguous
+KH0279,3019403,SSSS@8.5 | L@19.5,47,407,[2],True,47,407,False,zero_place_inferred_from_spacing
+KH0279,3019413,SSS@6.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0279,3019415,SSSSS@7,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0279,3019416,SS@8,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0279,3019417,SS@7.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0279,3019424,SSSSS@14 | L@24.5,53,503,[2],True,53,53,False,zero_place_inferred_from_spacing
+KH0279,3019432,S@12.5 | L@23.5,15,105,[2],True,15,105,False,zero_place_inferred_from_spacing
+KH0279,3019439,SS@11 | L@32.5,25,2005,[3],True,25,2005,False,zero_place_inferred_from_spacing
+KH0279,3019452,SSS@2.5 | L@19.5,36,306,[2],True,36,306,False,zero_place_inferred_from_spacing
+KH0279,3019480,S@1.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0279,3019484,S@4,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0279,3019499,SSSS@4,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0279,3019508,S@9 | L@21.5,15,105,[2],True,15,105,False,zero_place_inferred_from_spacing
+KH0279,3019509,S@3.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0279,3019515,SS@3,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0279,3019522,SS@4.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0278,3019529,S@6 | L@21.5,12,102,[2],True,12,102,False,zero_place_inferred_from_spacing
+KH0278,3019543,S@8 | L@19.5,15,105,[2],True,15,105,False,zero_place_inferred_from_spacing
+KH0278,3019571,SS@10 | L@23.5,22,202,[2],True,22,202,False,zero_place_inferred_from_spacing
+KH0278,3019578,SSSS@6 | L@19.5,48,408,[2],True,48,408,False,zero_place_inferred_from_spacing
+KH0278,3019580,SSSSSS@5 | L@16.5,67,607,[2],True,67,607,False,zero_place_inferred_from_spacing
+KH0278,3019582,SS@5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0277,3019595,SSSSSS@10,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0277,3019607,S@13.5 | L@29,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0277,3019629,S@12 | SS@29,120,1020,"[1, 3]",False,120,1020,False,zero_place_inferred_from_spacing
+KH0276,3019644,SS@7.5 | L@24,25,205,[2],True,25,205,False,zero_place_inferred_from_spacing
+KH0299,3019732,S@5.5 | SS@11.5 | L@24,125,1205,"[2, 3]",True,125,1205,False,zero_place_inferred_from_spacing
+KH0299,3019749,S@5.5 | SSSSSSS@10 | L@23.5,173,1703,"[2, 3]",True,173,1703,False,zero_place_inferred_from_spacing
+KH0314,3019753,S@5.5,1000,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0298,3019834,S@10.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0298,3019836,SSSSSS@7.5 | L@17,66,606,[2],True,66,66,False,zero_place_inferred_from_spacing
+KH0298,3019838,SSSSSSS@7 | L@16,74,704,[2],True,74,74,False,zero_place_inferred_from_spacing
+KH0298,3019839,SSSSSSSSS@7 | E@16.5,91,901,[2],True,91,91,False,zero_place_inferred_from_spacing
+KH0298,3019842,SSS@10.5 | L@20.5,38,308,[2],True,38,38,False,zero_place_inferred_from_spacing
+KH0298,3019843,SSS@9.5 | L@38.5,34,300004,[5],True,34,30004,False,zero_place_inferred_from_spacing
+KH0309,3019933,S@4.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0310,3019987,S@7 | E@18.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0310,3020038,S@3.5 | SSSS@9 | L@20.5,147,1407,"[2, 3]",True,147,1407,False,zero_place_inferred_from_spacing
+KH0311,3020061,E@10,10,1,[],True,1,1,False,other
+KH0300,3020283,S@4 | SS@10.5 | L@21.5,127,1207,"[2, 3]",True,127,127,False,zero_place_inferred_from_spacing
+KH0300,3020284,S@11 | L@22,12,102,[2],True,12,12,False,zero_place_inferred_from_spacing
+KH0300,3020335,S@7 | E@15.5,12,11,[1],True,11,11,False,other
+KH0300,3020342,E@18.5,2,1,[],True,1,1,False,other
+KH0305,3020520,S@13.5 | L@21,13,103,[2],True,13,13,False,zero_place_inferred_from_spacing
+KH0284,3020764,SSSSS@1.5 | L@14,53,503,[2],True,53,503,False,zero_place_inferred_from_spacing
+KH0285,3020819,SSSS@7.5 | E@22,42,41,[1],True,41,41,False,other
+KH0324,3021061,SSSS@9.5 | L@22.5,47,407,[2],True,47,47,False,zero_place_inferred_from_spacing
+KH0324,3021074,S@10 | E@22,11,101,[2],True,11,11,False,zero_place_inferred_from_spacing
+KH0324,3021105,S@3 | SSSSSS@10 | L@23,162,1602,"[2, 3]",True,162,162,False,zero_place_inferred_from_spacing
+KH0324,3021107,S@10.5 | L@23.5,15,105,[2],True,15,15,False,zero_place_inferred_from_spacing
+KH0324,3021114,SS@3.5 | E@16.5,21,201,[2],True,21,201,False,zero_place_inferred_from_spacing
+KH0323,3021362,S@15,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0323,3021368,S@8 | L@25,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0326,3021720,S@8 | L@16,105,15,[1],True,15,15,False,other
+KH0326,3021722,S@8.5 | L@18,102,12,[1],True,12,12,False,other
+KH0326,3021724,S@8.5 | L@18,106,16,[1],True,16,16,False,other
+KH0326,3021726,SS@7.5 | L@16.5,202,22,[1],True,22,22,False,other
+KH0326,3021728,S@7 | L@17.5,106,16,[1],True,16,16,False,other
+KH0326,3021729,S@7 | L@17.5,106,16,[1],True,16,16,False,other
+KH0326,3021732,SS@8 | L@20,208,28,[1],True,28,28,False,other
+KH0326,3021734,SSS@8 | L@18.5,302,32,[1],True,32,32,False,other
+KH0326,3021736,S@8,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0326,3021738,SSS@6.5 | L@20,304,34,[1],True,34,34,False,other
+KH0326,3021740,SSSS@7 | E@19,401,41,[1],True,41,41,False,other
+KH0326,3021741,S@6.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0326,3021742,S@7 | L@19,106,16,[1],True,16,16,False,other
+KH0326,3021744,SSS@7.5 | L@20,308,38,[1],True,38,38,False,other
+KH0326,3021746,SSSS@7 | E@20,401,41,[1],True,41,41,False,other
+KH0326,3021747,S@8 | L@20.5,106,16,[1],True,16,16,False,other
+KH0326,3021748,S@8 | E@23,101,11,[1],True,11,11,False,other
+KH0326,3021751,SSSS@7 | L@22,406,46,[1],True,46,46,False,other
+KH0326,3021753,SSSSSS@7.5 | L@24,607,67,[1],True,67,67,False,other
+KH0326,3021754,S@7.5 | E@22,101,11,[1],True,11,11,False,other
+KH0326,3021755,SS@7 | L@21,203,23,[1],True,23,23,False,other
+KH0326,3021756,S@5 | SSSSSSS@13.5 | L@36,172,1702,"[2, 3]",True,172,1702,False,zero_place_inferred_from_spacing
+KH0326,3021758,SSSSS@7.5 | L@21.5,502,52,[1],True,52,52,False,other
+KH0326,3021760,SSSSSSS@7 | L@19,708,78,[1],True,78,78,False,other
+KH0326,3021761,S@8 | L@23,103,13,[1],True,13,13,False,other
+KH0326,3021762,S@8.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0326,3021764,SSSSS@8 | L@16,509,59,[1],True,59,59,False,other
+KH0326,3021766,SSSSSSSS@8 | L@21.5,805,85,[1],True,85,805,False,other
+KH0326,3021767,S@9,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0326,3021768,S@8,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0326,3021770,SS@8 | L@21,208,28,[1],True,28,208,False,other
+KH0326,3021772,S@4.5 | L@20.5,109,19,[1],True,19,109,False,other
+KH0326,3021773,S@6.5 | E@20,101,11,[1],True,11,101,False,other
+KH0326,3021774,S@7.5 | L@21.5,104,14,[1],True,14,104,False,other
+KH0326,3021776,SSSSSS@7 | L@22.5,603,63,[1],True,63,63,False,other
+KH0326,3021777,S@8,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0326,3021782,SSSSSSS@6.5 | L@21.5,703,73,[1],True,73,73,False,other
+KH0326,3021784,S@8.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0326,3021788,SSSSSSSS@8.5 | L@19,802,82,[1],True,82,82,False,other
+KH0326,3021789,S@8,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0326,3021790,S@8.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0326,3021794,SSSSSSSSS@8,900,90,[1],False,90,90,False,no_units_cluster_place_ambiguous
+KH0326,3021795,S@8.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0326,3021796,S@8 | L@22.5,102,12,[1],True,12,12,False,other
+KH0326,3021798,S@8.5 | L@20,104,14,[1],True,14,14,False,other
+KH0326,3021800,S@4.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0326,3021801,S@8.5 | L@22.5,102,12,[1],True,12,12,False,other
+KH0326,3021802,S@8 | L@22,107,17,[1],True,17,17,False,other
+KH0326,3021804,SS@8.5 | L@20,202,22,[1],True,22,22,False,other
+KH0326,3021805,S@8.5 | L@20.5,102,12,[1],True,12,12,False,other
+KH0326,3021807,S@8 | L@21,102,12,[1],True,12,12,False,other
+KH0326,3021808,S@8 | L@22.5,107,17,[1],True,17,17,False,other
+KH0326,3021810,SSS@6 | L@17.5,304,34,[1],True,34,34,False,other
+KH0326,3021811,S@8 | L@18.5,105,15,[1],True,15,15,False,other
+KH0326,3021812,S@3 | L@18.5,105,15,[1],True,15,15,False,other
+KH0326,3021813,S@7.5 | L@19.5,104,14,[1],True,14,14,False,other
+KH0326,3021814,S@7.5 | L@19,105,15,[1],True,15,15,False,other
+KH0326,3021816,S@5.5 | L@18,103,13,[1],True,13,13,False,other
+KH0326,3021818,S@2.5 | S@5.5 | L@18,206,116,"[1, 2]",True,116,116,False,other
+KH0326,3021819,S@5.5 | L@18.5,105,15,[1],True,15,15,False,other
+KH0326,3021820,S@5.5 | L@18,109,19,[1],True,19,19,False,other
+KH0326,3021822,SSS@6 | L@17.5,302,32,[1],True,32,32,False,other
+KH0326,3021824,S@3 | S@6.5 | L@17.5,209,119,"[1, 2]",True,119,119,False,other
+KH0326,3021825,S@6.5 | L@17,107,17,[1],True,17,17,False,other
+KH0326,3021826,S@6.5 | L@16.5,109,19,[1],True,19,19,False,other
+KH0326,3021835,S@39.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0326,3021840,S@36,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0325,3021981,S@7,0,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0325,3021993,SSSS@8 | L@27,46,406,[2],True,46,4006,False,zero_place_inferred_from_spacing
+KH0325,3021999,SSSS@8.5 | L@29.5,46,406,[2],True,46,4006,False,zero_place_inferred_from_spacing
+KH0325,3022005,SSSS@7 | L@26,45,405,[2],True,45,4005,False,zero_place_inferred_from_spacing
+KH0325,3022011,SSSSS@7.5 | L@25,52,502,[2],True,52,502,False,zero_place_inferred_from_spacing
+KH0325,3022035,S@7.5,60,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0266,3022156,S@2 | S@3 | S@18.5 | S@24,11110,110110,"[1, 2, 4, 5]",False,11110,110110,False,zero_place_inferred_from_spacing
+KH0270,3022166,SS@15.5,0,200,[2],False,20,200,False,no_units_cluster_place_ambiguous
+KH0270,3022171,S@5 | SSSSSSS@23.5 | E@30.5,171,1071,"[1, 3]",True,171,1071,False,zero_place_inferred_from_spacing
+KH0270,3022174,S@8 | L@25.5,14,104,[2],True,14,104,False,zero_place_inferred_from_spacing
+KH0083,3022245,SS@6 | L@18.5,23,203,[2],True,23,203,False,zero_place_inferred_from_spacing
+KH0083,3022356,S@4 | L@16,15,105,[2],True,15,105,False,zero_place_inferred_from_spacing
+KH0083,3022402,E@16.5,0,1,[],True,1,1,False,other
+KH0083,3022659,S@2.5 | L@15.5,16,106,[2],True,16,106,False,zero_place_inferred_from_spacing
+KH0321,3022809,SSSSSS@18.5 | L@34.5,69,609,[2],True,69,609,False,zero_place_inferred_from_spacing
+KH0321,3022812,S@17.5 | L@35,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0321,3022828,SS@17 | L@36.5,22,202,[2],True,22,202,False,zero_place_inferred_from_spacing
+KH0321,3022839,S@8.5 | SSSSSSS@15 | E@31.5,171,1701,"[2, 3]",True,171,1701,False,zero_place_inferred_from_spacing
+KH0321,3022846,S@16,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0321,3022858,S@8.5 | SSSSSSS@23.5 | L@33,177,1077,"[1, 3]",True,177,1077,False,zero_place_inferred_from_spacing
+KH0321,3022878,S@16 | L@32,16,106,[2],True,16,106,False,zero_place_inferred_from_spacing
+KH0321,3022897,S@16 | L@35,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0321,3022910,S@15 | L@32.5,15,105,[2],True,15,105,False,zero_place_inferred_from_spacing
+KH0321,3022913,S@14 | L@32,19,109,[2],True,19,109,False,zero_place_inferred_from_spacing
+KH0321,3022914,S@7 | SSSSSSSSS@20.5,190,1090,"[1, 3]",False,190,190,False,zero_place_inferred_from_spacing
+KH0321,3022916,S@14 | L@30,14,104,[2],True,14,104,False,zero_place_inferred_from_spacing
+KH0321,3022931,S@14.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0321,3022941,SS@13 | L@31,22,202,[2],True,22,202,False,zero_place_inferred_from_spacing
+KH0083,3023173,SS@9 | E@15,20,21,[1],True,21,21,False,other
+KH0083,3023241,S@1.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0353,3023322,SS@6.5 | L@18,22,202,[2],True,22,202,False,zero_place_inferred_from_spacing
+KH0352,3023399,S@3 | L@18.5,15,105,[2],True,15,105,False,zero_place_inferred_from_spacing
+KH0352,3023438,SS@7.5 | L@20,25,205,[2],True,25,205,False,zero_place_inferred_from_spacing
+KH0350,3023610,S@7 | L@17,19,12,[1],True,12,12,False,other
+KH0350,3023748,S@6.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0350,3023777,S@16,0,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0356,3023812,S@1.5 | E@21,11,1001,[3],True,11,1001,False,zero_place_inferred_from_spacing
+KH0349,3023860,S@4.5 | SSSSSSSSSSSSSS@17,150,1140,"[1, 3]",False,240,1140,False,no_units_cluster_place_ambiguous
+KH0349,3023893,S@5.5 | E@17,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0349,3023910,S@4.5 | L@15,17,107,[2],True,17,17,False,zero_place_inferred_from_spacing
+KH0349,3024008,S@5 | L@14,14,104,[2],True,14,14,False,zero_place_inferred_from_spacing
+KH0349,3024009,S@5 | L@15,13,103,[2],True,13,13,False,zero_place_inferred_from_spacing
+KH0349,3024016,S@4.5 | L@14.5,14,104,[2],True,14,14,False,zero_place_inferred_from_spacing
+KH0349,3024255,S@4.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0349,3024276,S@5.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0349,3024279,S@3,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0349,3024293,S@2,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0349,3024498,S@3,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0349,3024499,S@2.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0349,3024501,S@3,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0349,3024536,S@2,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0349,3024547,S@2,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0349,3024562,SSSSS@0.5,50,500,[2],False,50,50,False,zero_place_inferred_from_spacing
+KH0358,3024783,S@3.5 | SSSSSSSSS@10 | L@18.5,102,192,"[1, 2]",True,192,192,False,other
+KH0358,3024807,S@5 | SSSSSSSSS@10,100,190,"[1, 2]",False,190,190,False,no_units_cluster_place_ambiguous
+KH0358,3024870,SS@3 | L@14.5,29,209,[2],True,29,209,False,zero_place_inferred_from_spacing
+KH0358,3024873,SSSSS@3 | L@13.5,504,54,[1],True,54,54,False,other
+KH0358,3024889,SSSS@2 | SSSSSSSSS@5 | L@17.5,497,4907,"[2, 3]",True,497,4907,False,zero_place_inferred_from_spacing
+KH0358,3024902,SS@7.5 | L@18.5,22,202,[2],True,22,22,False,zero_place_inferred_from_spacing
+KH0358,3024905,S@3.5 | SSSS@7 | L@18.5,143,1403,"[2, 3]",True,143,1403,False,zero_place_inferred_from_spacing
+KH0358,3024964,SSSSS@1,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0358,3025013,SS@2,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0358,3025062,SS@1,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0294,3025295,SS@6 | SSSSSS@10,80,260,"[1, 2]",False,260,260,False,no_units_cluster_place_ambiguous
+KH0294,3025308,SSSSSSS@4,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0294,3025311,S@4,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0294,3025349,S@1,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0294,3025371,S@1.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0294,3025379,SSSS@5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0294,3025394,S@1.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0294,3025418,S@1,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0294,3025430,S@5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0294,3025432,SSS@5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0294,3025437,SSSSSS@5 | SS@9,80,620,"[1, 2]",False,620,620,False,no_units_cluster_place_ambiguous
+KH0294,3025453,SS@2 | S@6,30,210,"[1, 2]",False,210,210,False,no_units_cluster_place_ambiguous
+KH0294,3025492,SSSS@6,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0295,3025560,SSS@6,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0295,3025562,SSSSSSS@4,70,700,[2],False,70,70,False,zero_place_inferred_from_spacing
+KH0295,3025565,SSS@3,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0295,3025572,SSSSSS@4,60,600,[2],False,60,60,False,zero_place_inferred_from_spacing
+KH0295,3025574,S@4.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0295,3025576,SSS@4,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0295,3025578,SSS@3.5,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0295,3025585,SSS@4 | SSS@9,60,330,"[1, 2]",False,330,330,False,no_units_cluster_place_ambiguous
+KH0295,3025587,SS@4.5,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0295,3025588,SSSS@5,40,400,[2],False,40,40,False,zero_place_inferred_from_spacing
+KH0295,3025592,S@4.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0295,3025593,SS@4,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0295,3025602,SSS@3.5,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0295,3025606,SS@4,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0295,3025612,SS@4,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0295,3025614,S@0.5 | SSSSSSSS@4,90,1800,"[2, 3]",False,180,1800,False,no_units_cluster_place_ambiguous
+KH0295,3025617,SS@4.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0295,3025619,SSSSSSS@4,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0295,3025622,SS@3.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0295,3025624,SSSSSSS@3.5,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0295,3025631,SS@5,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0295,3025633,SSS@4,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0295,3025637,SSS@5 | SSSS@10,70,340,"[1, 2]",False,340,340,False,no_units_cluster_place_ambiguous
+KH0295,3025642,SS@4,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0295,3025644,SSSSSSS@3.5,70,700,[2],False,70,70,False,zero_place_inferred_from_spacing
+KH0295,3025645,SSS@4,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0295,3025649,SSSSSSS@2,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0295,3025653,SSS@4.5,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0295,3025666,SSS@3,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0295,3025673,SS@3,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0295,3025680,SSSSS@2,50,500,[2],False,50,50,False,zero_place_inferred_from_spacing
+KH0295,3025686,SS@2.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0295,3025707,SSSSS@3,50,500,[2],False,50,50,False,zero_place_inferred_from_spacing
+KH0295,3025713,SS@3,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0295,3025722,S@3 | SSSSSSSS@8 | E@15,91,181,"[1, 2]",True,181,181,False,other
+KH0295,3025725,SSS@2 | SSS@7.5 | L@13,66,336,"[1, 2]",True,336,336,False,other
+KH0370,3025782,SS@4.5 | SSSSS@15 | L@23,258,2058,"[1, 3]",True,258,258,False,zero_place_inferred_from_spacing
+KH0370,3025790,S@4 | S@15,110,1010,"[1, 3]",False,110,110,False,zero_place_inferred_from_spacing
+KH0370,3025804,S@11.5 | L@22,12,102,[2],True,12,12,False,zero_place_inferred_from_spacing
+KH0370,3025824,S@4.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0370,3025829,S@0.5 | S@11,110,1010,"[1, 3]",False,110,110,False,zero_place_inferred_from_spacing
+KH0370,3025837,SSSSSSSS@8 | L@18.5,83,803,[2],True,83,83,False,zero_place_inferred_from_spacing
+KH0370,3025842,SSS@6,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0370,3025851,SSSSS@5.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0370,3025852,S@0.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0370,3025853,SSSSSSSS@5.5,80,800,[2],False,80,800,False,zero_place_inferred_from_spacing
+KH0370,3025855,S@0.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0371,3025883,SSSSSSSS@5.5,80,800,[2],False,80,800,False,zero_place_inferred_from_spacing
+KH0371,3025897,S@12.5 | L@23,13,103,[2],True,13,13,False,zero_place_inferred_from_spacing
+KH0371,3025901,S@11,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0371,3025923,S@0.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0371,3025924,S@5 | L@17,18,108,[2],True,18,108,False,zero_place_inferred_from_spacing
+KH0371,3025925,SSSSS@6,50,500,[2],False,50,50,False,zero_place_inferred_from_spacing
+KH0371,3025931,S@0.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0371,3025948,SSSS@13.5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0371,3025949,S@17.5 | E@29,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0371,3025955,S@4 | L@15,14,104,[2],True,14,14,False,zero_place_inferred_from_spacing
+KH0372,3025968,SSSS@6.5,400,40,[1],False,40,40,False,no_units_cluster_place_ambiguous
+KH0372,3025972,S@5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0372,3025974,SSSSS@5.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0372,3025979,SSS@6,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0372,3025998,S@5 | E@19.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0372,3026011,SSS@2,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0372,3026021,S@4.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0372,3026029,SSSSSSSSS@6.5 | S@10 | L@13,194,914,"[1, 2]",True,914,914,False,other
+KH0372,3026033,S@5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0372,3026036,SSS@4.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0372,3026042,S@4,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0262,3026074,E@9,0,1,[],True,1,1,False,other
+KH0100,3026342,SSSSSS@14 | E@30.5,61,601,[2],True,61,601,False,zero_place_inferred_from_spacing
+KH0100,3026362,S@23 | L@36.5,12,102,[2],True,12,102,False,zero_place_inferred_from_spacing
+KH0100,3026387,S@13 | SS@27,120,1020,"[1, 3]",False,120,1020,False,zero_place_inferred_from_spacing
+KH0100,3026393,SSS@16.5 | S@29.5,310,3010,"[1, 3]",False,310,3010,False,zero_place_inferred_from_spacing
+KH0104,3026426,SS@15,0,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0101,3026516,S@7 | S@14.5,110,1100,"[2, 3]",False,110,1100,False,zero_place_inferred_from_spacing
+KH0101,3026517,SS@14 | L@27.5,24,204,[2],True,24,204,False,zero_place_inferred_from_spacing
+KH0101,3026518,S@14.5 | L@28,14,104,[2],True,14,104,False,zero_place_inferred_from_spacing
+KH0101,3026519,SS@13.5 | L@27,22,202,[2],True,22,202,False,zero_place_inferred_from_spacing
+KH0101,3026521,S@13.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0101,3026525,S@14,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0101,3026529,S@14,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0101,3026533,S@14,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0101,3026545,S@12.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0101,3026549,S@12,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0101,3026553,S@12,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0101,3026557,S@12.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0101,3026565,SS@7.5 | L@21,24,204,[2],True,24,204,False,zero_place_inferred_from_spacing
+KH0101,3026566,SS@7.5 | L@19.5,27,207,[2],True,27,207,False,zero_place_inferred_from_spacing
+KH0101,3026567,S@7 | L@19.5,14,104,[2],True,14,104,False,zero_place_inferred_from_spacing
+KH0101,3026608,S@7,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0108,3026624,S@13 | L@19,18,108,[2],True,18,18,False,zero_place_inferred_from_spacing
+KH0108,3026711,S@17 | E@23,11,101,[2],True,11,11,False,zero_place_inferred_from_spacing
+KH0108,3026712,S@13 | E@19.5,11,101,[2],True,11,11,False,zero_place_inferred_from_spacing
+KH0108,3026731,S@10,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0108,3026746,SSS@19.5 | L@27,33,303,[2],True,33,33,False,zero_place_inferred_from_spacing
+KH0108,3026780,S@13.5 | S@25,110,10010,"[1, 4]",False,110,1010,False,zero_place_inferred_from_spacing
+KH0108,3026800,S@7,10,100000,[5],False,10,1000,False,zero_place_inferred_from_spacing
+KH0108,3026809,S@13 | SS@21.5 | SSS@24,1230,10230,"[1, 2, 4]",False,1230,1230,False,zero_place_inferred_from_spacing
+KH0109,3026879,S@4.5 | E@11,10,11,[1],True,11,11,False,other
+KH0369,3026909,S@2.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0373,3027058,SSSS@3,400,40,[1],False,40,40,False,no_units_cluster_place_ambiguous
+KH0373,3027074,SS@2,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0373,3027086,SS@2,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0268,3027098,SSSSSS@4,600,60,[1],False,60,60,False,no_units_cluster_place_ambiguous
+KH0268,3027100,SS@4,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0268,3027102,SS@4,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0268,3027104,SS@4.5,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0268,3027106,S@4.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0268,3027108,SSSSS@4,500,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0268,3027110,SSSSSSSS@4.5,800,80,[1],False,80,80,False,no_units_cluster_place_ambiguous
+KH0320,3027118,SS@2.5,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0320,3027121,SS@4.5,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0320,3027122,S@5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0320,3027124,SSSSS@2.5,500,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0320,3027132,SSS@1,300,30,[1],False,30,30,False,no_units_cluster_place_ambiguous
+KH0360,3027139,S@6 | L@15,13,103,[2],True,13,13,False,zero_place_inferred_from_spacing
+KH0360,3027143,SSSS@6,40,400,[2],False,40,40,False,zero_place_inferred_from_spacing
+KH0360,3027144,SSS@5,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0360,3027146,SSS@1.5 | S@5.5,310,3100,"[2, 3]",False,310,310,False,zero_place_inferred_from_spacing
+KH0360,3027153,SS@5,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0360,3027154,SSS@10.5 | L@24.5,38,3008,[3],True,38,308,False,zero_place_inferred_from_spacing
+KH0360,3027155,SS@11,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0360,3027156,S@11 | L@24,16,1006,[3],True,16,106,False,zero_place_inferred_from_spacing
+KH0360,3027157,SSS@10.5 | E@22,31,301,[2],True,31,301,False,zero_place_inferred_from_spacing
+KH0360,3027158,SS@10 | L@21,27,207,[2],True,27,27,False,zero_place_inferred_from_spacing
+KH0360,3027159,SS@9.5 | L@20.5,26,206,[2],True,26,26,False,zero_place_inferred_from_spacing
+KH0360,3027160,S@10.5 | L@21,16,106,[2],True,16,16,False,zero_place_inferred_from_spacing
+KH0360,3027161,S@10 | L@21.5,15,105,[2],True,15,105,False,zero_place_inferred_from_spacing
+KH0360,3027186,SSS@1.5 | SSS@3 | SSS@5 | SSS@7,120,333300,"[2, 3, 4, 5]",False,33330,33330,False,no_units_cluster_place_ambiguous
+KH0360,3027187,SSS@2 | SSS@3.5 | SSS@5.5 | SSS@8,120,33330,"[1, 2, 3, 4]",False,33330,33330,False,no_units_cluster_place_ambiguous
+KH0360,3027202,S@6.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0360,3027203,SS@6,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0329,3027362,SSSSSSS@18.5 | L@30,73,703,[2],True,73,703,False,zero_place_inferred_from_spacing
+KH0361,3028293,S@9.5,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0362,3028326,S@2,100,10000,[4],False,10,10000,False,no_units_cluster_place_ambiguous
+KH0362,3028327,SSS@7 | SSS@20.5 | L@27,333,3033,"[1, 3]",True,333,3033,False,zero_place_inferred_from_spacing
+KH0362,3028329,S@7 | SSSS@13,140,1400,"[2, 3]",False,140,1400,False,zero_place_inferred_from_spacing
+KH0362,3028330,SS@7,200,2000,[3],False,20,2000,False,no_units_cluster_place_ambiguous
+KH0362,3028331,SS@7 | SSSSSSS@13.5,270,2700,"[2, 3]",False,270,2700,False,zero_place_inferred_from_spacing
+KH0362,3028334,SS@7.5 | S@13.5,210,2100,"[2, 3]",False,210,2100,False,zero_place_inferred_from_spacing
+KH0362,3028355,S@5 | SSSSS@11.5 | S@17,151,1510,"[1, 2, 3]",False,1510,1510,False,no_units_cluster_place_ambiguous
+KH0362,3028356,S@4.5 | SSS@16 | L@23,136,1036,"[1, 3]",True,136,1036,False,zero_place_inferred_from_spacing
+KH0362,3028438,SSSS@0.5,400,40,[1],False,40,40,False,no_units_cluster_place_ambiguous
+KH0366,3028727,SSS@23 | L@36.5,36,306,[2],True,36,306,False,zero_place_inferred_from_spacing
+KH0359,3028733,SS@4 | SSS@9,5,230,"[1, 2]",False,230,230,False,no_units_cluster_place_ambiguous
+KH0359,3028739,SSSSSS@8 | E@19,61,601,[2],True,61,61,False,zero_place_inferred_from_spacing
+KH0359,3028746,SSSSSSS@8.5,7,70,[1],False,70,70,False,no_units_cluster_place_ambiguous
+KH0359,3028769,SSS@4,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0359,3028803,S@2.5 | L@12.5,106,16,[1],True,16,16,False,other
+KH0359,3028849,SSS@4 | S@10.5 | SS@33 | L@34.5,332,310022,"[1, 4, 5]",True,3122,310022,False,other
+KH0359,3028907,SS@2,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0359,3028917,S@1 | SS@4.5 | S@10.5 | E@10.5,1211,12110,"[1, 2, 3, 4]",False,12110,12110,False,no_units_cluster_place_ambiguous
+KH0359,3028972,SS@2.5,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0359,3029026,S@1 | L@7,109,19,[1],True,19,19,False,other
+KH0265,3029044,S@4 | L@13,107,17,[1],True,17,17,False,other
+KH0265,3029049,S@4,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0265,3029050,SS@5 | L@14.5,204,24,[1],True,24,24,False,other
+KH0265,3029056,SS@3.5 | L@12,203,23,[1],True,23,23,False,other
+KH0265,3029065,S@8 | S@21,101,1010,"[1, 3]",False,110,1010,False,no_units_cluster_place_ambiguous
+KH0269,3029072,SSSS@5.5 | L@17.5,42,402,[2],True,42,402,False,zero_place_inferred_from_spacing
+KH0269,3029073,SS@6.5 | L@18,24,204,[2],True,24,204,False,zero_place_inferred_from_spacing
+KH0042,3029446,S@2.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0042,3029456,SS@6 | SSS@12,23,230,"[1, 2]",False,230,230,False,no_units_cluster_place_ambiguous
+KH0042,3029487,S@3 | SSSSSSSS@12 | L@15.5,183,1083,"[1, 3]",True,183,183,False,zero_place_inferred_from_spacing
+KH0042,3029568,S@5 | E@14,11,101,[2],True,11,11,False,zero_place_inferred_from_spacing
+KH0083,3030112,S@1.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0261,3030300,SSSS@11 | SSSSSS@12.5,460,4600,"[2, 3]",False,460,4600,False,zero_place_inferred_from_spacing
+KH0261,3030304,S@17.5 | L@32.5,12,1002,[3],True,12,102,False,zero_place_inferred_from_spacing
+KH0330,3030430,S@7.5 | SSSSS@14 | L@30,153,1503,"[2, 3]",True,153,1503,False,zero_place_inferred_from_spacing
+KH0330,3030432,S@2.5 | SSS@14.5 | SSSSSSSS@21.5 | L@29.5,1389,10389,"[1, 2, 4]",True,1389,10389,False,zero_place_inferred_from_spacing
+KH0330,3030433,SSSS@8,40,4000,[3],False,40,4000,False,zero_place_inferred_from_spacing
+KH0330,3030434,SSSS@8 | SSSSSSSS@15 | L@30,484,4804,"[2, 3]",True,484,4804,False,zero_place_inferred_from_spacing
+KH0330,3030436,SS@15.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0330,3030447,SS@7 | SSS@21 | L@29,238,2038,"[1, 3]",True,238,2038,False,zero_place_inferred_from_spacing
+KH0330,3030450,S@15.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0330,3030461,SSSSSSSSS@8,90,900,[2],False,90,900,False,zero_place_inferred_from_spacing
+KH0330,3030471,SS@1.5 | E@23.5,21,2001,[3],True,21,2001,False,zero_place_inferred_from_spacing
+KH0330,3030472,S@1.5,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0330,3030474,SS@2,20,2000,[3],False,20,2000,False,zero_place_inferred_from_spacing
+KH0330,3030481,S@10.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0330,3030484,SSSSS@11.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0330,3030488,SSSSS@5.5,50,5000,[3],False,50,5000,False,zero_place_inferred_from_spacing
+KH0331,3030496,SSSSSS@12.5 | L@27.5,66,606,[2],True,66,606,False,zero_place_inferred_from_spacing
+KH0331,3030499,S@13.5 | L@30,16,106,[2],True,16,106,False,zero_place_inferred_from_spacing
+KH0331,3030501,S@13.5 | L@29,14,104,[2],True,14,104,False,zero_place_inferred_from_spacing
+KH0331,3030515,SSSSS@16 | L@33.5,52,502,[2],True,52,502,False,zero_place_inferred_from_spacing
+KH0332,3030522,S@11 | E@22.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0332,3030523,SSSS@11.5 | L@23,36,406,[2],True,46,406,False,other
+KH0332,3030554,S@7 | L@20,16,106,[2],True,16,106,False,zero_place_inferred_from_spacing
+KH0333,3030694,E@6,6,1,[],True,1,1,False,other
+KH0088,3030903,S@13,1,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0097,3031078,SSSS@8.5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0334,3031548,SSSSSSS@14,7,70,[1],False,70,70,False,no_units_cluster_place_ambiguous
+KH0335,3031556,SS@10.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0335,3031557,SSSSSS@10.5 | L@27,63,603,[2],True,63,603,False,zero_place_inferred_from_spacing
+KH0337,3031565,SSSSSS@7 | L@26.5,67,6007,[3],True,67,6007,False,zero_place_inferred_from_spacing
+KH0340,3031713,L@8.5,80,8,[],True,8,8,False,other
+KH0341,3031728,SSS@3.5,3000,30,[1],False,30,30,False,no_units_cluster_place_ambiguous
+KH0342,3031734,S@11.5 | L@23.5,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0342,3031735,SSS@11,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0347,3031842,SSS@11.5,300,30,[1],False,30,3000,False,no_units_cluster_place_ambiguous
+KH0347,3031853,S@12,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0347,3031942,S@11.5,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0061,3032179,SSSS@12,40,400,[2],False,40,40,False,zero_place_inferred_from_spacing
+KH0061,3032185,SSS@12,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0061,3032190,S@12,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0061,3032357,SS@10,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0061,3032362,S@11,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0061,3032372,S@11,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0061,3032398,S@11,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0061,3032459,S@10.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0061,3032467,SS@11,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0061,3032470,SSSSS@11,50,500,[2],False,50,50,False,zero_place_inferred_from_spacing
+KH0061,3032471,SSSSSSS@11,70,700,[2],False,70,70,False,zero_place_inferred_from_spacing
+KH0084,3033257,E@12,0,1,[],True,1,1,False,other
+KH0084,3033287,E@11,0,1,[],True,1,1,False,other
+KH0084,3033350,E@12,0,1,[],True,1,1,False,other
+KH0084,3033371,E@12.5,0,1,[],True,1,1,False,other
+KH0079,3033398,SS@11 | S@21,21,210,"[1, 2]",False,210,210,False,no_units_cluster_place_ambiguous
+KH0079,3033463,S@3.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0079,3033468,S@12.5 | L@27,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0079,3033469,S@12 | L@26,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0079,3033470,S@12 | L@26.5,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0079,3033471,S@12 | L@25,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0079,3033472,S@3 | L@21,14,104,[2],True,14,104,False,zero_place_inferred_from_spacing
+KH0079,3033473,S@12 | L@26,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0079,3033474,S@11.5 | L@25.5,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0079,3033475,S@12 | L@25.5,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0080,3033680,SSS@13.5 | E@26,31,301,[2],True,31,301,False,zero_place_inferred_from_spacing
+KH0080,3033706,SSSS@8,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0085,3033726,SSS@6,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0085,3033727,SSSS@6.5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0085,3033737,SSSSSS@3,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0085,3033738,SSSSSS@3.5,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0085,3033739,SSSSSSSS@4.5,80,800,[2],False,80,800,False,zero_place_inferred_from_spacing
+KH0085,3033740,SSS@4,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0085,3033746,SSSSSSS@3,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0085,3033747,SSSSSS@5.5,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0085,3033748,SSSS@3.5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0085,3033749,SSSSS@3.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0085,3033751,SSSSS@7.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0085,3033755,SS@7.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0085,3033756,SS@5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0085,3033758,SS@3.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0085,3033760,S@8,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0085,3033763,SS@5.5 | L@18.5,26,206,[2],True,26,206,False,zero_place_inferred_from_spacing
+KH0085,3033771,SSSSS@6.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0085,3033772,SSSSSSSS@8,80,800,[2],False,80,800,False,zero_place_inferred_from_spacing
+KH0085,3033773,SSSSSSSS@6.5,80,800,[2],False,80,800,False,zero_place_inferred_from_spacing
+KH0368,3034200,SSSSSS@16 | L@29.5,67,607,[2],True,67,607,False,zero_place_inferred_from_spacing
+KH0368,3034206,L@24,9,3,[],True,3,3,False,other
+KH0368,3034209,S@10.5 | L@30.5,14,1004,[3],True,14,1004,False,zero_place_inferred_from_spacing
+KH0267,3034225,SSSSSSS@2 | SSSSSS@11 | L@25,766,70606,"[2, 4]",True,766,7606,False,zero_place_inferred_from_spacing
+KH0267,3034243,S@6 | L@16,12,102,[2],True,12,12,False,zero_place_inferred_from_spacing
+KH0267,3034260,S@5.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0267,3034265,S@4.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0267,3034268,S@4.5 | L@13.5,14,104,[2],True,14,14,False,zero_place_inferred_from_spacing
+KH0267,3034275,SSSSS@6,50,500,[2],False,50,50,False,zero_place_inferred_from_spacing
+KH0267,3034286,S@6,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0267,3034288,SSSSS@4,50,500,[2],False,50,50,False,zero_place_inferred_from_spacing
+KH0267,3034292,S@9 | L@18,17,107,[2],True,17,17,False,zero_place_inferred_from_spacing
+KH0267,3034298,SSSSSSSS@7.5,80,800,[2],False,80,80,False,zero_place_inferred_from_spacing
+KH0267,3034299,SSS@5.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0267,3034310,S@5 | E@14,11,101,[2],True,11,11,False,zero_place_inferred_from_spacing
+KH0267,3034328,S@5.5 | E@15,11,101,[2],True,11,11,False,zero_place_inferred_from_spacing
+KH0267,3034341,S@2.5 | L@12,15,105,[2],True,15,15,False,zero_place_inferred_from_spacing
+KH0267,3034344,L@8.5,3,8,[],True,8,8,False,other
+KH0375,3034856,L@13,2,5,[],True,5,5,False,other
+KH0296,3034933,SSSSSSSS@4.5 | L@16,82,802,[2],True,82,802,False,zero_place_inferred_from_spacing
+KH0296,3034934,SSSSSSS@6 | L@17,77,707,[2],True,77,707,False,zero_place_inferred_from_spacing
+KH0067,3035005,S@4.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0067,3035007,S@5.5 | SSS@13.5,130,1300,"[2, 3]",False,130,1300,False,zero_place_inferred_from_spacing
+KH0402,3035013,SSSSSSSS@6,800,80,[1],False,80,80,False,no_units_cluster_place_ambiguous
+KH0402,3035014,SSSSS@6,500,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0402,3035015,SS@2.5,2000,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0402,3035016,SSSSS@6,500,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0402,3035019,SSSS@2.5 | S@7.5,4100,410,"[1, 2]",False,410,410,False,no_units_cluster_place_ambiguous
+KH0402,3035022,S@2.5 | SSSSS@11.5,1500,1050,"[1, 3]",False,150,150,False,no_units_cluster_place_ambiguous
+KH0402,3035025,SSSSS@6.5,500,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0401,3035029,SSS@3.5 | SS@6.5 | SSSSSSSSS@10.5 | L@17.5,3292,32902,"[2, 3, 4]",True,3292,32902,False,zero_place_inferred_from_spacing
+KH0401,3035035,S@3,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0401,3035038,SSS@4 | S@10,3100,30100,"[2, 4]",False,310,310,False,no_units_cluster_place_ambiguous
+KH0228,3035095,S@11 | E@25,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0228,3035110,SS@9.5 | E@23,21,201,[2],True,21,201,False,zero_place_inferred_from_spacing
+KH0228,3035114,S@12.5 | L@25.5,12,102,[2],True,12,102,False,zero_place_inferred_from_spacing
+KH0400,3035267,SSS@5.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0400,3035269,SS@7 | L@18.5,23,203,[2],True,23,203,False,zero_place_inferred_from_spacing
+KH0400,3035272,S@5 | L@18.5,17,107,[2],True,17,107,False,zero_place_inferred_from_spacing
+KH0400,3035285,SS@1.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0395,3035289,SSS@9,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0395,3035290,SS@9,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0395,3035300,SSS@4.5 | L@20.5,34,304,[2],True,34,304,False,zero_place_inferred_from_spacing
+KH0395,3035317,SSS@3,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0387,3035342,SSSSSSSSS@6.5 | SSSSSSSSS@12.5,990,9900,"[2, 3]",False,990,9900,False,zero_place_inferred_from_spacing
+KH0387,3035343,S@1.5,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0387,3035365,S@9,0,100,[2],False,10,100,False,no_units_cluster_place_ambiguous
+KH0387,3035371,S@4 | S@10.5,1010,1100,"[2, 3]",False,110,1100,False,no_units_cluster_place_ambiguous
+KH0383,3035417,SS@22 | L@40,23,203,[2],True,23,203,False,zero_place_inferred_from_spacing
+KH0383,3035421,S@22 | L@40.5,19,109,[2],True,19,109,False,zero_place_inferred_from_spacing
+KH0383,3035438,S@14.5 | L@31.5,14,104,[2],True,14,104,False,zero_place_inferred_from_spacing
+KH0383,3035466,S@5.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0383,3035521,S@9.5 | L@23,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0383,3035533,SSS@7,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0392,3035538,S@11.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0392,3035545,S@11,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0392,3035547,S@10.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0392,3035548,S@11 | L@28,19,109,[2],True,19,109,False,zero_place_inferred_from_spacing
+KH0392,3035550,S@11 | L@28,19,109,[2],True,19,109,False,zero_place_inferred_from_spacing
+KH0392,3035553,S@11,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0392,3035555,SSSSSS@10.5,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0392,3035557,SSSSSS@10.5,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0392,3035560,S@2.5 | SSSS@18 | SSSSSS@26.5 | L@35.5,1465,10465,"[1, 2, 4]",True,1465,10465,False,zero_place_inferred_from_spacing
+KH0393,3035572,SSSSSSS@6.5,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0393,3035575,SSSSSS@6.5,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0393,3035576,SSSS@5.5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0393,3035577,S@2,10,1000,[3],False,10,100,False,zero_place_inferred_from_spacing
+KH0393,3035578,SSSSSSSS@6,80,800,[2],False,80,800,False,zero_place_inferred_from_spacing
+KH0393,3035579,S@5.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0393,3035590,SS@6.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0393,3035592,SSSSSSSSS@6,90,900,[2],False,90,900,False,zero_place_inferred_from_spacing
+KH0393,3035599,SSSS@5.5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0393,3035604,SSSS@6,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0393,3035621,SSSSS@9.5,50,500,[2],False,50,50,False,zero_place_inferred_from_spacing
+KH0393,3035625,S@8.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0382,3035684,SS@21 | SSSSSSSS@30,280,2800,"[2, 3]",False,280,2800,False,zero_place_inferred_from_spacing
+KH0382,3035685,SSS@21 | L@38.5,34,304,[2],True,34,304,False,zero_place_inferred_from_spacing
+KH0382,3035688,SS@16.5 | SSSS@26.5,240,2400,"[2, 3]",False,240,2400,False,zero_place_inferred_from_spacing
+KH0382,3035696,SS@29 | L@47,25,205,[2],True,25,205,False,zero_place_inferred_from_spacing
+KH0382,3035754,S@3.5,10,1000,[3],False,10,10000,False,zero_place_inferred_from_spacing
+KH0382,3035778,SSS@3 | SSSSSSS@12.5,37,370,"[1, 2]",False,370,370,False,no_units_cluster_place_ambiguous
+KH0382,3035797,S@4.5,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0379,3035891,SS@9 | S@17 | E@28.5,211,2101,"[2, 3]",True,211,2101,False,zero_place_inferred_from_spacing
+KH0381,3035962,SS@4.5 | SSSS@10.5,240,2400,"[2, 3]",False,240,24000,False,zero_place_inferred_from_spacing
+KH0381,3035963,SS@11 | L@28.5,23,203,[2],True,23,203,False,zero_place_inferred_from_spacing
+KH0381,3035964,SS@10.5,20,200,[2],False,20,2000,False,zero_place_inferred_from_spacing
+KH0381,3035965,SS@6 | SSSSSS@11,260,2600,"[2, 3]",False,260,2600,False,zero_place_inferred_from_spacing
+KH0381,3035966,SSS@13.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0381,3035967,SS@14 | L@30,29,209,[2],True,29,209,False,zero_place_inferred_from_spacing
+KH0381,3035968,SS@14,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0381,3035969,SSSSSS@2.5 | SSSSS@17.5,650,6050,"[1, 3]",False,650,6050,False,zero_place_inferred_from_spacing
+KH0381,3035984,S@13.5 | L@26.5,17,107,[2],True,17,107,False,zero_place_inferred_from_spacing
+KH0381,3035985,S@13 | L@28,16,106,[2],True,16,106,False,zero_place_inferred_from_spacing
+KH0389,3036033,S@5,10,100,[2],False,10,1000,False,zero_place_inferred_from_spacing
+KH0389,3036078,S@5,10,100,[2],False,10,1000,False,zero_place_inferred_from_spacing
+KH0389,3036080,S@11.5 | L@28,12,102,[2],True,12,102,False,zero_place_inferred_from_spacing
+KH0389,3036113,SSSSSSSS@10 | L@28,84,804,[2],True,84,804,False,zero_place_inferred_from_spacing
+KH0389,3036149,S@6 | E@22.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0385,3036319,SSSS@12.5,4,40,[1],False,40,40,False,no_units_cluster_place_ambiguous
+KH0385,3036329,SSSSS@1.5 | L@16.5,5005,505,[2],True,55,505,False,other
+KH0386,3036393,S@5.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0386,3036408,S@2,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0386,3036410,SSS@5 | S@17 | S@23.5,3110,30110,"[1, 2, 4]",False,3110,30110,False,zero_place_inferred_from_spacing
+KH0386,3036411,S@1.5 | S@18.5 | S@20,1110,100110,"[1, 2, 5]",False,1110,10110,False,zero_place_inferred_from_spacing
+KH0386,3036412,SS@4.5 | L@15,27,207,[2],True,27,27,False,zero_place_inferred_from_spacing
+KH0386,3036417,SSS@3.5,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0386,3036418,S@1.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0386,3036466,SSSSSS@4.5 | S@19,610,6010,"[1, 3]",False,610,6010,False,zero_place_inferred_from_spacing
+KH0386,3036467,SSS@4 | L@15,37,307,[2],True,37,37,False,zero_place_inferred_from_spacing
+KH0384,3036529,S@14.5 | S@27 | L@32.5,114,1014,"[1, 3]",True,114,1014,False,zero_place_inferred_from_spacing
+KH0384,3036532,S@11.5 | S@13.5 | L@28.5,113,1103,"[2, 3]",True,113,1103,False,zero_place_inferred_from_spacing
+KH0239,3036687,E@10.5,0,1,[],True,1,1,False,other
+KH0239,3036889,L@8,0,3,[],True,3,3,False,other
+KH0239,3036919,E@7.5,0,1,[],True,1,1,False,other
+KH0239,3036921,L@7,0,2,[],True,2,2,False,other
+KH0533,3036927,S@6 | SSSSSS@13 | SSSSS@19 | L@25,1650,1655,"[1, 2, 3]",True,1655,1655,False,other
+KH0534,3037004,SS@15,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0534,3037010,SS@6 | SSS@11.5,230,2300,"[2, 3]",False,230,2300,False,zero_place_inferred_from_spacing
+KH0534,3037026,S@7,100,1000,[3],False,10,100,False,no_units_cluster_place_ambiguous
+KH0535,3037029,SSS@0 | L@0,34,1300,"[2, 3]",False,130,1300,False,no_units_cluster_place_ambiguous
+KH0535,3037034,SSS@0 | L@0,32,1300,"[2, 3]",False,130,1300,False,no_units_cluster_place_ambiguous
+KH0535,3037110,SS@0,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0536,3037125,SSS@3 | L@16,302,32,[1],True,32,302,False,other
+KH0536,3037141,SS@5 | L@27,24,204,[2],True,24,2004,False,zero_place_inferred_from_spacing
+KH0536,3037146,SS@3 | L@16,204,24,[1],True,24,204,False,other
+KH0536,3037149,SS@3 | L@17,205,25,[1],True,25,205,False,other
+KH0538,3037208,SS@14,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0539,3037217,S@10.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0539,3037233,SSSS@10,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0540,3037245,SSS@17 | L@26,36,306,[2],True,36,36,False,zero_place_inferred_from_spacing
+KH0542,3037281,S@5.5 | SSSSSSSSS@17.5,1090,10900,"[2, 4]",False,190,1090,False,no_units_cluster_place_ambiguous
+KH0542,3037282,SSSSSS@11.5 | S@16.5,610,6100,"[2, 3]",False,610,610,False,zero_place_inferred_from_spacing
+KH0547,3037489,S@13 | L@26,14,104,[2],True,14,104,False,zero_place_inferred_from_spacing
+KH0547,3037490,SS@13 | L@27,24,204,[2],True,24,204,False,zero_place_inferred_from_spacing
+KH0547,3037493,S@12.5 | L@27.5,17,107,[2],True,17,107,False,zero_place_inferred_from_spacing
+KH0549,3037512,S@3.5,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0549,3037534,S@4,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0549,3037584,S@0 | SSSSS@0 | L@0,155,15100,"[2, 3, 4]",False,1510,15100,False,no_units_cluster_place_ambiguous
+KH0550,3037664,S@2.5 | L@2.5,16,1100,"[2, 3]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0554,3037737,S@3.5 | SSSSSSS@10 | L@22.5,83,173,"[1, 2]",True,173,1703,False,other
+KH0555,3037769,S@12.5 | S@19,20,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0559,3037871,S@14,100,1000,[3],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0559,3037888,S@21.5 | S@28.5,110,1100,"[2, 3]",False,110,1100,False,zero_place_inferred_from_spacing
+KH0559,3037920,SSS@4,3000,30000,[4],False,30,300000,False,no_units_cluster_place_ambiguous
+KH0559,3037921,S@16.5,100,1000,[3],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0559,3037929,SS@3 | SSS@13.5 | SSSSSSS@23,2370,23700,"[2, 3, 4]",False,2370,23700,False,zero_place_inferred_from_spacing
+KH0559,3037933,SS@8 | S@17.5,2100,21000,"[3, 4]",False,210,21000,False,no_units_cluster_place_ambiguous
+KH0561,3037963,SSSSS@10,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0562,3038177,SSSSSSSS@11.9 | S@16 | S@23.5,910,8110,"[1, 2, 3]",False,8110,8110,False,no_units_cluster_place_ambiguous
+KH0564,3038285,SSSSSS@6 | S@9.5 | L@11,72,612,"[1, 2]",True,612,612,False,other
+KH0374,3038299,E@4.5,0,1,[],True,1,1,False,other
+KH0068,3038315,S@5 | L@7,12,13,[1],True,13,13,False,other
+KH0591,3039034,S@5 | E@13.2,101,11,[1],True,11,11,False,other
+KH0591,3039050,SSSSS@5.3 | L@14.8,55,505,[2],True,55,505,False,zero_place_inferred_from_spacing
+KH0404,3039797,S@13.5 | L@27,16,106,[2],True,16,106,False,zero_place_inferred_from_spacing
+KH0404,3039799,SSS@7.5 | SS@13.5 | L@26,326,3206,"[2, 3]",True,326,3206,False,zero_place_inferred_from_spacing
+KH0404,3039845,S@8,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0404,3039868,SSSSSS@7.5 | SSS@14,6300,630,"[1, 2]",False,630,630,False,no_units_cluster_place_ambiguous
+KH0404,3039880,S@7.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0404,3039885,S@3,1000,100,[2],False,10,100,False,no_units_cluster_place_ambiguous
+KH0404,3039886,SSS@2,9000,3000,[3],False,30,300,False,no_units_cluster_place_ambiguous
+KH0404,3039888,SSSSSSSS@7,80,800,[2],False,80,800,False,zero_place_inferred_from_spacing
+KH0404,3039893,SSSSSSSS@1,800,8000,[3],False,80,800,False,no_units_cluster_place_ambiguous
+KH0404,3039896,S@4,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0404,3039908,S@9.5 | L@22.5,16,106,[2],True,16,106,False,zero_place_inferred_from_spacing
+KH0404,3039926,S@8,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0404,3039930,SS@9,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0404,3039931,S@7.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0404,3039937,S@2.5,100,1000,[3],False,10,100,False,no_units_cluster_place_ambiguous
+KH0404,3039942,SSSS@4,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0404,3039945,S@3 | SS@9,120,1200,"[2, 3]",False,120,120,False,zero_place_inferred_from_spacing
+KH0404,3039951,S@2.5,10,1000,[3],False,10,100,False,zero_place_inferred_from_spacing
+KH0404,3039954,S@2,100,1000,[3],False,10,100,False,no_units_cluster_place_ambiguous
+KH0404,3039956,S@2 | SS@8,120,1200,"[2, 3]",False,120,120,False,zero_place_inferred_from_spacing
+KH0404,3039967,SSS@7.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0404,3039979,S@3,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0404,3039983,S@1.5 | SS@7.5,120,1200,"[2, 3]",False,120,1200,False,zero_place_inferred_from_spacing
+KH0404,3039987,SSSSSSSSS@0 | E@0,901,19000,"[3, 4]",False,190,19000,False,no_units_cluster_place_ambiguous
+KH0404,3039996,SS@8,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0404,3039999,S@2 | SS@8,120,1200,"[2, 3]",False,120,120,False,zero_place_inferred_from_spacing
+KH0404,3040006,S@3.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0408,3040171,SSSS@0,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0408,3040244,L@3,2,3,[],True,3,3,False,other
+KH0408,3040305,L@4,2,4,[],True,4,4,False,other
+KH0413,3040392,SSSSSS@6 | L@18,63,603,[2],True,63,603,False,zero_place_inferred_from_spacing
+KH0413,3040393,SSSSSSSS@6 | L@18,87,807,[2],True,87,807,False,zero_place_inferred_from_spacing
+KH0413,3040396,SSS@5.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0413,3040397,SSSSSS@5 | L@17.5,66,606,[2],True,66,606,False,zero_place_inferred_from_spacing
+KH0420,3040406,S@4,100,1000,[3],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0420,3040409,S@3.5,100,1000,[3],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0420,3040411,SSS@2.5 | E@26.5,301,3001,[3],True,31,3001,False,other
+KH0420,3040416,S@4,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0420,3040417,SS@4,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0420,3040420,S@3,100,1000,[3],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0420,3040423,SSS@4 | L@23,302,3002,[3],True,32,3002,False,other
+KH0420,3040424,SSSSSSSS@3.5 | L@26,802,8002,[3],True,82,8002,False,other
+KH0420,3040425,SS@4.5 | SSSS@14 | L@26,246,2406,"[2, 3]",True,246,2406,False,zero_place_inferred_from_spacing
+KH0420,3040429,S@13,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0420,3040431,S@12.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0420,3040432,S@13.5 | L@26.5,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0420,3040433,SSS@13.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0420,3040434,SSSS@15,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0420,3040435,S@6 | S@15.5 | L@27,118,1108,"[2, 3]",True,118,1108,False,zero_place_inferred_from_spacing
+KH0416,3040448,S@3.5 | S@9 | S@12 | S@15,4,11110,"[1, 2, 3, 4]",False,11110,11110,False,no_units_cluster_place_ambiguous
+KH0416,3040449,S@4.5 | S@9 | S@12.5 | S@17,4,11110,"[1, 2, 3, 4]",False,11110,11110,False,no_units_cluster_place_ambiguous
+KH0416,3040450,S@4.5 | S@12 | S@21 | S@26,4,110110,"[1, 2, 4, 5]",False,11110,110110,False,no_units_cluster_place_ambiguous
+KH0416,3040451,S@4 | S@5 | S@16 | S@21.5 | S@29.5,5,1101110,"[1, 2, 3, 5, 6]",False,111110,1101110,False,no_units_cluster_place_ambiguous
+KH0416,3040452,S@4 | S@12 | S@17 | S@26,4,111010,"[1, 3, 4, 5]",False,11110,111010,False,no_units_cluster_place_ambiguous
+KH0416,3040453,S@5.5 | S@11 | S@16 | S@23.5,4,11110,"[1, 2, 3, 4]",False,11110,11110,False,no_units_cluster_place_ambiguous
+KH0416,3040454,S@5.5 | S@10.5 | S@17.5 | S@23,4,11110,"[1, 2, 3, 4]",False,11110,11110,False,no_units_cluster_place_ambiguous
+KH0416,3040455,S@6 | S@13 | S@18 | S@24,4,11110,"[1, 2, 3, 4]",False,11110,11110,False,no_units_cluster_place_ambiguous
+KH0416,3040456,S@6 | S@13.5 | S@23 | S@26.5,4,110110,"[1, 2, 4, 5]",False,11110,110110,False,no_units_cluster_place_ambiguous
+KH0416,3040457,S@4 | S@11 | S@16.5 | S@23,4,11110,"[1, 2, 3, 4]",False,11110,11110,False,no_units_cluster_place_ambiguous
+KH0416,3040458,S@3 | S@10.5 | S@16.5 | S@21,4,11110,"[1, 2, 3, 4]",False,11110,11110,False,no_units_cluster_place_ambiguous
+KH0416,3040459,S@5.5 | S@12 | S@19.5 | S@25.5,4,11110,"[1, 2, 3, 4]",False,11110,11110,False,no_units_cluster_place_ambiguous
+KH0416,3040460,S@5 | S@12 | S@18.5 | S@24.5,4,11110,"[1, 2, 3, 4]",False,11110,11110,False,no_units_cluster_place_ambiguous
+KH0416,3040461,S@4 | S@11.5 | S@18.5 | S@25.5,4,11110,"[1, 2, 3, 4]",False,11110,11110,False,no_units_cluster_place_ambiguous
+KH0421,3040474,SSS@9.5 | L@31.5,304,34,[1],True,34,3004,False,other
+KH0421,3040477,SSSSS@7 | L@27.5,504,54,[1],True,54,5004,False,other
+KH0421,3040478,SSSS@6 | L@23,402,42,[1],True,42,402,False,other
+KH0421,3040479,SSS@7 | L@23,306,36,[1],True,36,306,False,other
+KH0421,3040482,SSS@9,300,30,[1],False,30,300,False,no_units_cluster_place_ambiguous
+KH0421,3040483,S@11 | L@27,106,16,[1],True,16,16,False,other
+KH0421,3040484,S@9.5 | L@22.5,107,17,[1],True,17,17,False,other
+KH0421,3040485,SSS@9 | L@20.5,308,38,[1],True,38,38,False,other
+KH0421,3040487,SSS@7 | L@50.5,308,3008,[3],True,38,3008,False,other
+KH0421,3040491,S@5 | SSSSSSSS@18.5 | L@51.5,183,1803,"[2, 3]",True,183,1803,False,zero_place_inferred_from_spacing
+KH0421,3040497,SSSSSS@9.5 | L@29.5,605,65,[1],True,65,6005,False,other
+KH0421,3040498,SSSSSS@2 | S@21,6010,610,"[1, 2]",False,610,600100,False,no_units_cluster_place_ambiguous
+KH0421,3040499,SSSS@8 | SS@31,420,4020,"[1, 3]",False,420,40020,False,zero_place_inferred_from_spacing
+KH0421,3040500,S@5 | SSS@26,1030,130,"[1, 2]",False,130,10030,False,no_units_cluster_place_ambiguous
+KH0421,3040502,SSSSSSSS@3 | SSS@19,8300,830,"[1, 2]",False,830,80300,False,no_units_cluster_place_ambiguous
+KH0421,3040505,S@5 | SSS@15,1030,1300,"[2, 3]",False,130,13000,False,no_units_cluster_place_ambiguous
+KH0422,3040519,S@3.5 | E@16.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0422,3040520,S@3.5 | E@16.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0422,3040521,SSSSSS@3 | L@16.5,65,605,[2],True,65,605,False,zero_place_inferred_from_spacing
+KH0422,3040522,SSSSSSS@3.5 | L@15,79,709,[2],True,79,709,False,zero_place_inferred_from_spacing
+KH0422,3040523,SSS@3 | L@14.5,33,303,[2],True,33,303,False,zero_place_inferred_from_spacing
+KH0423,3040572,SSSSSSSS@5 | SSS@23.5,830,8030,"[1, 3]",False,830,8030,False,zero_place_inferred_from_spacing
+KH0423,3040573,SSSSSS@6 | S@18 | S@27 | L@27,623,61110,"[1, 2, 3, 4]",False,61110,601110,False,no_units_cluster_place_ambiguous
+KH0423,3040574,S@6 | SS@17.5 | L@36,123,1203,"[2, 3]",True,123,10203,False,zero_place_inferred_from_spacing
+KH0423,3040575,S@4 | SS@14.5 | L@32.5,124,1204,"[2, 3]",True,124,1204,False,zero_place_inferred_from_spacing
+KH0423,3040578,S@5 | S@14.5 | L@37.5,117,1107,"[2, 3]",True,117,11007,False,zero_place_inferred_from_spacing
+KH0423,3040580,SS@5.5 | SS@25.5,220,2020,"[1, 3]",False,220,20020,False,zero_place_inferred_from_spacing
+KH0001,3040656,SSSSSSSS@7 | SSSSSSSS@20 | SSS@28,190,8830,"[1, 2, 3]",False,8830,80830,False,no_units_cluster_place_ambiguous
+KH0001,3040664,SSS@5 | S@12 | L@21,46,316,"[1, 2]",True,316,316,False,other
+KH0001,3040671,SSSSSSS@7 | SSSSSSSSS@14 | SSSSSS@24 | L@33.5,223,7963,"[1, 2, 3]",True,7963,7963,False,other
+KH0001,3040678,SSS@8 | SS@18.5 | L@30,53,323,"[1, 2]",True,323,323,False,other
+KH0001,3040686,SSSSSSSS@6.5 | SSSS@14.5 | L@25.5,123,843,"[1, 2]",True,843,843,False,other
+KH0001,3040689,S@6 | S@20 | L@38,27,1107,"[2, 3]",True,117,1107,False,other
+KH0001,3040690,SSS@10 | SSSSS@20.5 | SSS@31.5,110,3530,"[1, 2, 3]",False,3530,3530,False,no_units_cluster_place_ambiguous
+KH0001,3040693,SS@8 | SSSSSS@22 | L@34.5,86,266,"[1, 2]",True,266,266,False,other
+KH0001,3040701,SS@9 | SSSSS@20 | S@31.5,80,2510,"[1, 2, 3]",False,2510,2510,False,no_units_cluster_place_ambiguous
+KH0001,3040703,SSSSS@6.5 | SSSS@17.5 | SSS@29,120,5430,"[1, 2, 3]",False,5430,5430,False,no_units_cluster_place_ambiguous
+KH0001,3040706,SSS@5.5 | SSSSS@14.5 | SSS@28,110,3530,"[1, 2, 3]",False,3530,3530,False,no_units_cluster_place_ambiguous
+KH0001,3040707,SSS@6 | SSSSS@20 | SSS@29,110,3530,"[1, 2, 3]",False,3530,3530,False,no_units_cluster_place_ambiguous
+KH0001,3040708,S@8.5 | SSSS@23.5 | L@38,53,143,"[1, 2]",True,143,143,False,other
+KH0001,3040718,SSSS@6.5 | SSSSS@18.5 | SSSS@30.5,130,4540,"[1, 2, 3]",False,4540,4540,False,no_units_cluster_place_ambiguous
+KH0001,3040719,SSSSS@4.5 | SSS@16.5 | SS@25,100,5320,"[1, 2, 3]",False,5320,5320,False,no_units_cluster_place_ambiguous
+KH0001,3040720,SSSS@8 | SSS@18 | SSS@31,100,4330,"[1, 2, 3]",False,4330,4330,False,no_units_cluster_place_ambiguous
+KH0001,3040726,SSSS@8.5 | SSSSS@20.53 | SS@28.5,110,4520,"[1, 2, 3]",False,4520,4520,False,no_units_cluster_place_ambiguous
+KH0001,3040727,SS@8 | SSSSS@16 | SSS@28,100,2530,"[1, 2, 3]",False,2530,2530,False,no_units_cluster_place_ambiguous
+KH0001,3040728,S@8.5 | S@21 | L@36.5,26,116,"[1, 2]",True,116,116,False,other
+KH0001,3040730,SS@7.5 | SSS@22 | L@30.5,57,237,"[1, 2]",True,237,237,False,other
+KH0001,3040736,SSSSS@8 | SSS@18 | SSS@28.5,110,5330,"[1, 2, 3]",False,5330,5330,False,no_units_cluster_place_ambiguous
+KH0001,3040737,SSSSSSS@5 | SSSSSS@13.5 | L@28,136,766,"[1, 2]",True,766,766,False,other
+KH0001,3040742,SSSSS@4.5 | S@13.5 | SSSS@23,100,5140,"[1, 2, 3]",False,5140,5140,False,no_units_cluster_place_ambiguous
+KH0001,3040744,SSS@7 | S@14 | L@23.5,46,316,"[1, 2]",True,316,316,False,other
+KH0001,3040745,SS@9 | SSS@22 | SSSSSS@33.5,110,2360,"[1, 2, 3]",False,2360,203060,False,no_units_cluster_place_ambiguous
+KH0001,3040747,SSSSSS@8 | S@15 | L@29,79,619,"[1, 2]",True,619,6109,False,other
+KH0001,3040750,SSSS@5.5 | SSSS@15.5 | SSSSS@26.5,130,4450,"[1, 2, 3]",False,4450,4450,False,no_units_cluster_place_ambiguous
+KH0001,3040752,SSSSSSSSS@4 | SSSSS@15.5 | L@25,147,957,"[1, 2]",True,957,9057,False,other
+KH0001,3040753,SSSSSSS@7 | SSSSS@14.5 | L@27,125,755,"[1, 2]",True,755,7505,False,other
+KH0001,3040770,SS@5.5 | SSS@17 | SSSSSS@31,110,2360,"[1, 2, 3]",False,2360,203060,False,no_units_cluster_place_ambiguous
+KH0001,3040773,SSS@7.5 | SSSSS@20.5 | L@32.5,88,358,"[1, 2]",True,358,30508,False,other
+KH0001,3040784,SSSS@7.5 | SSSS@22 | L@34,88,448,"[1, 2]",True,448,40408,False,other
+KH0001,3040785,SSSSSSS@0 | SSSSSSS@0 | SS@0,160,277000,"[3, 4, 5]",False,2770,2770000,False,no_units_cluster_place_ambiguous
+KH0001,3040787,SSSSSSSS@5 | SSSS@15 | SS@23.5,140,8420,"[1, 2, 3]",False,8420,8420,False,no_units_cluster_place_ambiguous
+KH0001,3040797,SSS@9.5 | SS@21.5 | SSSSSS@28,110,3260,"[1, 2, 3]",False,3260,30260,False,no_units_cluster_place_ambiguous
+KH0001,3040803,SS@10 | SSS@21.5 | L@37.5,55,235,"[1, 2]",True,235,20305,False,other
+KH0415,3040900,S@5 | S@8.5,20,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0425,3040906,SSSSSSSS@13 | L@28.5,88,808,[2],True,88,808,False,zero_place_inferred_from_spacing
+KH0425,3040914,SS@11 | S@20 | E@34,211,2101,"[2, 3]",True,211,2101,False,zero_place_inferred_from_spacing
+KH0425,3040929,SSSSS@13.5 | L@29.5,54,504,[2],True,54,504,False,zero_place_inferred_from_spacing
+KH0425,3040952,SSS@5.5 | SSSSSSS@14 | SSSSS@22 | E@35,3751,37501,"[2, 3, 4]",True,3751,37501,False,zero_place_inferred_from_spacing
+KH0425,3040970,SSSSSS@15,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0425,3040972,SS@2.5,20,2000,[3],False,20,2000,False,zero_place_inferred_from_spacing
+KH0425,3040973,S@2,10,1000,[3],False,10,10000,False,zero_place_inferred_from_spacing
+KH0425,3040974,SS@8,20,2000,[3],False,20,2000,False,zero_place_inferred_from_spacing
+KH0425,3040975,SSSSSSSS@8,80,8000,[3],False,80,8000,False,zero_place_inferred_from_spacing
+KH0425,3040978,S@3 | S@12 | L@28,113,1103,"[2, 3]",True,113,1103,False,zero_place_inferred_from_spacing
+KH0425,3040980,SS@11,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0425,3040985,SSSSSS@16,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0425,3041002,SSSS@16.5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0425,3041027,S@1.5 | SSSS@8,140,14000,"[3, 4]",False,140,14000,False,zero_place_inferred_from_spacing
+KH0425,3041028,SSSS@1.5,40,4000,[3],False,40,40000,False,zero_place_inferred_from_spacing
+KH0425,3041030,SSS@11,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0425,3041034,S@6 | SS@13,120,1200,"[2, 3]",False,120,1200,False,zero_place_inferred_from_spacing
+KH0405,3041046,S@12 | SSS@28 | L@41.5,135,1035,"[1, 3]",True,135,10305,False,zero_place_inferred_from_spacing
+KH0405,3041047,SSSSSS@7 | S@27 | L@44,612,60102,"[2, 4]",True,612,600102,False,zero_place_inferred_from_spacing
+KH0424,3041070,SSS@6,30,300,[2],False,30,300000,False,zero_place_inferred_from_spacing
+KH0424,3041077,SSSS@4.5 | L@29.5,42,402,[2],True,42,4002,False,zero_place_inferred_from_spacing
+KH0424,3041121,SSSSSSSSS@0 | L@0,97,1900,"[2, 3]",False,190,190000,False,no_units_cluster_place_ambiguous
+KH0426,3041304,SSSS@13 | SSSS@26.5 | SSSSSS@34.5 | L@42.5,10465,40465,"[1, 2, 4]",True,4465,40465,False,other
+KH0426,3041353,S@15.5 | SSSS@23.5 | L@37,148,1408,"[2, 3]",True,148,1408,False,zero_place_inferred_from_spacing
+KH0426,3041357,S@25.5 | SSSSSSSSS@32,190,1900,"[2, 3]",False,190,1900,False,zero_place_inferred_from_spacing
+KH0426,3041369,SS@23 | SS@32.5 | S@40 | L@52,2218,22108,"[2, 3, 4]",True,2218,22108,False,zero_place_inferred_from_spacing
+KH0321,3041428,SSSSSSSSS@2.5 | L@19,93,903,[2],True,93,903,False,zero_place_inferred_from_spacing
+KH0321,3041436,SSSSS@11.5,50,500,[2],False,50,5000,False,zero_place_inferred_from_spacing
+KH0321,3041438,S@10,10,100,[2],False,10,1000,False,zero_place_inferred_from_spacing
+KH0386,3041447,S@11 | S@13 | S@16 | S@23.5,0,11110,"[1, 2, 3, 4]",False,11110,11110,False,no_units_cluster_place_ambiguous
+KH0242,3041455,L@6.5,7,8,[],True,8,8,False,other
+KH0427,3041490,SS@3 | L@21,209,2009,[3],True,29,209,False,other
+KH0427,3041512,S@2.5 | L@16.5,105,1005,[3],True,15,105,False,other
+KH0427,3041513,SSS@3.5,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0427,3041514,SSS@2,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0428,3042182,L@22,3,2,[],True,2,2,False,other
+KH0432,3042452,S@5.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0435,3042907,SSS@12.5,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0435,3043060,S@14.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0435,3043087,SSS@19 | L@37,304,3004,[3],True,34,304,False,other
+KH0435,3043089,S@16 | L@22.5,106,16,[1],True,16,16,False,other
+KH0439,3043446,S@6.5,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0440,3043468,SSS@5.5 | SS@11,320,3200,"[2, 3]",False,320,3200,False,zero_place_inferred_from_spacing
+KH0440,3043472,SS@12 | L@21.5,22,202,[2],True,22,202,False,zero_place_inferred_from_spacing
+KH0440,3043534,SSSSS@11,50,500,[2],False,50,50,False,zero_place_inferred_from_spacing
+KH0440,3043535,SSS@11,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0440,3043553,SS@11,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0441,3043604,S@25 | S@33.5,20,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0441,3043615,S@14.5 | S@16 | L@27.5,24,1104,"[2, 3]",True,114,1104,False,other
+KH0441,3043625,SS@17.5 | S@23.5,30,210,"[1, 2]",False,210,210,False,no_units_cluster_place_ambiguous
+KH0441,3043662,S@16.5 | S@26.5 | E@31.5,21,111,"[1, 2]",True,111,111,False,other
+KH0441,3043733,S@11.5 | L@27.5,14,104,[2],True,14,104,False,zero_place_inferred_from_spacing
+KH0431,3043739,SSSSSS@8 | S@19 | SSS@32.5,100,6130,"[1, 2, 3]",False,6130,6130,False,no_units_cluster_place_ambiguous
+KH0431,3043752,SSS@6.5 | SSSSS@14.5 | SSS@25.5,110,3530,"[1, 2, 3]",False,3530,3530,False,no_units_cluster_place_ambiguous
+KH0431,3043767,S@3.5 | SSSSSSS@9.5 | L@28.5,87,1707,"[2, 3]",True,177,1707,False,other
+KH0431,3043774,SSSSS@3.5 | SSSS@19 | SSS@30.5,120,5430,"[1, 2, 3]",False,5430,5430,False,no_units_cluster_place_ambiguous
+KH0431,3043781,SSSS@4.5 | SSSS@18 | SSS@33,110,4430,"[1, 2, 3]",False,4430,4430,False,no_units_cluster_place_ambiguous
+KH0431,3043807,S@3 | SS@10 | L@24,34,124,"[1, 2]",True,124,1204,False,other
+KH0431,3043819,S@5.5 | SSSSSSS@15 | L@31,84,174,"[1, 2]",True,174,1704,False,other
+KH0431,3043832,SS@3.5 | SSS@10.5 | SSSSSSSS@23.5,130,2380,"[1, 2, 3]",False,2380,23080,False,no_units_cluster_place_ambiguous
+KH0431,3043841,S@7.5 | S@16 | L@25,28,118,"[1, 2]",True,118,118,False,other
+KH0431,3043858,SS@7 | SSS@22 | S@33.5,60,2310,"[1, 2, 3]",False,2310,203010,False,no_units_cluster_place_ambiguous
+KH0431,3043902,SSS@8 | SSSS@16.5 | SSSSS@25,120,3450,"[1, 2, 3]",False,3450,3450,False,no_units_cluster_place_ambiguous
+KH0431,3043910,SS@9 | SSS@20 | SS@33.5,70,2320,"[1, 2, 3]",False,2320,23020,False,no_units_cluster_place_ambiguous
+KH0431,3043914,SS@6 | SSS@21 | L@30.5,55,235,"[1, 2]",True,235,2035,False,other
+KH0431,3043919,S@6.5 | SSS@20 | L@33.5,46,136,"[1, 2]",True,136,10306,False,other
+KH0431,3043940,SS@7.5 | S@15 | L@29.5,37,217,"[1, 2]",True,217,2107,False,other
+KH0431,3043946,SSSSS@5.5 | SSSS@17.5 | L@33.5,95,545,"[1, 2]",True,545,50405,False,other
+KH0431,3043958,S@6.5 | SSSSS@18 | SS@26.5,80,1520,"[1, 2, 3]",False,1520,10520,False,no_units_cluster_place_ambiguous
+KH0436,3044160,S@2.5 | E@14,11,1001,[3],True,11,101,False,zero_place_inferred_from_spacing
+KH0442,3044337,SSS@6 | L@14.5,36,306,[2],True,36,36,False,zero_place_inferred_from_spacing
+KH0442,3044357,SSS@8 | L@16.5,36,306,[2],True,36,36,False,zero_place_inferred_from_spacing
+KH0442,3044362,SSS@5.5 | L@15.5,34,304,[2],True,34,34,False,zero_place_inferred_from_spacing
+KH0447,3044897,SS@3,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0450,3045137,S@9 | L@20,18,108,[2],True,18,18,False,zero_place_inferred_from_spacing
+KH0450,3045186,L@20.5,3,5,[],True,5,5,False,other
+KH0450,3045247,SSS@10 | E@22,31,301,[2],True,31,301,False,zero_place_inferred_from_spacing
+KH0450,3045258,S@10.5 | E@23.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0451,3045290,SSSS@8.5 | L@26.5,42,402,[2],True,42,402,False,zero_place_inferred_from_spacing
+KH0451,3045292,SSS@4.5 | SSSSSS@15.5 | L@31,363,3603,"[2, 3]",True,363,363,False,zero_place_inferred_from_spacing
+KH0451,3045296,SSSS@6 | L@22,44,404,[2],True,44,44,False,zero_place_inferred_from_spacing
+KH0451,3045299,S@5.5 | L@29.5,102,1002,[3],True,12,102,False,other
+KH0451,3045320,SS@9 | L@28,25,205,[2],True,25,2005,False,zero_place_inferred_from_spacing
+KH0451,3045331,SSSS@9.5 | E@23,41,401,[2],True,41,401,False,zero_place_inferred_from_spacing
+KH0451,3045394,SSS@4.5 | L@18,38,308,[2],True,38,308,False,zero_place_inferred_from_spacing
+KH0453,3045491,S@9 | S@13.5 | S@17.5,30,1110,"[1, 2, 3]",False,1110,1110,False,no_units_cluster_place_ambiguous
+KH0453,3045504,S@5.5 | S@6.5,20,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0453,3045552,S@9.5 | S@11,20,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0453,3045583,S@10 | S@20.5 | SS@22.5,40,1120,"[1, 2, 3]",False,1120,1120,False,no_units_cluster_place_ambiguous
+KH0453,3045586,S@10 | S@18 | S@26.5,30,1110,"[1, 2, 3]",False,1110,1110,False,no_units_cluster_place_ambiguous
+KH0453,3045604,S@5.5 | L@17.5,12,102,[2],True,12,102,False,zero_place_inferred_from_spacing
+KH0453,3045605,SS@5.5 | L@18,22,202,[2],True,22,202,False,zero_place_inferred_from_spacing
+KH0453,3045627,S@8 | S@12 | S@19 | L@22,37,1117,"[1, 2, 3]",True,1117,1117,False,other
+KH0453,3045628,S@3.5 | SS@12 | L@17.5,33,123,"[1, 2]",True,123,123,False,other
+KH0453,3045638,S@8.5 | S@11.5 | S@19,30,1110,"[1, 2, 3]",False,1110,1110,False,no_units_cluster_place_ambiguous
+KH0453,3045657,S@17.5 | S@25,20,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0453,3045706,SS@3.5 | L@18,27,207,[2],True,27,207,False,zero_place_inferred_from_spacing
+KH0453,3045709,SSS@0.5 | L@15,33,303,[2],True,33,303,False,zero_place_inferred_from_spacing
+KH0454,3045844,SS@2 | L@9.5,24,204,[2],True,24,24,False,zero_place_inferred_from_spacing
+KH0454,3045849,SS@2 | L@9.5,24,204,[2],True,24,24,False,zero_place_inferred_from_spacing
+KH0455,3045918,SSSS@4 | L@18.5,45,405,[2],True,45,405,False,zero_place_inferred_from_spacing
+KH0455,3045935,SSS@10.5 | E@21.5,31,301,[2],True,31,31,False,zero_place_inferred_from_spacing
+KH0455,3045937,S@10.5 | L@22,15,105,[2],True,15,105,False,zero_place_inferred_from_spacing
+KH0455,3045941,S@11 | L@27,12,102,[2],True,12,102,False,zero_place_inferred_from_spacing
+KH0455,3045943,S@10 | L@23,12,102,[2],True,12,102,False,zero_place_inferred_from_spacing
+KH0455,3045966,S@5.5 | SSS@24.5 | E@32,1031,10031,"[1, 4]",True,131,10031,False,other
+KH0455,3045967,SS@6,2000,200,[2],False,20,200,False,no_units_cluster_place_ambiguous
+KH0455,3045976,SS@9.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0455,3045977,S@4.5 | S@9.5 | L@22,112,1102,"[2, 3]",True,112,1102,False,zero_place_inferred_from_spacing
+KH0455,3045979,S@12.5 | SSS@23.5 | L@31.5,137,1037,"[1, 3]",True,137,1037,False,zero_place_inferred_from_spacing
+KH0455,3046003,SSSSS@9,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0455,3046011,S@9 | L@20,12,102,[2],True,12,12,False,zero_place_inferred_from_spacing
+KH0455,3046019,S@3.5 | SSSS@14 | L@17,148,1048,"[1, 3]",True,148,148,False,zero_place_inferred_from_spacing
+KH0455,3046023,S@10 | SSS@22 | L@30.5,137,1037,"[1, 3]",True,137,1037,False,zero_place_inferred_from_spacing
+KH0457,3046102,S@8,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0457,3046103,S@8.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0457,3046105,S@9,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0457,3046106,S@9.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0457,3046112,S@10.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0459,3046169,SSSSS@12.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0459,3046170,SSSSS@14,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0459,3046171,SSSSS@13.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0459,3046172,SSSSS@13,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0459,3046173,SSS@4 | L@28.5,307,3007,[3],True,37,3007,False,other
+KH0463,3046342,S@3.5 | SSSSSSS@7.5 | SSS@14 | L@25,1733,17303,"[2, 3, 4]",True,1733,1733,False,zero_place_inferred_from_spacing
+KH0463,3046343,SSSSSSSSS@7.5 | SSS@14,930,9300,"[2, 3]",False,930,930,False,zero_place_inferred_from_spacing
+KH0463,3046345,SSSSSS@8.5 | SSSSSSSSS@14 | L@26.5,693,6903,"[2, 3]",True,693,6903,False,zero_place_inferred_from_spacing
+KH0467,3046690,S@10.5 | S@21 | L@37,112,1102,"[2, 3]",True,112,1102,False,zero_place_inferred_from_spacing
+KH0467,3046691,S@11.5 | SSSSSSS@19.5 | E@33.5,171,1701,"[2, 3]",True,171,1701,False,zero_place_inferred_from_spacing
+KH0467,3046705,S@7.5 | L@22.5,19,109,[2],True,19,109,False,zero_place_inferred_from_spacing
+KH0467,3046707,S@10 | E@23.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0468,3046763,SSSSSS@10.5 | S@20,70,610,"[1, 2]",False,610,610,False,no_units_cluster_place_ambiguous
+KH0468,3047214,S@4 | L@14.5,108,18,[1],True,18,18,False,other
+KH0468,3047367,S@4 | L@15,105,15,[1],True,15,15,False,other
+KH0468,3047520,S@4 | L@15.5,104,14,[1],True,14,14,False,other
+KH0471,3047970,SS@10.5 | L@20,2007,27,[1],True,27,27,False,other
+KH0471,3047986,SSS@9.5 | S@21.5 | L@31.5,3012,30102,"[2, 4]",True,312,3012,False,other
+KH0471,3047987,SSSS@15 | L@31.5,402,4002,[3],True,42,402,False,other
+KH0471,3048016,S@7,1000,10000,[4],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0471,3048034,S@11 | SSSS@17.5 | L@25.5,1407,147,"[1, 2]",True,147,147,False,other
+KH0471,3048039,SSS@17 | L@26.5,308,38,[1],True,38,308,False,other
+KH0471,3048051,SS@5.5 | S@18.5,2100,2010,"[1, 3]",False,210,2010,False,no_units_cluster_place_ambiguous
+KH0471,3048056,SS@6 | SSSSSSSS@19 | L@25,2806,2086,"[1, 3]",True,286,2086,False,other
+KH0472,3048078,SSSSS@7.5 | L@20.5,505,55,[1],True,55,505,False,other
+KH0472,3048079,S@7.5,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0472,3048080,S@7.5,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0472,3048082,S@7.5 | L@21.5,109,19,[1],True,19,109,False,other
+KH0472,3048083,SS@8 | L@22,203,23,[1],True,23,203,False,other
+KH0472,3048084,SS@7.5 | L@20.5,207,27,[1],True,27,207,False,other
+KH0472,3048085,S@7.5,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0472,3048086,SS@7 | L@21,209,29,[1],True,29,209,False,other
+KH0472,3048095,SS@7.5 | L@18.5,205,25,[1],True,25,25,False,other
+KH0472,3048104,SSS@8 | E@20,301,31,[1],True,31,301,False,other
+KH0472,3048113,SSSS@7 | L@18.5,402,42,[1],True,42,402,False,other
+KH0472,3048116,S@7,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0472,3048117,S@6.5,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0472,3048118,S@7,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0472,3048122,SSS@7 | L@18.5,307,37,[1],True,37,307,False,other
+KH0472,3048131,S@6 | L@16.5,102,12,[1],True,12,12,False,other
+KH0472,3048136,SSS@6.5 | L@19,308,38,[1],True,38,308,False,other
+KH0472,3048137,S@6.5 | L@19,102,12,[1],True,12,102,False,other
+KH0472,3048139,S@7 | L@19.5,102,12,[1],True,12,102,False,other
+KH0472,3048140,S@6.5 | L@19,102,12,[1],True,12,102,False,other
+KH0472,3048141,S@7 | L@19.5,105,15,[1],True,15,105,False,other
+KH0472,3048142,S@6.5 | L@19.5,102,12,[1],True,12,102,False,other
+KH0472,3048143,S@6.5,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0472,3048144,S@7 | L@20,102,12,[1],True,12,102,False,other
+KH0472,3048146,SSSS@7.5 | L@20.5,406,46,[1],True,46,406,False,other
+KH0472,3048149,S@7.5 | L@20.5,103,13,[1],True,13,103,False,other
+KH0472,3048153,S@8 | L@22.5,102,12,[1],True,12,102,False,other
+KH0472,3048155,SS@8,200,20,[1],False,20,200,False,no_units_cluster_place_ambiguous
+KH0472,3048164,S@8.5 | L@20.5,103,13,[1],True,13,103,False,other
+KH0472,3048181,S@8.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0472,3048189,SS@8 | E@20,201,21,[1],True,21,201,False,other
+KH0472,3048214,SSS@7,300,30,[1],False,30,300,False,no_units_cluster_place_ambiguous
+KH0472,3048222,S@5.5,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0472,3048225,S@5.5 | E@18,101,11,[1],True,11,101,False,other
+KH0472,3048229,S@7.5,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0472,3048247,S@7.5 | L@18,109,19,[1],True,19,19,False,other
+KH0198,3048269,SSS@6.5 | L@15.5,304,34,[1],True,34,34,False,other
+KH0198,3048270,SSS@6.5 | L@15,305,35,[1],True,35,35,False,other
+KH0198,3048271,SSSS@6,400,40,[1],False,40,40,False,no_units_cluster_place_ambiguous
+KH0198,3048272,SSS@6.5 | L@15.5,302,32,[1],True,32,32,False,other
+KH0198,3048275,SSSSSS@6 | SS@14 | L@24.5,627,6207,"[2, 3]",True,627,627,False,zero_place_inferred_from_spacing
+KH0198,3048276,S@5 | L@13.5,102,12,[1],True,12,12,False,other
+KH0198,3048277,S@5.5 | L@13.5,103,13,[1],True,13,13,False,other
+KH0198,3048387,SSS@6 | SSSSS@13 | L@23,357,3507,"[2, 3]",True,357,357,False,zero_place_inferred_from_spacing
+KH0198,3048388,SS@9.5 | L@21,23,203,[2],True,23,203,False,zero_place_inferred_from_spacing
+KH0198,3048392,SS@9 | E@19.5,21,201,[2],True,21,21,False,zero_place_inferred_from_spacing
+KH0198,3048402,SSS@9 | L@19,32,302,[2],True,32,32,False,zero_place_inferred_from_spacing
+KH0198,3048407,SS@9 | L@19.5,22,202,[2],True,22,22,False,zero_place_inferred_from_spacing
+KH0478,3048588,L@12,3,4,[],True,4,4,False,other
+KH0478,3048623,L@8,2,8,[],True,8,8,False,other
+KH0479,3048645,SS@14.5 | L@28,24,204,[2],True,24,204,False,zero_place_inferred_from_spacing
+KH0477,3048683,S@10.5 | L@22.5,18,108,[2],True,18,108,False,zero_place_inferred_from_spacing
+KH0473,3048753,SSSSSSSS@6.5,80,800,[2],False,80,800000,False,zero_place_inferred_from_spacing
+KH0473,3048754,SSSSS@17,500,50,[1],False,50,50000,False,no_units_cluster_place_ambiguous
+KH0473,3048761,S@11.5,10,100,[2],False,10,100000,False,zero_place_inferred_from_spacing
+KH0474,3048785,SSS@12,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0474,3048787,S@12 | E@24,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0474,3048788,S@12 | E@23.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0474,3048789,S@12.5 | L@24.5,12,102,[2],True,12,102,False,zero_place_inferred_from_spacing
+KH0474,3048791,S@12 | L@23.5,13,103,[2],True,13,103,False,zero_place_inferred_from_spacing
+KH0475,3048905,S@5 | SSS@11.5 | E@26.5,131,1301,"[2, 3]",True,131,1301,False,zero_place_inferred_from_spacing
+KH0476,3048925,SSSSSSS@13.5 | L@28,74,704,[2],True,74,704,False,zero_place_inferred_from_spacing
+KH0476,3048926,SSSSS@5 | L@26,503,50003,[4],True,53,5003,False,other
+KH0476,3048927,SSSSS@12.5 | L@25,54,504,[2],True,54,504,False,zero_place_inferred_from_spacing
+KH0476,3048928,S@7 | SSSSSS@16.5 | E@32,161,106001,"[3, 5]",True,161,1601,False,zero_place_inferred_from_spacing
+KH0476,3048929,S@5.5 | SSSSS@15 | L@29,153,10503,"[2, 4]",True,153,1503,False,zero_place_inferred_from_spacing
+KH0476,3048941,S@4.5 | S@12 | L@21,116,1106,"[2, 3]",True,116,1106,False,zero_place_inferred_from_spacing
+KH0476,3048953,SS@3.5 | L@15,23,203,[2],True,23,203,False,zero_place_inferred_from_spacing
+KH0476,3048987,S@2.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0476,3048988,SSSSSSS@8 | SS@17.5,720,7020,"[1, 3]",False,720,720,False,zero_place_inferred_from_spacing
+KH0476,3048990,SSS@3.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0476,3048992,SSSSSSSS@0.5,80,8000,[3],False,80,800,False,zero_place_inferred_from_spacing
+KH0483,3049114,SSS@9.5 | S@17.5 | S@25.5 | S@36.5 | S@38.5,31111,311110,"[1, 2, 3, 4, 5]",False,311110,311110,False,no_units_cluster_place_ambiguous
+KH0485,3049158,SSSSSSS@8 | S@19,7100,7010,"[1, 3]",False,710,710,False,no_units_cluster_place_ambiguous
+KH0566,3049218,SSSSSSSS@11.5 | E@22.5,801,81,[1],True,81,81,False,other
+KH0058,3049662,SSSS@1.5 | E@11.5,41,401,[2],True,41,41,False,zero_place_inferred_from_spacing
+KH0058,3049663,S@1 | E@12,11,101,[2],True,11,11,False,zero_place_inferred_from_spacing
+KH0049,3049894,S@4,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0049,3049991,SSSSS@3.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0049,3049999,SSS@4.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0049,3050094,SSS@4.5,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0049,3050107,SS@4,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0567,3050139,SSSSSS@2.5 | SSSSSS@7 | SSSSSS@11,666,6660,"[1, 2, 3]",False,6660,6660,False,no_units_cluster_place_ambiguous
+KH0567,3050145,SSSSS@7,500,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0567,3050146,SSSSS@7,500,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0567,3050147,SSS@6.5,300,30,[1],False,30,30,False,no_units_cluster_place_ambiguous
+KH0567,3050148,SSSSS@7,500,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0057,3050541,S@2.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0574,3050775,S@3,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0581,3051214,S@12.5 | S@20.5,20,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0582,3051224,SSSSSS@10.5 | S@18,70,610,"[1, 2]",False,610,610,False,no_units_cluster_place_ambiguous
+KH0584,3051328,S@5.5 | S@12.5,20,110,"[1, 2]",False,110,110,False,no_units_cluster_place_ambiguous
+KH0584,3051330,SSSS@6 | SS@13,60,420,"[1, 2]",False,420,420,False,no_units_cluster_place_ambiguous
+KH0584,3051334,SS@3 | S@6.5 | SSSSS@13.5,80,2150,"[1, 2, 3]",False,2150,2150,False,no_units_cluster_place_ambiguous
+KH0584,3051339,SSSSSSSS@8 | SSSSSS@13.5,140,860,"[1, 2]",False,860,860,False,no_units_cluster_place_ambiguous
+KH0584,3051340,SSSSS@8 | SSSSSSS@14.5,120,570,"[1, 2]",False,570,570,False,no_units_cluster_place_ambiguous
+KH0584,3051343,SSSSS@8.5 | SSSSSSSSS@15,140,590,"[1, 2]",False,590,590,False,no_units_cluster_place_ambiguous
+KH0586,3051391,S@3 | SSSSSSSS@15,1080,180,"[1, 2]",False,180,1080,False,no_units_cluster_place_ambiguous
+KH0586,3051404,S@3 | SSSSSSSSS@15.5 | E@22.5,1091,191,"[1, 2]",True,191,1091,False,other
+KH0586,3051549,SSS@7.5,300,30,[1],False,30,300,False,no_units_cluster_place_ambiguous
+KH0586,3051554,S@3.5 | SSS@12.5,1030,130,"[1, 2]",False,130,130,False,no_units_cluster_place_ambiguous
+KH0586,3051558,S@6,100,10,[1],False,10,100,False,no_units_cluster_place_ambiguous
+KH0487,3051813,S@8 | E@32.5,11,1001,[3],True,11,1001,False,zero_place_inferred_from_spacing
+KH0487,3051817,S@7.5,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0487,3051821,S@8,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0487,3051827,S@8,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0487,3051836,SSS@8,30,3000,[3],False,30,3000,False,zero_place_inferred_from_spacing
+KH0487,3051840,S@7,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0487,3051842,S@6,10,10000,[4],False,10,10000,False,zero_place_inferred_from_spacing
+KH0569,3052096,SSSS@7,400,4000,[3],False,40,4000,False,no_units_cluster_place_ambiguous
+KH0569,3052108,S@6,100,10000,[4],False,10,10000,False,no_units_cluster_place_ambiguous
+KH0569,3052116,SSSSS@14.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0569,3052139,S@5.5 | S@14,110,11000,"[3, 4]",False,110,11000,False,zero_place_inferred_from_spacing
+KH0569,3052146,S@13,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0569,3052147,S@5.5,100,10000,[4],False,10,10000,False,no_units_cluster_place_ambiguous
+KH0493,3052252,SSS@15,3000,300,[2],False,30,300,False,no_units_cluster_place_ambiguous
+KH0493,3052262,S@9,100,1000,[3],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0491,3052283,S@6,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0491,3052290,S@6,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0491,3052342,SS@3.5 | E@13.5,201,21,[1],True,21,21,False,other
+KH0491,3052364,S@3.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0492,3052511,SS@4.5,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0492,3052513,S@5.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0492,3052536,S@6,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0498,3052707,S@19.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0498,3052709,SSSS@10.5 | SSSSSSSS@16,480,4800,"[2, 3]",False,480,4800,False,zero_place_inferred_from_spacing
+KH0498,3052710,S@4.5 | SSS@17,1030,10300,"[2, 4]",False,130,10300,False,no_units_cluster_place_ambiguous
+KH0498,3052737,S@7,100,1000,[3],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0498,3052739,S@7,100,1000,[3],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0498,3052745,SS@5,200,2000,[3],False,20,2000,False,no_units_cluster_place_ambiguous
+KH0498,3052761,S@7 | S@11 | SSSSSSSS@17,1180,11800,"[2, 3, 4]",False,1180,11800,False,zero_place_inferred_from_spacing
+KH0498,3052768,S@13,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0498,3052777,S@12,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0498,3052780,S@13,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0498,3052781,S@10,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0498,3052792,SS@12,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0498,3052798,S@11,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0498,3052800,SSS@10.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0498,3052804,S@10,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0498,3052842,S@5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0498,3052897,SSSSS@3.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0498,3052912,SSS@3,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0498,3052928,SSSSSSSSS@3,90,900,[2],False,90,900,False,zero_place_inferred_from_spacing
+KH0498,3052936,SSSSSS@4,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0498,3052955,S@7,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0498,3052961,S@9.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0498,3052975,SSSSS@7 | S@25,150,5010,"[1, 3]",False,510,5010,False,no_units_cluster_place_ambiguous
+KH0498,3052980,SSS@2.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0498,3052984,S@4.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0498,3052985,SSSSS@2,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0498,3052986,SS@2.5,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0498,3052992,SSSS@2,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0498,3052998,SSSSSSSSS@3,90,900,[2],False,90,900,False,zero_place_inferred_from_spacing
+KH0498,3053006,SSSSSSS@3,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0498,3053008,SSSS@7,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0498,3053010,S@2.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0498,3053058,S@5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0498,3053059,SSS@3.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0498,3053060,S@3,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0498,3053061,S@2,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0498,3053071,SS@2,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0498,3053080,SSSSSS@5.5 | E@14,601,61,[1],True,61,61,False,other
+KH0498,3053166,S@2.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0498,3053180,S@6,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0500,3053556,SS@7.5,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0500,3053557,S@7.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0500,3053558,SS@8 | E@17,21,201,[2],True,21,21,False,zero_place_inferred_from_spacing
+KH0500,3053587,SS@6,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0502,3053768,SSSSSS@12.5 | SSSS@21 | E@36,641,6401,"[2, 3]",True,641,6401,False,zero_place_inferred_from_spacing
+KH0502,3053771,S@5,100,1000,[3],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0502,3053805,SSS@4.5,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0502,3053807,S@5,100,1000,[3],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0502,3053811,SS@3.5 | SSSSS@10,2500,250,"[1, 2]",False,250,250,False,no_units_cluster_place_ambiguous
+KH0502,3053831,SSSSSSS@12,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0503,3053852,S@5.5 | SSSSSS@12 | E@24,161,1601,"[2, 3]",True,161,1601,False,zero_place_inferred_from_spacing
+KH0503,3053854,S@5 | SSSS@10.5,140,1400,"[2, 3]",False,140,1400,False,zero_place_inferred_from_spacing
+KH0504,3053953,S@2,1000,100,[2],False,10,100,False,no_units_cluster_place_ambiguous
+KH0505,3054087,SSSSS@14,500,5000,[3],False,50,500,False,no_units_cluster_place_ambiguous
+KH0505,3054088,S@4.5 | SSSS@9 | SSS@15 | S@21 | E@31.5,14311,143101,"[2, 3, 4, 5]",True,14311,14311,False,zero_place_inferred_from_spacing
+KH0505,3054153,S@6,1000,10000,[4],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0505,3054165,S@4.5 | SSSSSSS@13,10700,1700,"[2, 3]",False,170,1700,False,no_units_cluster_place_ambiguous
+KH0505,3054187,SS@6 | SS@12,2200,22000,"[3, 4]",False,220,2200,False,no_units_cluster_place_ambiguous
+KH0505,3054192,SSSSSSSS@5.5,8000,80000,[4],False,80,8000,False,no_units_cluster_place_ambiguous
+KH0505,3054219,SSSS@11 | SS@17.5,420,4200,"[2, 3]",False,420,420,False,zero_place_inferred_from_spacing
+KH0505,3054224,SSSSSS@7,600,6000,[3],False,60,6000,False,no_units_cluster_place_ambiguous
+KH0505,3054226,SS@4.5 | SSSSSSSSS@10.5 | SSSSSSSSS@16.5,2990,29900,"[2, 3, 4]",False,2990,2990,False,zero_place_inferred_from_spacing
+KH0506,3054246,SS@8 | SS@13.5,220,2200,"[2, 3]",False,220,220,False,zero_place_inferred_from_spacing
+KH0506,3054250,SSSS@13.5,40,400,[2],False,40,40,False,zero_place_inferred_from_spacing
+KH0506,3054251,SS@7,200,2000,[3],False,20,200,False,no_units_cluster_place_ambiguous
+KH0506,3054252,SSSSS@8.5 | SSS@14.5,530,5300,"[2, 3]",False,530,530,False,zero_place_inferred_from_spacing
+KH0506,3054253,SS@2.5 | SSS@8,2300,23000,"[3, 4]",False,230,2300,False,no_units_cluster_place_ambiguous
+KH0506,3054254,SSSS@14,40,400,[2],False,40,40,False,zero_place_inferred_from_spacing
+KH0506,3054256,SSSS@6 | SS@11.5,420,4200,"[2, 3]",False,420,4200,False,zero_place_inferred_from_spacing
+KH0506,3054257,SSS@9 | SSSSSS@15,360,3600,"[2, 3]",False,360,360,False,zero_place_inferred_from_spacing
+KH0506,3054258,SS@2 | SSS@8 | SSSSSS@13.5,2360,23600,"[2, 3, 4]",False,2360,2360,False,zero_place_inferred_from_spacing
+KH0506,3054262,S@8,100,1000,[3],False,10,100,False,no_units_cluster_place_ambiguous
+KH0506,3054263,SSSS@8.5,400,4000,[3],False,40,400,False,no_units_cluster_place_ambiguous
+KH0506,3054264,SSSSSSS@8.5 | S@14,710,7100,"[2, 3]",False,710,710,False,zero_place_inferred_from_spacing
+KH0506,3054265,SS@14,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0506,3054266,SS@14,20,200,[2],False,20,20,False,zero_place_inferred_from_spacing
+KH0506,3054269,S@9 | S@13.5,110,1100,"[2, 3]",False,110,110,False,zero_place_inferred_from_spacing
+KH0506,3054274,SSS@8.5,300,3000,[3],False,30,300,False,no_units_cluster_place_ambiguous
+KH0506,3054279,SS@19,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0506,3054281,S@4 | SSSSSSSS@10,1800,18000,"[3, 4]",False,180,1800,False,no_units_cluster_place_ambiguous
+KH0506,3054282,S@4 | SSSS@10 | SSSS@15,1440,14400,"[2, 3, 4]",False,1440,1440,False,zero_place_inferred_from_spacing
+KH0506,3054283,S@9,100,1000,[3],False,10,100,False,no_units_cluster_place_ambiguous
+KH0506,3054286,S@4.5 | SSSSSS@10,1600,16000,"[3, 4]",False,160,1600,False,no_units_cluster_place_ambiguous
+KH0506,3054287,S@4 | SSS@9.5,1300,13000,"[3, 4]",False,130,1300,False,no_units_cluster_place_ambiguous
+KH0506,3054288,S@9,100,1000,[3],False,10,100,False,no_units_cluster_place_ambiguous
+KH0506,3054292,SS@10,200,2000,[3],False,20,200,False,no_units_cluster_place_ambiguous
+KH0506,3054298,S@4 | SSSSSSS@10 | SSSSSSSS@14.5,1780,17800,"[2, 3, 4]",False,1780,1780,False,zero_place_inferred_from_spacing
+KH0506,3054303,SS@4.5 | SSSSSSS@10,2700,27000,"[3, 4]",False,270,2700,False,no_units_cluster_place_ambiguous
+KH0506,3054304,SS@4.5 | SSSSSS@9.5,2600,26000,"[3, 4]",False,260,2600,False,no_units_cluster_place_ambiguous
+KH0506,3054306,SS@4.5 | SSSSSSSS@10 | S@14.5,2810,28100,"[2, 3, 4]",False,2810,2810,False,zero_place_inferred_from_spacing
+KH0506,3054307,SS@5 | SSSSSSS@10,2700,27000,"[3, 4]",False,270,2700,False,no_units_cluster_place_ambiguous
+KH0506,3054314,S@4.5 | SSSSSSS@9.5 | SSS@14.5,1730,17300,"[2, 3, 4]",False,1730,1730,False,zero_place_inferred_from_spacing
+KH0506,3054320,SS@4.5 | SSS@10,2300,23000,"[3, 4]",False,230,2300,False,no_units_cluster_place_ambiguous
+KH0506,3054323,SS@4 | SSSSS@9.5,2500,25000,"[3, 4]",False,250,2500,False,no_units_cluster_place_ambiguous
+KH0506,3054354,SS@5 | SSSSSSSS@10.5 | S@15.5,2810,28100,"[2, 3, 4]",False,2810,2810,False,zero_place_inferred_from_spacing
+KH0506,3054362,S@4.5,1000,10000,[4],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0506,3054383,SS@4.5 | SS@10,2200,22000,"[3, 4]",False,220,2200,False,no_units_cluster_place_ambiguous
+KH0506,3054385,SS@5 | S@10,2100,21000,"[3, 4]",False,210,2100,False,no_units_cluster_place_ambiguous
+KH0506,3054405,S@4,1000,10000,[4],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0506,3054408,SS@5 | SSSSSSS@11 | SSSSS@17 | E@28,2751,27501,"[2, 3, 4]",True,2751,2751,False,zero_place_inferred_from_spacing
+KH0506,3054431,S@4,1000,10000,[4],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0506,3054436,S@4.5 | S@10 | SSS@15.5,1130,11300,"[2, 3, 4]",False,1130,1130,False,zero_place_inferred_from_spacing
+KH0506,3054449,SSSS@11 | SSSSS@17 | E@29,451,4501,"[2, 3]",True,451,4501,False,zero_place_inferred_from_spacing
+KH0506,3054461,S@4,1000,10000,[4],False,10,1000,False,no_units_cluster_place_ambiguous
+KH0506,3054471,SS@4.5 | SS@10,2200,22000,"[3, 4]",False,220,2200,False,no_units_cluster_place_ambiguous
+KH0506,3054483,SS@4.5 | S@10,2100,21000,"[3, 4]",False,210,2100,False,no_units_cluster_place_ambiguous
+KH0506,3054501,SS@4,2000,20000,[4],False,20,2000,False,no_units_cluster_place_ambiguous
+KH0506,3054502,SS@4.5,2000,20000,[4],False,20,2000,False,no_units_cluster_place_ambiguous
+KH0506,3054504,SS@10.5 | SSSSSSS@19,270,2070,"[1, 3]",False,270,270,False,zero_place_inferred_from_spacing
+KH0506,3054526,SSS@3 | SSS@8.5,330,33000,"[3, 4]",False,330,3300,False,zero_place_inferred_from_spacing
+KH0506,3054529,SS@5.5 | SSSSSS@12.5,260,2600,"[2, 3]",False,260,2600,False,zero_place_inferred_from_spacing
+KH0506,3054534,S@6 | SSSSSSSSS@11,190,1900,"[2, 3]",False,190,1900,False,zero_place_inferred_from_spacing
+KH0506,3054535,SSS@8,30,3000,[3],False,30,300,False,zero_place_inferred_from_spacing
+KH0506,3054536,SSS@7,30,3000,[3],False,30,300,False,zero_place_inferred_from_spacing
+KH0506,3054537,SSSSSSSS@4 | SSSSS@9,850,85000,"[3, 4]",False,850,8500,False,zero_place_inferred_from_spacing
+KH0506,3054541,SSSSSSS@8.5,700,7000,[3],False,70,700,False,no_units_cluster_place_ambiguous
+KH0506,3054542,SSS@5,300,3000,[3],False,30,3000,False,no_units_cluster_place_ambiguous
+KH0506,3054547,SSS@7.5,30,3000,[3],False,30,300,False,zero_place_inferred_from_spacing
+KH0506,3054548,SSSSSSSS@8.5,80,8000,[3],False,80,800,False,zero_place_inferred_from_spacing
+KH0506,3054550,S@7.5 | SSSSSS@11.5,160,1600,"[2, 3]",False,160,1600,False,zero_place_inferred_from_spacing
+KH0506,3054552,S@8.5,10,1000,[3],False,10,100,False,zero_place_inferred_from_spacing
+KH0506,3054553,S@9.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0506,3054555,SSSSS@8,500,5000,[3],False,50,500,False,no_units_cluster_place_ambiguous
+KH0506,3054565,S@13.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0507,3054678,S@3 | E@15,1001,101,[2],True,11,101,False,other
+KH0507,3054754,SSSSS@11 | E@23,51,501,[2],True,51,501,False,zero_place_inferred_from_spacing
+KH0507,3054767,SSSSSS@10.5 | E@25.5,61,601,[2],True,61,601,False,zero_place_inferred_from_spacing
+KH0507,3054769,SSSS@10 | E@21.5,41,401,[2],True,41,401,False,zero_place_inferred_from_spacing
+KH0507,3054789,SSSS@6,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0507,3054838,SSS@8.5 | E@21,31,301,[2],True,31,301,False,zero_place_inferred_from_spacing
+KH0507,3054846,S@6.5,10,100,[2],False,10,10,False,zero_place_inferred_from_spacing
+KH0507,3054882,SSSS@5.5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0507,3054921,S@2.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0508,3054951,SS@5,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0508,3054955,S@3 | SSSSSSS@9 | SSSSSS@18,1760,17060,"[1, 3, 4]",False,1760,1760,False,zero_place_inferred_from_spacing
+KH0508,3054956,S@4 | SSSSSS@10,1600,160,"[1, 2]",False,160,160,False,no_units_cluster_place_ambiguous
+KH0508,3054992,SS@4,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0508,3054993,SS@2.5,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0508,3054995,SS@3.5,200,20,[1],False,20,20,False,no_units_cluster_place_ambiguous
+KH0508,3055006,SS@9 | SS@17,400,220,"[1, 2]",False,220,220,False,no_units_cluster_place_ambiguous
+KH0510,3055473,S@8,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0511,3055500,SS@3.5 | SSS@8.5,2300,23000,"[3, 4]",False,230,2300,False,no_units_cluster_place_ambiguous
+KH0511,3055527,S@7 | SSS@12.5,130,1300,"[2, 3]",False,130,130,False,zero_place_inferred_from_spacing
+KH0511,3055528,SSSS@7,400,4000,[3],False,40,400,False,no_units_cluster_place_ambiguous
+KH0511,3055529,SS@11.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0511,3055535,SSSS@11.5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0511,3055549,S@3 | SS@7,1200,12000,"[3, 4]",False,120,1200,False,no_units_cluster_place_ambiguous
+KH0511,3055558,SSS@6,300,3000,[3],False,30,300,False,no_units_cluster_place_ambiguous
+KH0511,3055559,SS@6,200,2000,[3],False,20,200,False,no_units_cluster_place_ambiguous
+KH0511,3055579,S@3.5 | S@8.5 | SSSSSSSS@14.5 | E@29,1181,118001,"[3, 4, 5]",True,1181,11801,False,zero_place_inferred_from_spacing
+KH0511,3055585,S@3.5 | SSS@8 | SSSSSS@14 | E@23,1361,13601,"[2, 3, 4]",True,1361,1361,False,zero_place_inferred_from_spacing
+KH0511,3055609,SS@7,200,2000,[3],False,20,200,False,no_units_cluster_place_ambiguous
+KH0512,3055635,SSS@10 | SSSSSSSSS@16 | E@28,391,3901,"[2, 3]",True,391,3901,False,zero_place_inferred_from_spacing
+KH0512,3055637,SSS@17,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0512,3055679,SSS@12.5,30,300,[2],False,30,30,False,zero_place_inferred_from_spacing
+KH0512,3055682,SSS@12,30,300,[2],False,30,300,False,zero_place_inferred_from_spacing
+KH0513,3055762,S@4.5 | SS@10,1200,120000,"[4, 5]",False,120,12000,False,no_units_cluster_place_ambiguous
+KH0513,3055763,SSSSSSSSS@10 | SSSSSSSS@16.5 | E@33,981,98001,"[3, 4]",True,981,9801,False,zero_place_inferred_from_spacing
+KH0513,3055764,SS@10,200,20000,[4],False,20,2000,False,no_units_cluster_place_ambiguous
+KH0513,3055819,S@7.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0513,3055824,S@3.5,10,1000,[3],False,10,1000,False,zero_place_inferred_from_spacing
+KH0513,3055826,S@7,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0514,3055893,SS@4 | SSSSSSSSS@9 | SSSSS@19,2950,29050,"[1, 3, 4]",False,2950,2950,False,zero_place_inferred_from_spacing
+KH0514,3055897,SS@4.5 | SSSS@9.5 | SSSSS@18.5 | E@20,2451,24051,"[1, 3, 4]",True,2451,2451,False,zero_place_inferred_from_spacing
+KH0514,3055937,S@3.5 | SSSSSSSS@8.5 | SSSSSSSSS@17 | E@23.5,1891,18091,"[1, 3, 4]",True,1891,1891,False,zero_place_inferred_from_spacing
+KH0514,3055968,S@8 | S@17,110,1010,"[1, 3]",False,110,110,False,zero_place_inferred_from_spacing
+KH0518,3055993,S@6 | E@21,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0516,3056055,SS@6 | SSSSSSS@14 | S@20 | E@22.6,281,2711,"[1, 2, 3]",True,2711,2711,False,other
+KH0517,3056390,SSS@6 | SSSSSSS@20 | E@28,371,3071,"[1, 3]",True,371,3071,False,zero_place_inferred_from_spacing
+KH0517,3056403,SSS@4.5 | SSSS@11 | E@25.5,341,3401,"[2, 3]",True,341,3401,False,zero_place_inferred_from_spacing
+KH0517,3056435,SS@4.5 | E@26,201,2001,[3],True,21,2001,False,other
+KH0517,3056482,S@4.5 | SSS@10 | E@23.5,131,1301,"[2, 3]",True,131,1301,False,zero_place_inferred_from_spacing
+KH0517,3056492,SS@4.5 | SSSSSSS@11.5 | E@25,271,2701,"[2, 3]",True,271,2701,False,zero_place_inferred_from_spacing
+KH0517,3056569,SS@4 | E@12.5,201,21,[1],True,21,21,False,other
+KH0517,3056570,SSSS@8.5,40,400,[2],False,40,40,False,zero_place_inferred_from_spacing
+KH0519,3056620,S@3,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0519,3056688,S@5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0519,3056700,SSSSSSS@7.5,70,700,[2],False,70,700,False,zero_place_inferred_from_spacing
+KH0519,3056707,S@3,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0519,3056712,SSSS@2,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0519,3056739,SS@5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0519,3056755,SS@2 | S@9,210,2100,"[2, 3]",False,210,210,False,zero_place_inferred_from_spacing
+KH0519,3056768,S@2,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0519,3056773,S@2 | SSSSSSSS@6,180,1800,"[2, 3]",False,180,1800,False,zero_place_inferred_from_spacing
+KH0608,3056831,SSSSSS@5.5,60,600,[2],False,60,600,False,zero_place_inferred_from_spacing
+KH0608,3056834,SSSS@5.5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0608,3056835,SSSS@5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0608,3056838,S@5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0608,3056839,SSSSSSSS@5,80,800,[2],False,80,800,False,zero_place_inferred_from_spacing
+KH0608,3056841,S@5.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0608,3056842,SS@6,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0608,3056843,SSSSS@6,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0608,3056844,SSSS@6,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0612,3056915,SS@4 | E@17,21,201,[2],True,21,201,False,zero_place_inferred_from_spacing
+KH0612,3056933,S@2 | E@13,101,11,[1],True,11,11,False,other
+KH0612,3057000,S@2,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0614,3057117,SSSSS@6,5000,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0614,3057119,SSSSS@4,5000,50,[1],False,50,50,False,no_units_cluster_place_ambiguous
+KH0616,3057194,S@2.5 | E@14.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0617,3057300,S@5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0617,3057355,SSSS@2.5 | E@14,41,401,[2],True,41,401,False,zero_place_inferred_from_spacing
+KH0617,3057399,S@2,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0617,3057460,S@3.7,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0617,3057536,S@4,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0617,3057571,SS@4,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0617,3057576,SSSSS@2.5,50,500,[2],False,50,500,False,zero_place_inferred_from_spacing
+KH0617,3057596,SS@3,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0618,3057635,SS@4,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0618,3057645,S@4,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0618,3057665,S@3,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0628,3057940,SSSSSS@6,600,60,[1],False,60,60,False,no_units_cluster_place_ambiguous
+KH0081,3058051,SS@7.5 | SS@26,2200,2020,"[1, 3]",False,220,2020,False,no_units_cluster_place_ambiguous
+KH0081,3058161,SS@8,2000,20,[1],False,20,200,False,no_units_cluster_place_ambiguous
+KH0081,3058179,SSSSS@8,500,50,[1],False,50,500,False,no_units_cluster_place_ambiguous
+KH0521,3058342,SSSSSS@10,60,600,[2],False,60,60,False,zero_place_inferred_from_spacing
+KH0521,3058345,S@10,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0521,3058348,S@11,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0521,3058351,S@10,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0521,3058354,S@10,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0521,3058362,S@10.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0521,3058363,S@10.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0521,3058364,S@11,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0521,3058366,S@10.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0521,3058369,S@10.5,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0521,3058371,S@10.5 | E@25.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0521,3058404,SSSS@7,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0521,3058433,SSSS@3.5 | SSSSSS@8,460,4600,"[2, 3]",False,460,4600,False,zero_place_inferred_from_spacing
+KH0521,3058434,SSSS@4 | SSSS@9,440,4400,"[2, 3]",False,440,4400,False,zero_place_inferred_from_spacing
+KH0521,3058435,SS@4.5 | SS@8,220,2200,"[2, 3]",False,220,2200,False,zero_place_inferred_from_spacing
+KH0521,3058437,SSSSSSSS@6.5,80,800,[2],False,80,800,False,zero_place_inferred_from_spacing
+KH0521,3058448,SS@9,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0521,3058450,SS@1 | SSSSSSSSS@5 | S@17,2910,29010,"[1, 3, 4]",False,2910,29010,False,zero_place_inferred_from_spacing
+KH0521,3058451,SS@1 | SSSSSSSSS@5 | S@17,2910,29010,"[1, 3, 4]",False,2910,29010,False,zero_place_inferred_from_spacing
+KH0521,3058457,SSSS@5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0521,3058458,SSSS@5,40,400,[2],False,40,400,False,zero_place_inferred_from_spacing
+KH0521,3058459,SSSSSSSS@4.5,80,800,[2],False,80,800,False,zero_place_inferred_from_spacing
+KH0521,3058460,SS@4.5,20,200,[2],False,20,200,False,zero_place_inferred_from_spacing
+KH0524,3058532,S@9 | E@23,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0524,3058533,S@9.5 | E@22.5,11,101,[2],True,11,101,False,zero_place_inferred_from_spacing
+KH0524,3058534,S@10,10,100,[2],False,10,100,False,zero_place_inferred_from_spacing
+KH0525,3058588,S@10.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous
+KH0525,3058591,S@4.5,1000,100,[2],False,10,100,False,no_units_cluster_place_ambiguous
+KH0529,3058767,SSS@5,300,30,[1],False,30,30,False,no_units_cluster_place_ambiguous
+KH0529,3058791,SSSS@5,400,40,[1],False,40,40,False,no_units_cluster_place_ambiguous
+KH0529,3058913,SSSS@5.5,400,40,[1],False,40,40,False,no_units_cluster_place_ambiguous
+KH0532,3058998,S@8.5,100,10,[1],False,10,10,False,no_units_cluster_place_ambiguous

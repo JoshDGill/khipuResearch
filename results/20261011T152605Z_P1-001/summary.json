@@ -1,0 +1,39 @@
+{
+  "prereg": "P1-001",
+  "eligible_cords": 29688,
+  "agree": 27819,
+  "agreement": 0.9370452708164915,
+  "agreement_ci95_wilson": [
+    0.9342255102997956,
+    0.939751943607527
+  ],
+  "tolerance": "x >= 0.99",
+  "inside_tolerance": false,
+  "spacing_corpus_median_cm": 7.5,
+  "cords_with_knots": 37082,
+  "orphan_knots_ignored": 526,
+  "exclusions": {
+    "long_knot_turns_invalid": 4546,
+    "le_above_units": 2239,
+    "undecodable_knot_type": 538,
+    "units_multiple_le": 69,
+    "units_mixed_s_and_le": 2
+  },
+  "mismatch_causes": {
+    "zero_place_inferred_from_spacing": 1113,
+    "no_units_cluster_place_ambiguous": 431,
+    "other": 325
+  },
+  "sensitivity": {
+    "consecutive_place": 0.9475882511452439,
+    "group_spacing": 0.9230328752357855,
+    "kfg_value": "pending: KFG download not complete",
+    "additive_reading": "not run: the additive model of Overmann & Florio (2025) needs an operational definition before it can be computed"
+  },
+  "data_quality": {
+    "knot_value_type_consistent_with_type": 0.9560603172009333,
+    "knots_checked": 110151,
+    "total_value_cords_with_all_clusters_nonnull": 27454,
+    "total_value_agrees_with_reference": 0.0007649158592554819
+  }
+}

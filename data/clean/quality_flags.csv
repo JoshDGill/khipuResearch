@@ -1,0 +1,1114 @@
+kh,flag,value,detail
+KH0001,partial_attachment,0.6299,attachment known on 63% of 154.0
+KH0001,undecodable_knots,0.0285,knots outside S/L/E or L without 2-9 turns
+KH0002,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0003,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0004,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0005,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0006,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0007,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0008,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0009,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0010,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0011,missing_attachment,0.0,no attachment recorded on any of 28.0
+KH0011,missing_knot_direction,0.0,no knot_direction recorded on any of 37.0
+KH0011,missing_ply,0.0,no ply recorded on any of 28.0
+KH0012,missing_attachment,0.0,no attachment recorded on any of 24.0
+KH0012,missing_knot_direction,0.0,no knot_direction recorded on any of 63.0
+KH0012,missing_ply,0.0,no ply recorded on any of 24.0
+KH0013,missing_attachment,0.0,no attachment recorded on any of 105.0
+KH0013,missing_knot_direction,0.0,no knot_direction recorded on any of 38.0
+KH0013,missing_ply,0.0,no ply recorded on any of 105.0
+KH0014,missing_attachment,0.0,no attachment recorded on any of 90.0
+KH0014,missing_knot_direction,0.0,no knot_direction recorded on any of 55.0
+KH0014,missing_ply,0.0,no ply recorded on any of 90.0
+KH0014,undecodable_knots,0.0364,knots outside S/L/E or L without 2-9 turns
+KH0015,missing_attachment,0.0,no attachment recorded on any of 75.0
+KH0015,missing_knot_direction,0.0,no knot_direction recorded on any of 489.0
+KH0015,missing_ply,0.0,no ply recorded on any of 75.0
+KH0015,undecodable_knots,0.0123,knots outside S/L/E or L without 2-9 turns
+KH0016,missing_attachment,0.0,no attachment recorded on any of 12.0
+KH0016,missing_knot_direction,0.0,no knot_direction recorded on any of 9.0
+KH0016,missing_ply,0.0,no ply recorded on any of 12.0
+KH0017,missing_attachment,0.0,no attachment recorded on any of 11.0
+KH0017,missing_knot_direction,0.0,no knot_direction recorded on any of 14.0
+KH0017,missing_ply,0.0,no ply recorded on any of 11.0
+KH0017,undecodable_knots,0.0714,knots outside S/L/E or L without 2-9 turns
+KH0018,missing_attachment,0.0,no attachment recorded on any of 39.0
+KH0018,missing_knot_direction,0.0,no knot_direction recorded on any of 28.0
+KH0018,missing_ply,0.0,no ply recorded on any of 39.0
+KH0019,missing_attachment,0.0,no attachment recorded on any of 10.0
+KH0019,missing_knot_direction,0.0,no knot_direction recorded on any of 69.0
+KH0019,missing_ply,0.0,no ply recorded on any of 10.0
+KH0020,missing_attachment,0.0,no attachment recorded on any of 9.0
+KH0020,missing_knot_direction,0.0,no knot_direction recorded on any of 8.0
+KH0020,missing_ply,0.0,no ply recorded on any of 9.0
+KH0021,missing_attachment,0.0,no attachment recorded on any of 10.0
+KH0021,missing_knot_direction,0.0,no knot_direction recorded on any of 37.0
+KH0021,missing_ply,0.0,no ply recorded on any of 10.0
+KH0022,missing_attachment,0.0,no attachment recorded on any of 75.0
+KH0022,missing_knot_direction,0.0,no knot_direction recorded on any of 93.0
+KH0022,missing_ply,0.0,no ply recorded on any of 75.0
+KH0022,undecodable_knots,0.0108,knots outside S/L/E or L without 2-9 turns
+KH0023,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0024,missing_attachment,0.0,no attachment recorded on any of 8.0
+KH0024,missing_knot_direction,0.0,no knot_direction recorded on any of 5.0
+KH0024,missing_ply,0.0,no ply recorded on any of 8.0
+KH0025,missing_attachment,0.0,no attachment recorded on any of 3.0
+KH0025,missing_knot_direction,0.0,no knot_direction recorded on any of 3.0
+KH0025,missing_ply,0.0,no ply recorded on any of 3.0
+KH0026,missing_attachment,0.0,no attachment recorded on any of 2.0
+KH0026,missing_ply,0.0,no ply recorded on any of 2.0
+KH0026,no_knots,0.0,no knots recorded
+KH0027,missing_attachment,0.0,no attachment recorded on any of 77.0
+KH0027,missing_knot_direction,0.0,no knot_direction recorded on any of 50.0
+KH0027,missing_ply,0.0,no ply recorded on any of 77.0
+KH0028,missing_attachment,0.0,no attachment recorded on any of 260.0
+KH0028,missing_knot_direction,0.0,no knot_direction recorded on any of 280.0
+KH0028,missing_ply,0.0,no ply recorded on any of 260.0
+KH0029,missing_attachment,0.0,no attachment recorded on any of 28.0
+KH0029,missing_knot_direction,0.0,no knot_direction recorded on any of 26.0
+KH0029,missing_ply,0.0,no ply recorded on any of 28.0
+KH0030,missing_attachment,0.0,no attachment recorded on any of 56.0
+KH0030,missing_knot_direction,0.0,no knot_direction recorded on any of 52.0
+KH0030,missing_ply,0.0,no ply recorded on any of 56.0
+KH0031,missing_attachment,0.0,no attachment recorded on any of 143.0
+KH0031,missing_knot_direction,0.0,no knot_direction recorded on any of 483.0
+KH0031,missing_ply,0.0,no ply recorded on any of 143.0
+KH0032,undecodable_knots,0.0115,knots outside S/L/E or L without 2-9 turns
+KH0033,partial_attachment,0.6207,attachment known on 62% of 87.0
+KH0034,partial_attachment,0.7597,attachment known on 76% of 541.0
+KH0034,undecodable_knots,0.0083,knots outside S/L/E or L without 2-9 turns
+KH0035,missing_attachment,0.0,no attachment recorded on any of 12.0
+KH0035,missing_ply,0.0,no ply recorded on any of 12.0
+KH0035,partial_knot_direction,0.1429,knot_direction known on 14% of 7.0
+KH0038,partial_attachment,0.84,attachment known on 84% of 25.0
+KH0039,partial_attachment,0.3,attachment known on 30% of 10.0
+KH0040,duplicate_primary_cord_rows,1.0,repeated PCORD_ID rows in primary_cord
+KH0041,duplicate_primary_cord_rows,2.0,repeated PCORD_ID rows in primary_cord
+KH0041,partial_attachment,0.6364,attachment known on 64% of 11.0
+KH0042,missing_attachment,0.0,no attachment recorded on any of 179.0
+KH0042,missing_ply,0.0,no ply recorded on any of 179.0
+KH0042,partial_knot_direction,0.0081,knot_direction known on 1% of 248.0
+KH0043,missing_attachment,0.0,no attachment recorded on any of 16.0
+KH0043,missing_knot_direction,0.0,no knot_direction recorded on any of 6.0
+KH0043,missing_ply,0.0,no ply recorded on any of 16.0
+KH0044,missing_attachment,0.0,no attachment recorded on any of 4.0
+KH0044,missing_knot_direction,0.0,no knot_direction recorded on any of 11.0
+KH0044,missing_ply,0.0,no ply recorded on any of 4.0
+KH0045,missing_attachment,0.0,no attachment recorded on any of 12.0
+KH0045,missing_knot_direction,0.0,no knot_direction recorded on any of 67.0
+KH0045,missing_ply,0.0,no ply recorded on any of 12.0
+KH0046,missing_attachment,0.0,no attachment recorded on any of 38.0
+KH0046,missing_knot_direction,0.0,no knot_direction recorded on any of 39.0
+KH0046,missing_ply,0.0,no ply recorded on any of 38.0
+KH0047,missing_attachment,0.0,no attachment recorded on any of 81.0
+KH0047,missing_knot_direction,0.0,no knot_direction recorded on any of 150.0
+KH0047,missing_ply,0.0,no ply recorded on any of 81.0
+KH0048,missing_attachment,0.0,no attachment recorded on any of 82.0
+KH0048,missing_knot_direction,0.0,no knot_direction recorded on any of 122.0
+KH0048,missing_ply,0.0,no ply recorded on any of 82.0
+KH0049,partial_attachment,0.2943,attachment known on 29% of 367.0
+KH0049,undecodable_knots,0.1359,knots outside S/L/E or L without 2-9 turns
+KH0050,missing_attachment,0.0,no attachment recorded on any of 36.0
+KH0050,missing_knot_direction,0.0,no knot_direction recorded on any of 43.0
+KH0050,missing_ply,0.0,no ply recorded on any of 36.0
+KH0051,missing_attachment,0.0,no attachment recorded on any of 45.0
+KH0051,missing_ply,0.0,no ply recorded on any of 45.0
+KH0051,partial_knot_direction,0.0133,knot_direction known on 1% of 150.0
+KH0051,undecodable_knots,0.0067,knots outside S/L/E or L without 2-9 turns
+KH0052,missing_attachment,0.0,no attachment recorded on any of 56.0
+KH0052,missing_knot_direction,0.0,no knot_direction recorded on any of 132.0
+KH0052,missing_ply,0.0,no ply recorded on any of 56.0
+KH0053,missing_attachment,0.0,no attachment recorded on any of 14.0
+KH0053,missing_knot_direction,0.0,no knot_direction recorded on any of 30.0
+KH0053,missing_ply,0.0,no ply recorded on any of 14.0
+KH0054,missing_attachment,0.0,no attachment recorded on any of 29.0
+KH0054,missing_knot_direction,0.0,no knot_direction recorded on any of 41.0
+KH0054,missing_ply,0.0,no ply recorded on any of 29.0
+KH0055,missing_attachment,0.0,no attachment recorded on any of 161.0
+KH0055,missing_knot_direction,0.0,no knot_direction recorded on any of 255.0
+KH0055,missing_ply,0.0,no ply recorded on any of 161.0
+KH0056,missing_attachment,0.0,no attachment recorded on any of 53.0
+KH0056,missing_knot_direction,0.0,no knot_direction recorded on any of 78.0
+KH0056,missing_ply,0.0,no ply recorded on any of 53.0
+KH0057,partial_attachment,0.616,attachment known on 62% of 125.0
+KH0057,undecodable_knots,0.3913,knots outside S/L/E or L without 2-9 turns
+KH0058,partial_attachment,0.4426,attachment known on 44% of 183.0
+KH0058,undecodable_knots,0.4085,knots outside S/L/E or L without 2-9 turns
+KH0059,missing_attachment,0.0,no attachment recorded on any of 80.0
+KH0059,missing_knot_direction,0.0,no knot_direction recorded on any of 80.0
+KH0059,missing_ply,0.0,no ply recorded on any of 80.0
+KH0059,undecodable_knots,0.0125,knots outside S/L/E or L without 2-9 turns
+KH0060,partial_attachment,0.7093,attachment known on 71% of 86.0
+KH0061,missing_attachment,0.0,no attachment recorded on any of 370.0
+KH0061,missing_knot_direction,0.0,no knot_direction recorded on any of 575.0
+KH0061,missing_ply,0.0,no ply recorded on any of 370.0
+KH0062,partial_attachment,0.7778,attachment known on 78% of 45.0
+KH0063,missing_ply,0.0,no ply recorded on any of 49.0
+KH0063,partial_attachment,0.3878,attachment known on 39% of 49.0
+KH0065,missing_attachment,0.0,no attachment recorded on any of 26.0
+KH0065,missing_knot_direction,0.0,no knot_direction recorded on any of 136.0
+KH0065,missing_ply,0.0,no ply recorded on any of 26.0
+KH0066,missing_attachment,0.0,no attachment recorded on any of 3.0
+KH0066,missing_knot_direction,0.0,no knot_direction recorded on any of 28.0
+KH0066,missing_ply,0.0,no ply recorded on any of 3.0
+KH0068,partial_attachment,0.8778,attachment known on 88% of 589.0
+KH0068,undecodable_knots,0.0086,knots outside S/L/E or L without 2-9 turns
+KH0069,undecodable_knots,0.0476,knots outside S/L/E or L without 2-9 turns
+KH0070,missing_attachment,0.0,no attachment recorded on any of 8.0
+KH0070,missing_knot_direction,0.0,no knot_direction recorded on any of 11.0
+KH0070,missing_ply,0.0,no ply recorded on any of 8.0
+KH0071,missing_attachment,0.0,no attachment recorded on any of 15.0
+KH0071,missing_knot_direction,0.0,no knot_direction recorded on any of 15.0
+KH0071,missing_ply,0.0,no ply recorded on any of 15.0
+KH0072,missing_attachment,0.0,no attachment recorded on any of 23.0
+KH0072,missing_knot_direction,0.0,no knot_direction recorded on any of 22.0
+KH0072,missing_ply,0.0,no ply recorded on any of 23.0
+KH0073,missing_attachment,0.0,no attachment recorded on any of 32.0
+KH0073,missing_knot_direction,0.0,no knot_direction recorded on any of 34.0
+KH0073,missing_ply,0.0,no ply recorded on any of 32.0
+KH0074,missing_attachment,0.0,no attachment recorded on any of 10.0
+KH0074,missing_knot_direction,0.0,no knot_direction recorded on any of 20.0
+KH0074,missing_ply,0.0,no ply recorded on any of 10.0
+KH0075,missing_attachment,0.0,no attachment recorded on any of 31.0
+KH0075,missing_knot_direction,0.0,no knot_direction recorded on any of 61.0
+KH0075,missing_ply,0.0,no ply recorded on any of 31.0
+KH0076,missing_attachment,0.0,no attachment recorded on any of 7.0
+KH0076,missing_knot_direction,0.0,no knot_direction recorded on any of 4.0
+KH0076,missing_ply,0.0,no ply recorded on any of 7.0
+KH0077,missing_attachment,0.0,no attachment recorded on any of 5.0
+KH0077,missing_knot_direction,0.0,no knot_direction recorded on any of 27.0
+KH0077,missing_ply,0.0,no ply recorded on any of 5.0
+KH0078,missing_attachment,0.0,no attachment recorded on any of 5.0
+KH0078,missing_knot_direction,0.0,no knot_direction recorded on any of 4.0
+KH0078,missing_ply,0.0,no ply recorded on any of 5.0
+KH0079,missing_attachment,0.0,no attachment recorded on any of 172.0
+KH0079,missing_knot_direction,0.0,no knot_direction recorded on any of 357.0
+KH0079,missing_ply,0.0,no ply recorded on any of 172.0
+KH0079,undecodable_knots,0.0028,knots outside S/L/E or L without 2-9 turns
+KH0080,missing_attachment,0.0,no attachment recorded on any of 163.0
+KH0080,missing_knot_direction,0.0,no knot_direction recorded on any of 158.0
+KH0080,missing_ply,0.0,no ply recorded on any of 163.0
+KH0080,undecodable_knots,0.0127,knots outside S/L/E or L without 2-9 turns
+KH0081,undecodable_knots,0.1585,knots outside S/L/E or L without 2-9 turns
+KH0082,missing_attachment,0.0,no attachment recorded on any of 1831.0
+KH0082,missing_knot_direction,0.0,no knot_direction recorded on any of 1011.0
+KH0082,missing_ply,0.0,no ply recorded on any of 1831.0
+KH0082,suspect_splice,0.0,"AGENTS.md §4: ~1,831 cords, missing object, possible splicing error, no ply/spin data"
+KH0082,undecodable_knots,0.0138,knots outside S/L/E or L without 2-9 turns
+KH0083,partial_attachment,0.148,attachment known on 15% of 588.0
+KH0083,spacing_unreliable,0.0,AGENTS.md §4: pendants moved for display
+KH0083,undecodable_knots,0.024,knots outside S/L/E or L without 2-9 turns
+KH0084,missing_attachment,0.0,no attachment recorded on any of 404.0
+KH0084,missing_knot_direction,0.0,no knot_direction recorded on any of 164.0
+KH0084,missing_ply,0.0,no ply recorded on any of 404.0
+KH0085,missing_attachment,0.0,no attachment recorded on any of 60.0
+KH0085,missing_colour,0.0,no colour recorded on any of 60.0
+KH0085,missing_knot_direction,0.0,no knot_direction recorded on any of 231.0
+KH0085,missing_ply,0.0,no ply recorded on any of 60.0
+KH0086,missing_attachment,0.0,no attachment recorded on any of 25.0
+KH0086,missing_colour,0.0,no colour recorded on any of 25.0
+KH0086,missing_knot_direction,0.0,no knot_direction recorded on any of 34.0
+KH0086,missing_ply,0.0,no ply recorded on any of 25.0
+KH0086,undecodable_knots,0.1176,knots outside S/L/E or L without 2-9 turns
+KH0087,undecodable_knots,0.0545,knots outside S/L/E or L without 2-9 turns
+KH0088,partial_knot_direction,0.696,knot_direction known on 70% of 125.0
+KH0088,undecodable_knots,0.04,knots outside S/L/E or L without 2-9 turns
+KH0089,undecodable_knots,0.0556,knots outside S/L/E or L without 2-9 turns
+KH0090,missing_attachment,0.0,no attachment recorded on any of 33.0
+KH0090,missing_knot_direction,0.0,no knot_direction recorded on any of 40.0
+KH0090,missing_ply,0.0,no ply recorded on any of 33.0
+KH0091,undecodable_knots,0.087,knots outside S/L/E or L without 2-9 turns
+KH0093,undecodable_knots,0.0227,knots outside S/L/E or L without 2-9 turns
+KH0094,missing_attachment,0.0,no attachment recorded on any of 8.0
+KH0094,missing_knot_direction,0.0,no knot_direction recorded on any of 13.0
+KH0094,missing_ply,0.0,no ply recorded on any of 8.0
+KH0094,partial_colour,0.625,colour known on 62% of 8.0
+KH0094,undecodable_knots,0.4615,knots outside S/L/E or L without 2-9 turns
+KH0095,missing_attachment,0.0,no attachment recorded on any of 6.0
+KH0095,missing_knot_direction,0.0,no knot_direction recorded on any of 12.0
+KH0095,missing_ply,0.0,no ply recorded on any of 6.0
+KH0096,missing_attachment,0.0,no attachment recorded on any of 3.0
+KH0096,missing_knot_direction,0.0,no knot_direction recorded on any of 9.0
+KH0096,missing_ply,0.0,no ply recorded on any of 3.0
+KH0098,missing_attachment,0.0,no attachment recorded on any of 45.0
+KH0098,missing_knot_direction,0.0,no knot_direction recorded on any of 21.0
+KH0098,missing_ply,0.0,no ply recorded on any of 45.0
+KH0099,missing_attachment,0.0,no attachment recorded on any of 45.0
+KH0099,missing_knot_direction,0.0,no knot_direction recorded on any of 107.0
+KH0099,missing_ply,0.0,no ply recorded on any of 45.0
+KH0100,undecodable_knots,0.0568,knots outside S/L/E or L without 2-9 turns
+KH0102,missing_attachment,0.0,no attachment recorded on any of 35.0
+KH0102,missing_knot_direction,0.0,no knot_direction recorded on any of 20.0
+KH0102,missing_ply,0.0,no ply recorded on any of 35.0
+KH0103,missing_attachment,0.0,no attachment recorded on any of 58.0
+KH0103,missing_knot_direction,0.0,no knot_direction recorded on any of 141.0
+KH0103,missing_ply,0.0,no ply recorded on any of 58.0
+KH0103,undecodable_knots,0.0071,knots outside S/L/E or L without 2-9 turns
+KH0104,undecodable_knots,0.0082,knots outside S/L/E or L without 2-9 turns
+KH0105,missing_attachment,0.0,no attachment recorded on any of 56.0
+KH0105,missing_knot_direction,0.0,no knot_direction recorded on any of 96.0
+KH0105,missing_ply,0.0,no ply recorded on any of 56.0
+KH0106,missing_attachment,0.0,no attachment recorded on any of 70.0
+KH0106,missing_knot_direction,0.0,no knot_direction recorded on any of 62.0
+KH0106,missing_ply,0.0,no ply recorded on any of 70.0
+KH0107,missing_attachment,0.0,no attachment recorded on any of 51.0
+KH0107,missing_knot_direction,0.0,no knot_direction recorded on any of 38.0
+KH0107,missing_ply,0.0,no ply recorded on any of 51.0
+KH0108,undecodable_knots,0.1241,knots outside S/L/E or L without 2-9 turns
+KH0109,partial_knot_direction,0.5119,knot_direction known on 51% of 84.0
+KH0110,missing_attachment,0.0,no attachment recorded on any of 64.0
+KH0111,missing_attachment,0.0,no attachment recorded on any of 101.0
+KH0111,undecodable_knots,0.0789,knots outside S/L/E or L without 2-9 turns
+KH0112,missing_attachment,0.0,no attachment recorded on any of 48.0
+KH0113,missing_attachment,0.0,no attachment recorded on any of 73.0
+KH0114,missing_attachment,0.0,no attachment recorded on any of 21.0
+KH0114,missing_knot_direction,0.0,no knot_direction recorded on any of 120.0
+KH0114,missing_ply,0.0,no ply recorded on any of 21.0
+KH0115,missing_attachment,0.0,no attachment recorded on any of 28.0
+KH0115,missing_knot_direction,0.0,no knot_direction recorded on any of 125.0
+KH0115,missing_ply,0.0,no ply recorded on any of 28.0
+KH0116,missing_attachment,0.0,no attachment recorded on any of 20.0
+KH0117,missing_attachment,0.0,no attachment recorded on any of 71.0
+KH0119,missing_attachment,0.0,no attachment recorded on any of 22.0
+KH0120,missing_attachment,0.0,no attachment recorded on any of 54.0
+KH0121,missing_attachment,0.0,no attachment recorded on any of 29.0
+KH0121,partial_ply,0.8966,ply known on 90% of 29.0
+KH0121,undecodable_knots,0.0108,knots outside S/L/E or L without 2-9 turns
+KH0122,missing_attachment,0.0,no attachment recorded on any of 42.0
+KH0123,missing_attachment,0.0,no attachment recorded on any of 287.0
+KH0124,missing_attachment,0.0,no attachment recorded on any of 20.0
+KH0124,missing_knot_direction,0.0,no knot_direction recorded on any of 42.0
+KH0124,missing_ply,0.0,no ply recorded on any of 20.0
+KH0125,missing_attachment,0.0,no attachment recorded on any of 11.0
+KH0125,missing_knot_direction,0.0,no knot_direction recorded on any of 46.0
+KH0125,missing_ply,0.0,no ply recorded on any of 11.0
+KH0126,missing_attachment,0.0,no attachment recorded on any of 42.0
+KH0126,missing_knot_direction,0.0,no knot_direction recorded on any of 1.0
+KH0126,missing_ply,0.0,no ply recorded on any of 42.0
+KH0127,missing_attachment,0.0,no attachment recorded on any of 163.0
+KH0128,missing_attachment,0.0,no attachment recorded on any of 357.0
+KH0128,undecodable_knots,0.0021,knots outside S/L/E or L without 2-9 turns
+KH0129,missing_attachment,0.0,no attachment recorded on any of 55.0
+KH0129,missing_knot_direction,0.0,no knot_direction recorded on any of 332.0
+KH0129,missing_ply,0.0,no ply recorded on any of 55.0
+KH0130,missing_attachment,0.0,no attachment recorded on any of 13.0
+KH0131,missing_attachment,0.0,no attachment recorded on any of 11.0
+KH0132,missing_attachment,0.0,no attachment recorded on any of 20.0
+KH0132,undecodable_knots,0.0056,knots outside S/L/E or L without 2-9 turns
+KH0133,missing_attachment,0.0,no attachment recorded on any of 11.0
+KH0134,missing_attachment,0.0,no attachment recorded on any of 36.0
+KH0134,undecodable_knots,0.0021,knots outside S/L/E or L without 2-9 turns
+KH0135,missing_attachment,0.0,no attachment recorded on any of 281.0
+KH0136,missing_attachment,0.0,no attachment recorded on any of 9.0
+KH0136,missing_knot_direction,0.0,no knot_direction recorded on any of 53.0
+KH0136,missing_ply,0.0,no ply recorded on any of 9.0
+KH0137,missing_attachment,0.0,no attachment recorded on any of 94.0
+KH0138,missing_attachment,0.0,no attachment recorded on any of 35.0
+KH0139,missing_attachment,0.0,no attachment recorded on any of 28.0
+KH0140,missing_attachment,0.0,no attachment recorded on any of 16.0
+KH0140,missing_knot_direction,0.0,no knot_direction recorded on any of 165.0
+KH0140,missing_ply,0.0,no ply recorded on any of 16.0
+KH0141,missing_attachment,0.0,no attachment recorded on any of 157.0
+KH0142,missing_attachment,0.0,no attachment recorded on any of 6.0
+KH0142,missing_ply,0.0,no ply recorded on any of 6.0
+KH0143,missing_attachment,0.0,no attachment recorded on any of 289.0
+KH0143,missing_knot_direction,0.0,no knot_direction recorded on any of 299.0
+KH0143,missing_ply,0.0,no ply recorded on any of 289.0
+KH0144,missing_attachment,0.0,no attachment recorded on any of 14.0
+KH0144,missing_knot_direction,0.0,no knot_direction recorded on any of 158.0
+KH0144,missing_ply,0.0,no ply recorded on any of 14.0
+KH0145,missing_attachment,0.0,no attachment recorded on any of 28.0
+KH0146,missing_attachment,0.0,no attachment recorded on any of 195.0
+KH0146,missing_colour,0.0,no colour recorded on any of 195.0
+KH0146,missing_ply,0.0,no ply recorded on any of 195.0
+KH0146,no_knots,0.0,no knots recorded
+KH0147,missing_attachment,0.0,no attachment recorded on any of 287.0
+KH0147,undecodable_knots,0.0012,knots outside S/L/E or L without 2-9 turns
+KH0148,missing_attachment,0.0,no attachment recorded on any of 15.0
+KH0148,missing_knot_direction,0.0,no knot_direction recorded on any of 22.0
+KH0148,missing_ply,0.0,no ply recorded on any of 15.0
+KH0149,missing_attachment,0.0,no attachment recorded on any of 49.0
+KH0149,missing_knot_direction,0.0,no knot_direction recorded on any of 141.0
+KH0149,missing_ply,0.0,no ply recorded on any of 49.0
+KH0150,missing_attachment,0.0,no attachment recorded on any of 13.0
+KH0150,missing_knot_direction,0.0,no knot_direction recorded on any of 27.0
+KH0150,missing_ply,0.0,no ply recorded on any of 13.0
+KH0151,missing_attachment,0.0,no attachment recorded on any of 23.0
+KH0152,missing_attachment,0.0,no attachment recorded on any of 285.0
+KH0153,duplicate_primary_cord_rows,2.0,repeated PCORD_ID rows in primary_cord
+KH0153,missing_attachment,0.0,no attachment recorded on any of 4.0
+KH0153,missing_knot_direction,0.0,no knot_direction recorded on any of 13.0
+KH0153,missing_ply,0.0,no ply recorded on any of 4.0
+KH0154,duplicate_primary_cord_rows,2.0,repeated PCORD_ID rows in primary_cord
+KH0154,missing_attachment,0.0,no attachment recorded on any of 35.0
+KH0155,duplicate_primary_cord_rows,2.0,repeated PCORD_ID rows in primary_cord
+KH0155,missing_attachment,0.0,no attachment recorded on any of 14.0
+KH0155,missing_knot_direction,0.0,no knot_direction recorded on any of 26.0
+KH0155,missing_ply,0.0,no ply recorded on any of 14.0
+KH0156,duplicate_primary_cord_rows,2.0,repeated PCORD_ID rows in primary_cord
+KH0156,missing_attachment,0.0,no attachment recorded on any of 190.0
+KH0157,missing_attachment,0.0,no attachment recorded on any of 20.0
+KH0157,missing_ply,0.0,no ply recorded on any of 20.0
+KH0157,partial_knot_direction,0.069,knot_direction known on 7% of 58.0
+KH0158,missing_attachment,0.0,no attachment recorded on any of 18.0
+KH0158,missing_knot_direction,0.0,no knot_direction recorded on any of 22.0
+KH0158,missing_ply,0.0,no ply recorded on any of 18.0
+KH0159,missing_attachment,0.0,no attachment recorded on any of 30.0
+KH0160,missing_attachment,0.0,no attachment recorded on any of 62.0
+KH0161,missing_attachment,0.0,no attachment recorded on any of 90.0
+KH0162,missing_attachment,0.0,no attachment recorded on any of 123.0
+KH0163,missing_attachment,0.0,no attachment recorded on any of 18.0
+KH0164,missing_attachment,0.0,no attachment recorded on any of 20.0
+KH0165,missing_attachment,0.0,no attachment recorded on any of 112.0
+KH0165,undecodable_knots,0.0141,knots outside S/L/E or L without 2-9 turns
+KH0166,missing_attachment,0.0,no attachment recorded on any of 41.0
+KH0167,missing_attachment,0.0,no attachment recorded on any of 47.0
+KH0168,missing_attachment,0.0,no attachment recorded on any of 118.0
+KH0169,missing_attachment,0.0,no attachment recorded on any of 40.0
+KH0169,missing_knot_direction,0.0,no knot_direction recorded on any of 58.0
+KH0169,missing_ply,0.0,no ply recorded on any of 40.0
+KH0170,missing_attachment,0.0,no attachment recorded on any of 3.0
+KH0171,missing_attachment,0.0,no attachment recorded on any of 9.0
+KH0171,missing_knot_direction,0.0,no knot_direction recorded on any of 8.0
+KH0171,missing_ply,0.0,no ply recorded on any of 9.0
+KH0172,missing_attachment,0.0,no attachment recorded on any of 65.0
+KH0172,missing_knot_direction,0.0,no knot_direction recorded on any of 249.0
+KH0172,missing_ply,0.0,no ply recorded on any of 65.0
+KH0172,undecodable_knots,0.008,knots outside S/L/E or L without 2-9 turns
+KH0173,missing_attachment,0.0,no attachment recorded on any of 34.0
+KH0173,missing_knot_direction,0.0,no knot_direction recorded on any of 34.0
+KH0173,missing_ply,0.0,no ply recorded on any of 34.0
+KH0174,missing_attachment,0.0,no attachment recorded on any of 18.0
+KH0174,missing_knot_direction,0.0,no knot_direction recorded on any of 20.0
+KH0174,missing_ply,0.0,no ply recorded on any of 18.0
+KH0175,missing_attachment,0.0,no attachment recorded on any of 53.0
+KH0175,missing_knot_direction,0.0,no knot_direction recorded on any of 97.0
+KH0175,missing_ply,0.0,no ply recorded on any of 53.0
+KH0175,undecodable_knots,0.0206,knots outside S/L/E or L without 2-9 turns
+KH0176,missing_attachment,0.0,no attachment recorded on any of 23.0
+KH0176,missing_knot_direction,0.0,no knot_direction recorded on any of 28.0
+KH0176,missing_ply,0.0,no ply recorded on any of 23.0
+KH0177,missing_attachment,0.0,no attachment recorded on any of 8.0
+KH0178,missing_attachment,0.0,no attachment recorded on any of 16.0
+KH0178,partial_knot_direction,0.8667,knot_direction known on 87% of 15.0
+KH0179,missing_attachment,0.0,no attachment recorded on any of 5.0
+KH0180,missing_attachment,0.0,no attachment recorded on any of 27.0
+KH0181,missing_attachment,0.0,no attachment recorded on any of 33.0
+KH0181,missing_knot_direction,0.0,no knot_direction recorded on any of 77.0
+KH0181,missing_ply,0.0,no ply recorded on any of 33.0
+KH0181,undecodable_knots,0.013,knots outside S/L/E or L without 2-9 turns
+KH0182,missing_attachment,0.0,no attachment recorded on any of 21.0
+KH0183,missing_attachment,0.0,no attachment recorded on any of 362.0
+KH0184,missing_attachment,0.0,no attachment recorded on any of 9.0
+KH0185,missing_attachment,0.0,no attachment recorded on any of 18.0
+KH0185,missing_knot_direction,0.0,no knot_direction recorded on any of 60.0
+KH0185,missing_ply,0.0,no ply recorded on any of 18.0
+KH0186,missing_attachment,0.0,no attachment recorded on any of 30.0
+KH0186,missing_knot_direction,0.0,no knot_direction recorded on any of 30.0
+KH0186,missing_ply,0.0,no ply recorded on any of 30.0
+KH0186,undecodable_knots,0.0333,knots outside S/L/E or L without 2-9 turns
+KH0187,missing_attachment,0.0,no attachment recorded on any of 125.0
+KH0187,missing_knot_direction,0.0,no knot_direction recorded on any of 392.0
+KH0187,undecodable_knots,0.0102,knots outside S/L/E or L without 2-9 turns
+KH0188,missing_attachment,0.0,no attachment recorded on any of 24.0
+KH0188,missing_knot_direction,0.0,no knot_direction recorded on any of 50.0
+KH0188,missing_ply,0.0,no ply recorded on any of 24.0
+KH0189,missing_attachment,0.0,no attachment recorded on any of 59.0
+KH0189,missing_knot_direction,0.0,no knot_direction recorded on any of 259.0
+KH0189,missing_ply,0.0,no ply recorded on any of 59.0
+KH0190,missing_attachment,0.0,no attachment recorded on any of 15.0
+KH0190,missing_knot_direction,0.0,no knot_direction recorded on any of 40.0
+KH0190,missing_ply,0.0,no ply recorded on any of 15.0
+KH0191,missing_attachment,0.0,no attachment recorded on any of 27.0
+KH0191,missing_knot_direction,0.0,no knot_direction recorded on any of 54.0
+KH0191,missing_ply,0.0,no ply recorded on any of 27.0
+KH0191,undecodable_knots,0.1481,knots outside S/L/E or L without 2-9 turns
+KH0192,missing_attachment,0.0,no attachment recorded on any of 338.0
+KH0193,missing_attachment,0.0,no attachment recorded on any of 303.0
+KH0194,missing_attachment,0.0,no attachment recorded on any of 15.0
+KH0194,missing_knot_direction,0.0,no knot_direction recorded on any of 50.0
+KH0194,missing_ply,0.0,no ply recorded on any of 15.0
+KH0195,missing_attachment,0.0,no attachment recorded on any of 30.0
+KH0195,missing_knot_direction,0.0,no knot_direction recorded on any of 60.0
+KH0195,missing_ply,0.0,no ply recorded on any of 30.0
+KH0196,missing_attachment,0.0,no attachment recorded on any of 28.0
+KH0197,missing_attachment,0.0,no attachment recorded on any of 35.0
+KH0198,partial_attachment,0.302,attachment known on 30% of 149.0
+KH0199,missing_attachment,0.0,no attachment recorded on any of 5.0
+KH0199,missing_knot_direction,0.0,no knot_direction recorded on any of 6.0
+KH0199,missing_ply,0.0,no ply recorded on any of 5.0
+KH0200,missing_attachment,0.0,no attachment recorded on any of 1.0
+KH0200,missing_knot_direction,0.0,no knot_direction recorded on any of 22.0
+KH0200,missing_ply,0.0,no ply recorded on any of 1.0
+KH0201,missing_attachment,0.0,no attachment recorded on any of 7.0
+KH0201,missing_knot_direction,0.0,no knot_direction recorded on any of 25.0
+KH0201,missing_ply,0.0,no ply recorded on any of 7.0
+KH0202,missing_attachment,0.0,no attachment recorded on any of 9.0
+KH0202,missing_knot_direction,0.0,no knot_direction recorded on any of 19.0
+KH0202,missing_ply,0.0,no ply recorded on any of 9.0
+KH0203,missing_attachment,0.0,no attachment recorded on any of 30.0
+KH0203,missing_knot_direction,0.0,no knot_direction recorded on any of 59.0
+KH0203,missing_ply,0.0,no ply recorded on any of 30.0
+KH0203,undecodable_knots,0.0508,knots outside S/L/E or L without 2-9 turns
+KH0204,missing_attachment,0.0,no attachment recorded on any of 64.0
+KH0204,missing_knot_direction,0.0,no knot_direction recorded on any of 64.0
+KH0204,missing_ply,0.0,no ply recorded on any of 64.0
+KH0204,undecodable_knots,0.2188,knots outside S/L/E or L without 2-9 turns
+KH0205,missing_attachment,0.0,no attachment recorded on any of 3.0
+KH0205,missing_colour,0.0,no colour recorded on any of 3.0
+KH0205,missing_knot_direction,0.0,no knot_direction recorded on any of 14.0
+KH0205,missing_ply,0.0,no ply recorded on any of 3.0
+KH0206,missing_attachment,0.0,no attachment recorded on any of 12.0
+KH0206,missing_knot_direction,0.0,no knot_direction recorded on any of 45.0
+KH0206,missing_ply,0.0,no ply recorded on any of 12.0
+KH0207,missing_attachment,0.0,no attachment recorded on any of 35.0
+KH0207,missing_knot_direction,0.0,no knot_direction recorded on any of 42.0
+KH0207,missing_ply,0.0,no ply recorded on any of 35.0
+KH0208,missing_attachment,0.0,no attachment recorded on any of 101.0
+KH0208,missing_ply,0.0,no ply recorded on any of 101.0
+KH0208,no_knots,0.0,no knots recorded
+KH0210,partial_knot_direction,0.8889,knot_direction known on 89% of 36.0
+KH0212,partial_attachment,0.1429,attachment known on 14% of 7.0
+KH0212,partial_ply,0.1429,ply known on 14% of 7.0
+KH0213,partial_attachment,0.1429,attachment known on 14% of 7.0
+KH0213,partial_ply,0.1429,ply known on 14% of 7.0
+KH0215,partial_attachment,0.8182,attachment known on 82% of 11.0
+KH0217,partial_attachment,0.8605,attachment known on 86% of 86.0
+KH0218,partial_attachment,0.5781,attachment known on 58% of 64.0
+KH0219,missing_attachment,0.0,no attachment recorded on any of 18.0
+KH0219,missing_knot_direction,0.0,no knot_direction recorded on any of 22.0
+KH0219,missing_ply,0.0,no ply recorded on any of 18.0
+KH0220,missing_attachment,0.0,no attachment recorded on any of 30.0
+KH0220,missing_knot_direction,0.0,no knot_direction recorded on any of 8.0
+KH0220,missing_ply,0.0,no ply recorded on any of 30.0
+KH0220,partial_colour,0.8,colour known on 80% of 30.0
+KH0221,missing_attachment,0.0,no attachment recorded on any of 37.0
+KH0221,missing_knot_direction,0.0,no knot_direction recorded on any of 12.0
+KH0221,missing_ply,0.0,no ply recorded on any of 37.0
+KH0222,missing_attachment,0.0,no attachment recorded on any of 20.0
+KH0222,missing_knot_direction,0.0,no knot_direction recorded on any of 9.0
+KH0222,missing_ply,0.0,no ply recorded on any of 20.0
+KH0223,missing_attachment,0.0,no attachment recorded on any of 21.0
+KH0223,missing_knot_direction,0.0,no knot_direction recorded on any of 14.0
+KH0223,missing_ply,0.0,no ply recorded on any of 21.0
+KH0224,missing_attachment,0.0,no attachment recorded on any of 32.0
+KH0224,missing_knot_direction,0.0,no knot_direction recorded on any of 77.0
+KH0224,missing_ply,0.0,no ply recorded on any of 32.0
+KH0225,missing_attachment,0.0,no attachment recorded on any of 253.0
+KH0225,missing_knot_direction,0.0,no knot_direction recorded on any of 243.0
+KH0225,missing_ply,0.0,no ply recorded on any of 253.0
+KH0225,undecodable_knots,0.0041,knots outside S/L/E or L without 2-9 turns
+KH0226,missing_attachment,0.0,no attachment recorded on any of 28.0
+KH0226,missing_knot_direction,0.0,no knot_direction recorded on any of 35.0
+KH0226,missing_ply,0.0,no ply recorded on any of 28.0
+KH0227,missing_attachment,0.0,no attachment recorded on any of 14.0
+KH0227,missing_knot_direction,0.0,no knot_direction recorded on any of 18.0
+KH0227,missing_ply,0.0,no ply recorded on any of 14.0
+KH0228,partial_attachment,0.7647,attachment known on 76% of 221.0
+KH0229,missing_attachment,0.0,no attachment recorded on any of 143.0
+KH0229,missing_knot_direction,0.0,no knot_direction recorded on any of 757.0
+KH0229,missing_ply,0.0,no ply recorded on any of 143.0
+KH0229,undecodable_knots,0.0026,knots outside S/L/E or L without 2-9 turns
+KH0230,missing_attachment,0.0,no attachment recorded on any of 39.0
+KH0230,missing_knot_direction,0.0,no knot_direction recorded on any of 63.0
+KH0230,missing_ply,0.0,no ply recorded on any of 39.0
+KH0230,undecodable_knots,0.0159,knots outside S/L/E or L without 2-9 turns
+KH0231,missing_attachment,0.0,no attachment recorded on any of 68.0
+KH0231,missing_knot_direction,0.0,no knot_direction recorded on any of 63.0
+KH0231,missing_ply,0.0,no ply recorded on any of 68.0
+KH0232,missing_attachment,0.0,no attachment recorded on any of 100.0
+KH0232,missing_knot_direction,0.0,no knot_direction recorded on any of 137.0
+KH0232,missing_ply,0.0,no ply recorded on any of 100.0
+KH0233,missing_attachment,0.0,no attachment recorded on any of 36.0
+KH0233,missing_knot_direction,0.0,no knot_direction recorded on any of 37.0
+KH0233,missing_ply,0.0,no ply recorded on any of 36.0
+KH0234,missing_attachment,0.0,no attachment recorded on any of 20.0
+KH0234,missing_knot_direction,0.0,no knot_direction recorded on any of 25.0
+KH0234,missing_ply,0.0,no ply recorded on any of 20.0
+KH0235,missing_attachment,0.0,no attachment recorded on any of 37.0
+KH0235,missing_knot_direction,0.0,no knot_direction recorded on any of 50.0
+KH0235,missing_ply,0.0,no ply recorded on any of 37.0
+KH0236,missing_attachment,0.0,no attachment recorded on any of 5.0
+KH0236,missing_knot_direction,0.0,no knot_direction recorded on any of 4.0
+KH0236,missing_ply,0.0,no ply recorded on any of 5.0
+KH0237,partial_attachment,0.8059,attachment known on 81% of 572.0
+KH0237,undecodable_knots,0.0065,knots outside S/L/E or L without 2-9 turns
+KH0238,partial_attachment,0.5948,attachment known on 59% of 116.0
+KH0238,undecodable_knots,0.0055,knots outside S/L/E or L without 2-9 turns
+KH0239,partial_attachment,0.3576,attachment known on 36% of 769.0
+KH0239,undecodable_knots,0.0363,knots outside S/L/E or L without 2-9 turns
+KH0240,partial_attachment,0.801,attachment known on 80% of 573.0
+KH0241,partial_attachment,0.7581,attachment known on 76% of 62.0
+KH0242,partial_attachment,0.8696,attachment known on 87% of 874.0
+KH0242,undecodable_knots,0.0015,knots outside S/L/E or L without 2-9 turns
+KH0243,partial_attachment,0.5625,attachment known on 56% of 80.0
+KH0245,partial_attachment,0.8537,attachment known on 85% of 164.0
+KH0245,undecodable_knots,0.0088,knots outside S/L/E or L without 2-9 turns
+KH0246,partial_attachment,0.875,attachment known on 88% of 176.0
+KH0246,undecodable_knots,0.0148,knots outside S/L/E or L without 2-9 turns
+KH0247,partial_attachment,0.5102,attachment known on 51% of 343.0
+KH0247,undecodable_knots,0.0372,knots outside S/L/E or L without 2-9 turns
+KH0248,partial_attachment,0.4921,attachment known on 49% of 126.0
+KH0248,undecodable_knots,0.0233,knots outside S/L/E or L without 2-9 turns
+KH0249,partial_attachment,0.3729,attachment known on 37% of 59.0
+KH0249,undecodable_knots,0.0099,knots outside S/L/E or L without 2-9 turns
+KH0250,partial_attachment,0.4545,attachment known on 45% of 44.0
+KH0251,duplicate_primary_cord_rows,1.0,repeated PCORD_ID rows in primary_cord
+KH0251,partial_attachment,0.7045,attachment known on 70% of 88.0
+KH0251,undecodable_knots,0.0423,knots outside S/L/E or L without 2-9 turns
+KH0252,partial_attachment,0.4977,attachment known on 50% of 442.0
+KH0252,undecodable_knots,0.0019,knots outside S/L/E or L without 2-9 turns
+KH0253,partial_attachment,0.7049,attachment known on 70% of 122.0
+KH0253,partial_ply,0.8934,ply known on 89% of 122.0
+KH0254,partial_attachment,0.7105,attachment known on 71% of 38.0
+KH0254,partial_colour,0.8947,colour known on 89% of 38.0
+KH0254,partial_ply,0.8947,ply known on 89% of 38.0
+KH0254,undecodable_knots,0.0373,knots outside S/L/E or L without 2-9 turns
+KH0255,partial_attachment,0.6667,attachment known on 67% of 18.0
+KH0256,partial_attachment,0.7333,attachment known on 73% of 30.0
+KH0257,partial_attachment,0.8765,attachment known on 88% of 162.0
+KH0257,undecodable_knots,0.0065,knots outside S/L/E or L without 2-9 turns
+KH0258,partial_attachment,0.8312,attachment known on 83% of 314.0
+KH0258,undecodable_knots,0.0065,knots outside S/L/E or L without 2-9 turns
+KH0259,partial_attachment,0.5,attachment known on 50% of 20.0
+KH0259,undecodable_knots,0.0556,knots outside S/L/E or L without 2-9 turns
+KH0260,partial_attachment,0.5263,attachment known on 53% of 19.0
+KH0261,undecodable_knots,0.0185,knots outside S/L/E or L without 2-9 turns
+KH0262,partial_attachment,0.8235,attachment known on 82% of 17.0
+KH0263,partial_attachment,0.8242,attachment known on 82% of 91.0
+KH0263,undecodable_knots,0.0137,knots outside S/L/E or L without 2-9 turns
+KH0264,partial_attachment,0.4667,attachment known on 47% of 75.0
+KH0265,undecodable_knots,0.2553,knots outside S/L/E or L without 2-9 turns
+KH0266,partial_attachment,0.875,attachment known on 88% of 8.0
+KH0267,partial_attachment,0.4521,attachment known on 45% of 188.0
+KH0268,partial_attachment,0.3182,attachment known on 32% of 22.0
+KH0269,undecodable_knots,0.0052,knots outside S/L/E or L without 2-9 turns
+KH0272,missing_attachment,0.0,no attachment recorded on any of 49.0
+KH0273,missing_attachment,0.0,no attachment recorded on any of 43.0
+KH0274,missing_attachment,0.0,no attachment recorded on any of 25.0
+KH0275,partial_attachment,0.7562,attachment known on 76% of 160.0
+KH0275,undecodable_knots,0.016,knots outside S/L/E or L without 2-9 turns
+KH0276,partial_attachment,0.1047,attachment known on 10% of 86.0
+KH0276,partial_colour,0.1279,colour known on 13% of 86.0
+KH0276,partial_ply,0.1279,ply known on 13% of 86.0
+KH0277,partial_attachment,0.8936,attachment known on 89% of 47.0
+KH0277,undecodable_knots,0.0164,knots outside S/L/E or L without 2-9 turns
+KH0278,partial_attachment,0.8197,attachment known on 82% of 61.0
+KH0279,partial_attachment,0.727,attachment known on 73% of 326.0
+KH0279,undecodable_knots,0.0093,knots outside S/L/E or L without 2-9 turns
+KH0280,missing_attachment,0.0,no attachment recorded on any of 164.0
+KH0280,undecodable_knots,0.0079,knots outside S/L/E or L without 2-9 turns
+KH0281,missing_attachment,0.0,no attachment recorded on any of 98.0
+KH0281,partial_ply,0.8571,ply known on 86% of 98.0
+KH0281,undecodable_knots,0.0174,knots outside S/L/E or L without 2-9 turns
+KH0282,missing_attachment,0.0,no attachment recorded on any of 98.0
+KH0282,undecodable_knots,0.0125,knots outside S/L/E or L without 2-9 turns
+KH0283,partial_attachment,0.8909,attachment known on 89% of 55.0
+KH0283,undecodable_knots,0.0022,knots outside S/L/E or L without 2-9 turns
+KH0284,partial_attachment,0.6667,attachment known on 67% of 54.0
+KH0285,undecodable_knots,0.0058,knots outside S/L/E or L without 2-9 turns
+KH0287,partial_attachment,0.6762,attachment known on 68% of 105.0
+KH0288,missing_attachment,0.0,no attachment recorded on any of 115.0
+KH0288,partial_ply,0.4609,ply known on 46% of 115.0
+KH0288,undecodable_knots,0.0032,knots outside S/L/E or L without 2-9 turns
+KH0289,missing_attachment,0.0,no attachment recorded on any of 180.0
+KH0289,undecodable_knots,0.0321,knots outside S/L/E or L without 2-9 turns
+KH0290,partial_attachment,0.5952,attachment known on 60% of 42.0
+KH0290,partial_ply,0.7619,ply known on 76% of 42.0
+KH0293,partial_attachment,0.5,attachment known on 50% of 42.0
+KH0294,partial_attachment,0.2109,attachment known on 21% of 275.0
+KH0295,partial_attachment,0.1758,attachment known on 18% of 256.0
+KH0295,partial_colour,0.8828,colour known on 88% of 256.0
+KH0295,partial_ply,0.875,ply known on 88% of 256.0
+KH0296,undecodable_knots,0.0117,knots outside S/L/E or L without 2-9 turns
+KH0302,partial_ply,0.8333,ply known on 83% of 6.0
+KH0303,undecodable_knots,0.0192,knots outside S/L/E or L without 2-9 turns
+KH0307,no_knots,0.0,no knots recorded
+KH0308,no_knots,0.0,no knots recorded
+KH0310,undecodable_knots,0.0149,knots outside S/L/E or L without 2-9 turns
+KH0311,partial_attachment,0.8481,attachment known on 85% of 79.0
+KH0314,partial_attachment,0.48,attachment known on 48% of 25.0
+KH0318,partial_attachment,0.8571,attachment known on 86% of 7.0
+KH0319,no_knots,0.0,no knots recorded
+KH0320,missing_attachment,0.0,no attachment recorded on any of 23.0
+KH0321,partial_attachment,0.5275,attachment known on 53% of 273.0
+KH0323,partial_attachment,0.8356,attachment known on 84% of 371.0
+KH0323,undecodable_knots,0.0053,knots outside S/L/E or L without 2-9 turns
+KH0324,partial_attachment,0.5294,attachment known on 53% of 102.0
+KH0324,undecodable_knots,0.0099,knots outside S/L/E or L without 2-9 turns
+KH0325,partial_attachment,0.7188,attachment known on 72% of 288.0
+KH0325,undecodable_knots,0.0168,knots outside S/L/E or L without 2-9 turns
+KH0326,partial_attachment,0.8321,attachment known on 83% of 131.0
+KH0326,undecodable_knots,0.0038,knots outside S/L/E or L without 2-9 turns
+KH0327,partial_attachment,0.744,attachment known on 74% of 125.0
+KH0327,undecodable_knots,0.0143,knots outside S/L/E or L without 2-9 turns
+KH0330,partial_attachment,0.3623,attachment known on 36% of 69.0
+KH0332,partial_attachment,0.0702,attachment known on 7% of 57.0
+KH0332,partial_ply,0.807,ply known on 81% of 57.0
+KH0332,undecodable_knots,0.012,knots outside S/L/E or L without 2-9 turns
+KH0333,partial_attachment,0.3391,attachment known on 34% of 230.0
+KH0334,partial_attachment,0.4444,attachment known on 44% of 9.0
+KH0334,partial_ply,0.7778,ply known on 78% of 9.0
+KH0336,partial_attachment,0.6,attachment known on 60% of 5.0
+KH0336,partial_ply,0.8,ply known on 80% of 5.0
+KH0338,partial_attachment,0.8,attachment known on 80% of 75.0
+KH0339,partial_attachment,0.1636,attachment known on 16% of 55.0
+KH0340,partial_attachment,0.4839,attachment known on 48% of 31.0
+KH0343,partial_attachment,0.8929,attachment known on 89% of 28.0
+KH0344,undecodable_knots,0.0149,knots outside S/L/E or L without 2-9 turns
+KH0345,partial_attachment,0.2727,attachment known on 27% of 33.0
+KH0346,missing_attachment,0.0,no attachment recorded on any of 89.0
+KH0347,undecodable_knots,0.0094,knots outside S/L/E or L without 2-9 turns
+KH0348,missing_attachment,0.0,no attachment recorded on any of 76.0
+KH0348,undecodable_knots,0.0085,knots outside S/L/E or L without 2-9 turns
+KH0349,partial_attachment,0.3845,attachment known on 38% of 866.0
+KH0349,undecodable_knots,0.0366,knots outside S/L/E or L without 2-9 turns
+KH0350,partial_attachment,0.8269,attachment known on 83% of 260.0
+KH0350,undecodable_knots,0.0076,knots outside S/L/E or L without 2-9 turns
+KH0351,partial_attachment,0.4909,attachment known on 49% of 55.0
+KH0352,partial_attachment,0.4841,attachment known on 48% of 157.0
+KH0352,undecodable_knots,0.0216,knots outside S/L/E or L without 2-9 turns
+KH0353,partial_attachment,0.5116,attachment known on 51% of 43.0
+KH0354,partial_attachment,0.75,attachment known on 75% of 16.0
+KH0355,partial_attachment,0.8333,attachment known on 83% of 12.0
+KH0356,partial_attachment,0.3043,attachment known on 30% of 23.0
+KH0358,partial_attachment,0.4455,attachment known on 45% of 321.0
+KH0358,undecodable_knots,0.0376,knots outside S/L/E or L without 2-9 turns
+KH0359,partial_attachment,0.4934,attachment known on 49% of 304.0
+KH0359,undecodable_knots,0.0021,knots outside S/L/E or L without 2-9 turns
+KH0361,partial_attachment,0.575,attachment known on 57% of 40.0
+KH0362,partial_attachment,0.2982,attachment known on 30% of 218.0
+KH0362,undecodable_knots,0.0027,knots outside S/L/E or L without 2-9 turns
+KH0363,partial_attachment,0.8615,attachment known on 86% of 65.0
+KH0366,missing_attachment,0.0,no attachment recorded on any of 22.0
+KH0368,missing_attachment,0.0,no attachment recorded on any of 14.0
+KH0369,partial_attachment,0.4206,attachment known on 42% of 126.0
+KH0369,undecodable_knots,0.0056,knots outside S/L/E or L without 2-9 turns
+KH0370,partial_attachment,0.7079,attachment known on 71% of 89.0
+KH0370,undecodable_knots,0.0124,knots outside S/L/E or L without 2-9 turns
+KH0371,partial_attachment,0.6286,attachment known on 63% of 105.0
+KH0372,partial_attachment,0.63,attachment known on 63% of 100.0
+KH0373,missing_attachment,0.0,no attachment recorded on any of 57.0
+KH0373,undecodable_knots,0.0702,knots outside S/L/E or L without 2-9 turns
+KH0375,partial_attachment,0.75,attachment known on 75% of 8.0
+KH0376,partial_attachment,0.4,attachment known on 40% of 5.0
+KH0377,partial_attachment,0.6667,attachment known on 67% of 33.0
+KH0378,partial_attachment,0.6875,attachment known on 69% of 32.0
+KH0378,undecodable_knots,0.0896,knots outside S/L/E or L without 2-9 turns
+KH0380,partial_attachment,0.8085,attachment known on 81% of 47.0
+KH0381,partial_attachment,0.7273,attachment known on 73% of 33.0
+KH0381,undecodable_knots,0.0375,knots outside S/L/E or L without 2-9 turns
+KH0382,partial_attachment,0.16,attachment known on 16% of 125.0
+KH0382,undecodable_knots,0.0022,knots outside S/L/E or L without 2-9 turns
+KH0383,partial_attachment,0.1654,attachment known on 17% of 133.0
+KH0383,undecodable_knots,0.0396,knots outside S/L/E or L without 2-9 turns
+KH0384,missing_attachment,0.0,no attachment recorded on any of 96.0
+KH0384,partial_colour,0.6146,colour known on 61% of 96.0
+KH0385,partial_attachment,0.4483,attachment known on 45% of 58.0
+KH0386,partial_attachment,0.3626,attachment known on 36% of 91.0
+KH0387,partial_attachment,0.7119,attachment known on 71% of 59.0
+KH0387,undecodable_knots,0.1719,knots outside S/L/E or L without 2-9 turns
+KH0388,partial_attachment,0.4545,attachment known on 45% of 11.0
+KH0389,partial_attachment,0.5451,attachment known on 55% of 266.0
+KH0389,undecodable_knots,0.0068,knots outside S/L/E or L without 2-9 turns
+KH0390,partial_attachment,0.72,attachment known on 72% of 25.0
+KH0391,partial_attachment,0.5,attachment known on 50% of 20.0
+KH0392,partial_attachment,0.6061,attachment known on 61% of 33.0
+KH0393,partial_attachment,0.7273,attachment known on 73% of 66.0
+KH0393,undecodable_knots,0.056,knots outside S/L/E or L without 2-9 turns
+KH0394,undecodable_knots,0.1404,knots outside S/L/E or L without 2-9 turns
+KH0395,partial_attachment,0.8571,attachment known on 86% of 35.0
+KH0395,undecodable_knots,0.0182,knots outside S/L/E or L without 2-9 turns
+KH0396,partial_attachment,0.3571,attachment known on 36% of 14.0
+KH0397,undecodable_knots,0.1818,knots outside S/L/E or L without 2-9 turns
+KH0398,no_knots,0.0,no knots recorded
+KH0398,partial_attachment,0.68,attachment known on 68% of 25.0
+KH0398,partial_colour,0.72,colour known on 72% of 25.0
+KH0398,partial_ply,0.72,ply known on 72% of 25.0
+KH0400,partial_attachment,0.8,attachment known on 80% of 25.0
+KH0403,undecodable_knots,0.0735,knots outside S/L/E or L without 2-9 turns
+KH0404,partial_attachment,0.3689,attachment known on 37% of 225.0
+KH0404,undecodable_knots,0.0034,knots outside S/L/E or L without 2-9 turns
+KH0405,partial_attachment,0.7667,attachment known on 77% of 30.0
+KH0407,partial_attachment,0.8947,attachment known on 89% of 19.0
+KH0408,partial_attachment,0.2848,attachment known on 28% of 151.0
+KH0409,undecodable_knots,0.0541,knots outside S/L/E or L without 2-9 turns
+KH0410,undecodable_knots,0.0526,knots outside S/L/E or L without 2-9 turns
+KH0413,partial_attachment,0.8889,attachment known on 89% of 9.0
+KH0414,partial_attachment,0.4167,attachment known on 42% of 12.0
+KH0415,partial_attachment,0.2778,attachment known on 28% of 90.0
+KH0415,partial_knot_direction,0.7949,knot_direction known on 79% of 156.0
+KH0415,undecodable_knots,0.0064,knots outside S/L/E or L without 2-9 turns
+KH0416,partial_knot_direction,0.1579,knot_direction known on 16% of 57.0
+KH0417,partial_knot_direction,0.5741,knot_direction known on 57% of 54.0
+KH0417,undecodable_knots,1.0,knots outside S/L/E or L without 2-9 turns
+KH0418,partial_knot_direction,0.6486,knot_direction known on 65% of 37.0
+KH0418,undecodable_knots,0.8108,knots outside S/L/E or L without 2-9 turns
+KH0419,partial_knot_direction,0.6296,knot_direction known on 63% of 27.0
+KH0422,partial_attachment,0.5385,attachment known on 54% of 39.0
+KH0422,undecodable_knots,0.0172,knots outside S/L/E or L without 2-9 turns
+KH0423,partial_attachment,0.75,attachment known on 75% of 16.0
+KH0423,partial_colour,0.8125,colour known on 81% of 16.0
+KH0423,partial_ply,0.8125,ply known on 81% of 16.0
+KH0424,partial_attachment,0.7937,attachment known on 79% of 63.0
+KH0424,undecodable_knots,0.0118,knots outside S/L/E or L without 2-9 turns
+KH0425,partial_attachment,0.4511,attachment known on 45% of 133.0
+KH0426,partial_attachment,0.8205,attachment known on 82% of 78.0
+KH0426,undecodable_knots,0.0021,knots outside S/L/E or L without 2-9 turns
+KH0427,partial_attachment,0.5568,attachment known on 56% of 88.0
+KH0428,undecodable_knots,0.0017,knots outside S/L/E or L without 2-9 turns
+KH0429,partial_attachment,0.8214,attachment known on 82% of 28.0
+KH0429,undecodable_knots,0.0417,knots outside S/L/E or L without 2-9 turns
+KH0430,partial_attachment,0.8,attachment known on 80% of 70.0
+KH0431,partial_attachment,0.4292,attachment known on 43% of 226.0
+KH0431,undecodable_knots,0.1644,knots outside S/L/E or L without 2-9 turns
+KH0432,undecodable_knots,0.0075,knots outside S/L/E or L without 2-9 turns
+KH0433,partial_attachment,0.7904,attachment known on 79% of 167.0
+KH0433,undecodable_knots,0.0162,knots outside S/L/E or L without 2-9 turns
+KH0434,partial_attachment,0.5682,attachment known on 57% of 132.0
+KH0435,partial_attachment,0.8941,attachment known on 89% of 236.0
+KH0435,undecodable_knots,0.0017,knots outside S/L/E or L without 2-9 turns
+KH0436,partial_attachment,0.7046,attachment known on 70% of 369.0
+KH0436,undecodable_knots,0.0055,knots outside S/L/E or L without 2-9 turns
+KH0438,undecodable_knots,0.002,knots outside S/L/E or L without 2-9 turns
+KH0439,undecodable_knots,0.0026,knots outside S/L/E or L without 2-9 turns
+KH0440,partial_attachment,0.6814,attachment known on 68% of 113.0
+KH0441,partial_attachment,0.6826,attachment known on 68% of 167.0
+KH0441,undecodable_knots,0.1565,knots outside S/L/E or L without 2-9 turns
+KH0442,partial_attachment,0.3671,attachment known on 37% of 79.0
+KH0442,undecodable_knots,0.0143,knots outside S/L/E or L without 2-9 turns
+KH0443,partial_attachment,0.42,attachment known on 42% of 50.0
+KH0444,partial_attachment,0.6667,attachment known on 67% of 12.0
+KH0445,partial_attachment,0.7134,attachment known on 71% of 164.0
+KH0446,partial_attachment,0.7789,attachment known on 78% of 190.0
+KH0447,partial_attachment,0.7553,attachment known on 76% of 94.0
+KH0447,undecodable_knots,0.0233,knots outside S/L/E or L without 2-9 turns
+KH0448,partial_attachment,0.8846,attachment known on 88% of 78.0
+KH0448,undecodable_knots,0.0164,knots outside S/L/E or L without 2-9 turns
+KH0449,undecodable_knots,0.9922,knots outside S/L/E or L without 2-9 turns
+KH0451,partial_attachment,0.6037,attachment known on 60% of 164.0
+KH0453,missing_attachment,0.0,no attachment recorded on any of 268.0
+KH0453,undecodable_knots,0.0927,knots outside S/L/E or L without 2-9 turns
+KH0454,partial_attachment,0.1953,attachment known on 20% of 169.0
+KH0455,partial_attachment,0.7227,attachment known on 72% of 119.0
+KH0455,undecodable_knots,0.0198,knots outside S/L/E or L without 2-9 turns
+KH0456,undecodable_knots,0.0036,knots outside S/L/E or L without 2-9 turns
+KH0460,partial_attachment,0.7586,attachment known on 76% of 58.0
+KH0460,undecodable_knots,0.013,knots outside S/L/E or L without 2-9 turns
+KH0463,partial_attachment,0.766,attachment known on 77% of 47.0
+KH0466,undecodable_knots,0.0033,knots outside S/L/E or L without 2-9 turns
+KH0467,partial_attachment,0.6102,attachment known on 61% of 59.0
+KH0468,undecodable_knots,0.0009,knots outside S/L/E or L without 2-9 turns
+KH0470,partial_attachment,0.875,attachment known on 88% of 144.0
+KH0470,undecodable_knots,0.003,knots outside S/L/E or L without 2-9 turns
+KH0472,partial_attachment,0.6856,attachment known on 69% of 194.0
+KH0473,partial_attachment,0.8667,attachment known on 87% of 30.0
+KH0473,partial_colour,0.8667,colour known on 87% of 30.0
+KH0473,partial_ply,0.8667,ply known on 87% of 30.0
+KH0474,partial_attachment,0.4535,attachment known on 45% of 86.0
+KH0476,partial_attachment,0.8816,attachment known on 88% of 76.0
+KH0476,undecodable_knots,0.0035,knots outside S/L/E or L without 2-9 turns
+KH0477,partial_attachment,0.5634,attachment known on 56% of 71.0
+KH0478,partial_attachment,0.8798,attachment known on 88% of 233.0
+KH0478,undecodable_knots,0.0061,knots outside S/L/E or L without 2-9 turns
+KH0480,duplicate_primary_cord_rows,2.0,repeated PCORD_ID rows in primary_cord
+KH0481,undecodable_knots,0.1,knots outside S/L/E or L without 2-9 turns
+KH0482,partial_attachment,0.8235,attachment known on 82% of 34.0
+KH0483,duplicate_record,0.0,duplicate_of KH0140
+KH0484,partial_attachment,0.875,attachment known on 88% of 24.0
+KH0487,partial_attachment,0.6122,attachment known on 61% of 49.0
+KH0487,undecodable_knots,0.5161,knots outside S/L/E or L without 2-9 turns
+KH0488,partial_attachment,0.8267,attachment known on 83% of 75.0
+KH0488,undecodable_knots,0.4912,knots outside S/L/E or L without 2-9 turns
+KH0489,partial_attachment,0.6413,attachment known on 64% of 92.0
+KH0489,undecodable_knots,0.4264,knots outside S/L/E or L without 2-9 turns
+KH0490,partial_attachment,0.3137,attachment known on 31% of 51.0
+KH0490,undecodable_knots,0.2679,knots outside S/L/E or L without 2-9 turns
+KH0491,undecodable_knots,0.1971,knots outside S/L/E or L without 2-9 turns
+KH0492,partial_attachment,0.6705,attachment known on 67% of 176.0
+KH0492,undecodable_knots,0.1283,knots outside S/L/E or L without 2-9 turns
+KH0493,partial_attachment,0.7143,attachment known on 71% of 14.0
+KH0493,undecodable_knots,0.0408,knots outside S/L/E or L without 2-9 turns
+KH0494,partial_attachment,0.8542,attachment known on 85% of 48.0
+KH0494,undecodable_knots,0.2244,knots outside S/L/E or L without 2-9 turns
+KH0495,partial_attachment,0.8667,attachment known on 87% of 15.0
+KH0495,undecodable_knots,0.6,knots outside S/L/E or L without 2-9 turns
+KH0496,partial_attachment,0.5106,attachment known on 51% of 47.0
+KH0496,undecodable_knots,0.224,knots outside S/L/E or L without 2-9 turns
+KH0497,partial_attachment,0.8,attachment known on 80% of 15.0
+KH0497,undecodable_knots,0.1429,knots outside S/L/E or L without 2-9 turns
+KH0498,partial_attachment,0.2816,attachment known on 28% of 490.0
+KH0498,undecodable_knots,0.1355,knots outside S/L/E or L without 2-9 turns
+KH0499,undecodable_knots,0.5985,knots outside S/L/E or L without 2-9 turns
+KH0500,undecodable_knots,0.2302,knots outside S/L/E or L without 2-9 turns
+KH0501,partial_attachment,0.56,attachment known on 56% of 25.0
+KH0501,undecodable_knots,0.75,knots outside S/L/E or L without 2-9 turns
+KH0502,partial_attachment,0.7586,attachment known on 76% of 174.0
+KH0502,undecodable_knots,0.1055,knots outside S/L/E or L without 2-9 turns
+KH0503,undecodable_knots,0.1955,knots outside S/L/E or L without 2-9 turns
+KH0504,partial_attachment,0.7863,attachment known on 79% of 131.0
+KH0504,undecodable_knots,0.1009,knots outside S/L/E or L without 2-9 turns
+KH0505,partial_attachment,0.7751,attachment known on 78% of 169.0
+KH0505,undecodable_knots,0.0696,knots outside S/L/E or L without 2-9 turns
+KH0506,partial_attachment,0.8758,attachment known on 88% of 330.0
+KH0506,undecodable_knots,0.0765,knots outside S/L/E or L without 2-9 turns
+KH0507,partial_attachment,0.4252,attachment known on 43% of 381.0
+KH0507,undecodable_knots,0.127,knots outside S/L/E or L without 2-9 turns
+KH0508,partial_attachment,0.3478,attachment known on 35% of 92.0
+KH0508,undecodable_knots,0.2214,knots outside S/L/E or L without 2-9 turns
+KH0509,partial_attachment,0.4779,attachment known on 48% of 362.0
+KH0509,undecodable_knots,0.5714,knots outside S/L/E or L without 2-9 turns
+KH0510,undecodable_knots,0.0938,knots outside S/L/E or L without 2-9 turns
+KH0511,undecodable_knots,0.0726,knots outside S/L/E or L without 2-9 turns
+KH0512,undecodable_knots,0.0579,knots outside S/L/E or L without 2-9 turns
+KH0513,partial_attachment,0.7594,attachment known on 76% of 133.0
+KH0513,undecodable_knots,0.09,knots outside S/L/E or L without 2-9 turns
+KH0514,partial_attachment,0.896,attachment known on 90% of 125.0
+KH0514,undecodable_knots,0.0922,knots outside S/L/E or L without 2-9 turns
+KH0515,partial_attachment,0.3333,attachment known on 33% of 15.0
+KH0515,undecodable_knots,0.619,knots outside S/L/E or L without 2-9 turns
+KH0516,partial_attachment,0.6073,attachment known on 61% of 247.0
+KH0516,undecodable_knots,0.2725,knots outside S/L/E or L without 2-9 turns
+KH0517,undecodable_knots,0.1264,knots outside S/L/E or L without 2-9 turns
+KH0518,partial_attachment,0.5714,attachment known on 57% of 21.0
+KH0518,undecodable_knots,0.1224,knots outside S/L/E or L without 2-9 turns
+KH0519,partial_attachment,0.148,attachment known on 15% of 250.0
+KH0519,undecodable_knots,0.2157,knots outside S/L/E or L without 2-9 turns
+KH0520,undecodable_knots,0.4857,knots outside S/L/E or L without 2-9 turns
+KH0521,undecodable_knots,0.2792,knots outside S/L/E or L without 2-9 turns
+KH0522,partial_knot_direction,0.7679,knot_direction known on 77% of 56.0
+KH0522,undecodable_knots,0.4643,knots outside S/L/E or L without 2-9 turns
+KH0523,undecodable_knots,0.3333,knots outside S/L/E or L without 2-9 turns
+KH0524,undecodable_knots,0.2308,knots outside S/L/E or L without 2-9 turns
+KH0525,undecodable_knots,0.3134,knots outside S/L/E or L without 2-9 turns
+KH0526,undecodable_knots,0.5,knots outside S/L/E or L without 2-9 turns
+KH0527,undecodable_knots,0.4545,knots outside S/L/E or L without 2-9 turns
+KH0528,undecodable_knots,1.0,knots outside S/L/E or L without 2-9 turns
+KH0529,partial_attachment,0.6103,attachment known on 61% of 272.0
+KH0529,undecodable_knots,0.459,knots outside S/L/E or L without 2-9 turns
+KH0530,undecodable_knots,0.4865,knots outside S/L/E or L without 2-9 turns
+KH0531,undecodable_knots,0.1364,knots outside S/L/E or L without 2-9 turns
+KH0532,undecodable_knots,0.1765,knots outside S/L/E or L without 2-9 turns
+KH0535,partial_attachment,0.8333,attachment known on 83% of 96.0
+KH0536,partial_attachment,0.3333,attachment known on 33% of 51.0
+KH0537,partial_attachment,0.8148,attachment known on 81% of 27.0
+KH0538,partial_attachment,0.6154,attachment known on 62% of 13.0
+KH0539,partial_attachment,0.8889,attachment known on 89% of 27.0
+KH0540,partial_attachment,0.6667,attachment known on 67% of 18.0
+KH0541,partial_attachment,0.45,attachment known on 45% of 20.0
+KH0545,partial_attachment,0.8667,attachment known on 87% of 15.0
+KH0548,partial_attachment,0.25,attachment known on 25% of 12.0
+KH0549,partial_attachment,0.75,attachment known on 75% of 136.0
+KH0550,partial_attachment,0.7714,attachment known on 77% of 35.0
+KH0550,partial_colour,0.8857,colour known on 89% of 35.0
+KH0552,partial_attachment,0.8966,attachment known on 90% of 29.0
+KH0553,partial_attachment,0.8889,attachment known on 89% of 9.0
+KH0555,partial_attachment,0.6452,attachment known on 65% of 31.0
+KH0556,partial_attachment,0.5714,attachment known on 57% of 7.0
+KH0557,no_knots,0.0,no knots recorded
+KH0558,no_knots,0.0,no knots recorded
+KH0559,partial_attachment,0.7237,attachment known on 72% of 76.0
+KH0560,no_knots,0.0,no knots recorded
+KH0563,partial_attachment,0.8958,attachment known on 90% of 48.0
+KH0565,partial_attachment,0.8929,attachment known on 89% of 28.0
+KH0565,undecodable_knots,0.6129,knots outside S/L/E or L without 2-9 turns
+KH0566,undecodable_knots,0.1551,knots outside S/L/E or L without 2-9 turns
+KH0567,partial_attachment,0.8125,attachment known on 81% of 32.0
+KH0567,undecodable_knots,0.0728,knots outside S/L/E or L without 2-9 turns
+KH0568,partial_attachment,0.1128,attachment known on 11% of 257.0
+KH0568,undecodable_knots,0.4242,knots outside S/L/E or L without 2-9 turns
+KH0569,partial_colour,0.88,colour known on 88% of 100.0
+KH0569,undecodable_knots,0.2081,knots outside S/L/E or L without 2-9 turns
+KH0570,undecodable_knots,0.5909,knots outside S/L/E or L without 2-9 turns
+KH0571,undecodable_knots,0.2,knots outside S/L/E or L without 2-9 turns
+KH0572,undecodable_knots,0.8667,knots outside S/L/E or L without 2-9 turns
+KH0573,partial_attachment,0.3846,attachment known on 38% of 39.0
+KH0573,undecodable_knots,0.5435,knots outside S/L/E or L without 2-9 turns
+KH0574,partial_attachment,0.622,attachment known on 62% of 82.0
+KH0574,undecodable_knots,0.2958,knots outside S/L/E or L without 2-9 turns
+KH0575,partial_attachment,0.8182,attachment known on 82% of 66.0
+KH0575,undecodable_knots,0.8537,knots outside S/L/E or L without 2-9 turns
+KH0576,partial_attachment,0.7093,attachment known on 71% of 86.0
+KH0576,undecodable_knots,0.66,knots outside S/L/E or L without 2-9 turns
+KH0577,partial_attachment,0.8824,attachment known on 88% of 34.0
+KH0577,partial_colour,0.8529,colour known on 85% of 34.0
+KH0577,undecodable_knots,0.1216,knots outside S/L/E or L without 2-9 turns
+KH0578,no_knots,0.0,no knots recorded
+KH0578,partial_colour,0.8889,colour known on 89% of 9.0
+KH0579,undecodable_knots,1.0,knots outside S/L/E or L without 2-9 turns
+KH0580,partial_attachment,0.6897,attachment known on 69% of 29.0
+KH0580,undecodable_knots,0.2791,knots outside S/L/E or L without 2-9 turns
+KH0581,undecodable_knots,0.5283,knots outside S/L/E or L without 2-9 turns
+KH0582,undecodable_knots,0.5476,knots outside S/L/E or L without 2-9 turns
+KH0583,missing_ply,0.0,no ply recorded on any of 47.0
+KH0583,partial_attachment,0.7447,attachment known on 74% of 47.0
+KH0583,partial_knot_direction,0.0236,knot_direction known on 2% of 127.0
+KH0584,undecodable_knots,0.058,knots outside S/L/E or L without 2-9 turns
+KH0585,partial_attachment,0.5758,attachment known on 58% of 33.0
+KH0585,partial_knot_direction,0.8367,knot_direction known on 84% of 49.0
+KH0585,undecodable_knots,0.5102,knots outside S/L/E or L without 2-9 turns
+KH0586,undecodable_knots,0.1624,knots outside S/L/E or L without 2-9 turns
+KH0587,undecodable_knots,0.368,knots outside S/L/E or L without 2-9 turns
+KH0588,partial_attachment,0.7805,attachment known on 78% of 41.0
+KH0588,undecodable_knots,0.5625,knots outside S/L/E or L without 2-9 turns
+KH0589,no_knots,0.0,no knots recorded
+KH0590,undecodable_knots,0.0337,knots outside S/L/E or L without 2-9 turns
+KH0591,undecodable_knots,0.0549,knots outside S/L/E or L without 2-9 turns
+KH0592,partial_attachment,0.1935,attachment known on 19% of 62.0
+KH0592,partial_colour,0.1774,colour known on 18% of 62.0
+KH0592,partial_knot_direction,0.5714,knot_direction known on 57% of 7.0
+KH0592,partial_ply,0.1935,ply known on 19% of 62.0
+KH0592,undecodable_knots,0.4286,knots outside S/L/E or L without 2-9 turns
+KH0593,missing_attachment,0.0,no attachment recorded on any of 57.0
+KH0593,missing_colour,0.0,no colour recorded on any of 57.0
+KH0593,missing_ply,0.0,no ply recorded on any of 57.0
+KH0593,no_knots,0.0,no knots recorded
+KH0594,missing_attachment,0.0,no attachment recorded on any of 18.0
+KH0594,missing_colour,0.0,no colour recorded on any of 18.0
+KH0594,missing_ply,0.0,no ply recorded on any of 18.0
+KH0594,no_knots,0.0,no knots recorded
+KH0595,missing_attachment,0.0,no attachment recorded on any of 89.0
+KH0595,missing_colour,0.0,no colour recorded on any of 89.0
+KH0595,missing_ply,0.0,no ply recorded on any of 89.0
+KH0595,no_knots,0.0,no knots recorded
+KH0596,missing_attachment,0.0,no attachment recorded on any of 21.0
+KH0596,missing_colour,0.0,no colour recorded on any of 21.0
+KH0596,missing_ply,0.0,no ply recorded on any of 21.0
+KH0596,no_knots,0.0,no knots recorded
+KH0597,missing_attachment,0.0,no attachment recorded on any of 160.0
+KH0597,missing_colour,0.0,no colour recorded on any of 160.0
+KH0597,missing_ply,0.0,no ply recorded on any of 160.0
+KH0597,no_knots,0.0,no knots recorded
+KH0598,missing_attachment,0.0,no attachment recorded on any of 45.0
+KH0598,missing_colour,0.0,no colour recorded on any of 45.0
+KH0598,missing_ply,0.0,no ply recorded on any of 45.0
+KH0598,no_knots,0.0,no knots recorded
+KH0599,missing_attachment,0.0,no attachment recorded on any of 120.0
+KH0599,missing_colour,0.0,no colour recorded on any of 120.0
+KH0599,missing_ply,0.0,no ply recorded on any of 120.0
+KH0599,no_knots,0.0,no knots recorded
+KH0600,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0601,no_cords,0.0,khipu_main row without cords
+KH0601,no_knots,0.0,no knots recorded
+KH0602,no_cords,0.0,khipu_main row without cords
+KH0602,no_knots,0.0,no knots recorded
+KH0603,no_cords,0.0,khipu_main row without cords
+KH0603,no_knots,0.0,no knots recorded
+KH0604,no_cords,0.0,khipu_main row without cords
+KH0604,no_knots,0.0,no knots recorded
+KH0605,no_cords,0.0,khipu_main row without cords
+KH0605,no_knots,0.0,no knots recorded
+KH0606,no_cords,0.0,khipu_main row without cords
+KH0606,no_knots,0.0,no knots recorded
+KH0607,no_cords,0.0,khipu_main row without cords
+KH0607,no_knots,0.0,no knots recorded
+KH0608,undecodable_knots,0.1724,knots outside S/L/E or L without 2-9 turns
+KH0609,undecodable_knots,0.75,knots outside S/L/E or L without 2-9 turns
+KH0610,undecodable_knots,0.5556,knots outside S/L/E or L without 2-9 turns
+KH0611,partial_attachment,0.5625,attachment known on 56% of 32.0
+KH0611,undecodable_knots,0.7742,knots outside S/L/E or L without 2-9 turns
+KH0612,partial_attachment,0.7927,attachment known on 79% of 193.0
+KH0612,undecodable_knots,0.2721,knots outside S/L/E or L without 2-9 turns
+KH0613,undecodable_knots,0.36,knots outside S/L/E or L without 2-9 turns
+KH0614,partial_attachment,0.5,attachment known on 50% of 6.0
+KH0614,undecodable_knots,0.037,knots outside S/L/E or L without 2-9 turns
+KH0615,partial_attachment,0.8333,attachment known on 83% of 6.0
+KH0615,undecodable_knots,1.0,knots outside S/L/E or L without 2-9 turns
+KH0616,partial_attachment,0.8,attachment known on 80% of 95.0
+KH0616,undecodable_knots,0.4138,knots outside S/L/E or L without 2-9 turns
+KH0617,partial_attachment,0.4278,attachment known on 43% of 374.0
+KH0617,undecodable_knots,0.3236,knots outside S/L/E or L without 2-9 turns
+KH0618,partial_attachment,0.6905,attachment known on 69% of 126.0
+KH0618,undecodable_knots,0.5437,knots outside S/L/E or L without 2-9 turns
+KH0619,undecodable_knots,0.0286,knots outside S/L/E or L without 2-9 turns
+KH0620,partial_attachment,0.7564,attachment known on 76% of 78.0
+KH0620,undecodable_knots,0.3333,knots outside S/L/E or L without 2-9 turns
+KH0621,partial_attachment,0.1667,attachment known on 17% of 60.0
+KH0621,undecodable_knots,0.3333,knots outside S/L/E or L without 2-9 turns
+KH0622,undecodable_knots,1.0,knots outside S/L/E or L without 2-9 turns
+KH0624,undecodable_knots,0.1562,knots outside S/L/E or L without 2-9 turns
+KH0625,partial_attachment,0.7692,attachment known on 77% of 13.0
+KH0625,undecodable_knots,0.0333,knots outside S/L/E or L without 2-9 turns
+KH0626,partial_attachment,0.5,attachment known on 50% of 6.0
+KH0626,undecodable_knots,0.5455,knots outside S/L/E or L without 2-9 turns
+KH0627,partial_attachment,0.75,attachment known on 75% of 4.0
+KH0628,partial_attachment,0.3636,attachment known on 36% of 11.0
+KH0628,undecodable_knots,0.0361,knots outside S/L/E or L without 2-9 turns
+KH0629,partial_attachment,0.5,attachment known on 50% of 24.0
+KH0629,undecodable_knots,0.4667,knots outside S/L/E or L without 2-9 turns
+KH0630,partial_attachment,0.4459,attachment known on 45% of 74.0
+KH0630,undecodable_knots,0.4464,knots outside S/L/E or L without 2-9 turns
+KH0631,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0632,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0633,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0634,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0635,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0636,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0637,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0638,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0639,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0640,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0641,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0642,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0643,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0644,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0645,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0646,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0647,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0648,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0649,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0650,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0651,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0652,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0653,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0654,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0655,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0656,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0657,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0658,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0659,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0660,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0661,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0662,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0663,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0664,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0665,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0666,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0667,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0668,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0669,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0670,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0671,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0672,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0673,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0674,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0675,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0676,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0677,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0678,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0679,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0680,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0681,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0682,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0683,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0684,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0685,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0686,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0687,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0688,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0689,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0690,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0691,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0692,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0693,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0694,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0695,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0696,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0697,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0698,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0699,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0700,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0701,not_in_khipu_db,0.0,KH number issued; data not in khipu.db
+KH0702,not_in_khipu_db,0.0,KH number issued; data not in khipu.db

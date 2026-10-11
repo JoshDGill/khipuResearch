@@ -1,0 +1,17 @@
+{
+  "name": "P1-002",
+  "started_at": "20261011T153032Z",
+  "git_sha": "5016625e28d87e2e439f276037c266645c0d17ad",
+  "git_dirty": false,
+  "seed": 20261011,
+  "prereg_ids": [
+    "P1-002"
+  ],
+  "uv_lock_sha256": "911cd465d4684e7a1221b5476e481f1c6c1d54a45adb83cbc9fdacdb72f31fbb",
+  "inputs": {
+    "data/interim/okr/cord.parquet": "b0a09437b56bbdd22dedde3dab40bc012b4ac88dc0954a76b8e2063c513477c0",
+    "data/interim/okr/knot.parquet": "e683f6e65925cf120588c22910874474c07e61f1a30515c2c334f71a28e4de16",
+    "data/interim/okr/ascher_cord_color.parquet": "d6da7e6395168f42c8882c2dc52f87c02f19860807622823e33075cba33e332f",
+    "data/clean/id_crosswalk.csv": "edc2c9c83c06a9b5fa32ae447902b7d756ef29d7f0e9a5980501fe5b346d70bd"
+  }
+}

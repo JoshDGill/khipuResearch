@@ -1,0 +1,25 @@
+# Raw downloads are never committed (decision D3). Only the checksum manifest is.
+data/raw/*
+!data/raw/MANIFEST.csv
+!data/raw/.gitkeep
+
+# Derived data is rebuilt by `make`
+data/interim/*
+!data/interim/.gitkeep
+data/clean/*
+!data/clean/.gitkeep
+!data/clean/id_crosswalk.csv
+!data/clean/quality_flags.csv
+!data/clean/duplicates.csv
+data/controls/*
+!data/controls/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/

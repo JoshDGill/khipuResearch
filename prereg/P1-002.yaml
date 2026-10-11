@@ -1,0 +1,87 @@
+id: P1-002
+title: Reproduce the share of khipus with at least one Ascher sum relationship (~74%)
+kind: reproduction
+phase: 1
+date: 2026-10-11
+status: not_reproduced
+
+claim: >-
+  About 74% of khipus with computable cord values contain at least one Ascher sum relationship
+  (Medrano & Khosla). The Khipu Field Guide reports 464 of 654 (70.9%) under its seven-relation
+  definition.
+sources:
+  - Medrano & Khosla (Latin American Antiquity, 2024/2025)
+  - Khipu Field Guide, Ascher Sums Overview (notebook/analyses/ascher_sums_overview.html)
+  - Ascher & Ascher (1981)
+features:
+  - cord value (recorder reading as defined in P1-001)
+  - pendant order, cord group membership, subsidiary parent
+  - Ascher colour code (for the by-colour relation)
+data_subset: >-
+  OKR v2.1.0 khipus with at least one pendant whose value is computable (P1-001 reference
+  value). Merged duplicates count once.
+exclusions:
+  - Khipus with no computable pendant values
+  - Duplicate re-recordings (counted once, after the steward merge)
+definitions:
+  pendant_order: Pendants ordered by OKR cord ordinal along the primary cord, across groups.
+  contiguous_range: >-
+    A run of consecutive cords in the stated order that starts and ends on a non-zero cord and
+    contains at least 2 non-zero cords. Zero-valued cords inside the run are allowed.
+  R1_pendant_pendant_sum: >-
+    A pendant with value > 0 equals the sum of a contiguous range of other pendants to its left
+    or right, at any distance, ignoring colour and group.
+  R2_colour_pendant_sum: >-
+    A pendant with value > 0 equals the sum of a contiguous range within the subsequence of
+    pendants sharing one identical full Ascher colour code, ignoring group boundaries, not
+    including itself.
+  R3_indexed_pendant_sum: >-
+    The pendant at index i (from the left) in group g, value > 0, equals the sum of the
+    index-i pendants of at least 2 contiguous groups entirely to the left or to the right of g.
+  R4_subsidiary_pendant_sum: >-
+    A subsidiary with value > 0 equals the sum of a contiguous range of pendants. The range may
+    include the subsidiary's own parent pendant.
+  R5_group_sum_band: >-
+    A group with at least 4 cords whose left part and right part have equal sums > 0. For n
+    cords the split point may be floor(n/2) or ceil(n/2) (the "off-by-one" allowance).
+  R6_group_sum_pair: >-
+    Two different groups, each with at least 2 cords, whose totals including subsidiaries are
+    equal and > 0.
+  R7_decreasing_group: A group with at least 3 cords, all > 0, strictly decreasing left to right.
+  khipu_has_relation: At least one instance of any of R1-R7.
+held_out_prediction: Not applicable to a reproduction.
+refutation_criterion: >-
+  A share outside 0.69-0.79 means the published rate is not reproduced, and Gate G1 stops the
+  project for debugging.
+planned_test: >-
+  Run R1-R7 on every eligible khipu. Report the share with at least one relation, the
+  per-relation shares and counts, and the instances in a table with KH numbers and cord ids.
+effect_size: Share of khipus with a Wilson 95% CI; per-relation shares.
+tolerance:
+  metric: share of eligible khipus with >= 1 relation of R1-R7
+  published_value: ~0.74 (Medrano & Khosla, ~650 khipus); 0.709 (KFG, 464/654)
+  accept_if: "0.69 <= x <= 0.79"
+  rationale: Approved by the project owner (decision D4); ±5 pp around 0.74.
+sensitivity_analyses:
+  - Sum relations only (R1-R6, dropping the ordering relation R7)
+  - Adding Locke top-cord sums (top cord equals the sum of an adjacent group)
+  - Requiring sum value >= 10 to suppress trivially small coincidences
+  - KFG Cords.Value as the value source
+  - Per-relation instance counts compared with the KFG table (e.g. 8,088 pendant-pendant sums)
+null_models: []
+null_models_deferred_to: >-
+  Phase 2. Reproducing the rate is not evidence that the relations were intended. KFG reports
+  that about 70% of non-zero pendants take part in some sum, which an any-distance search can
+  produce by chance. The shuffled-cord and rule-scrambled comparison is pre-registered as a
+  Phase 2 hypothesis before it is run.
+replication: Repeated on KFG values as an independent data path (sensitivity analysis above).
+notes: >-
+  The relation definitions are this project's reading of the KFG descriptions, recorded before
+  any run. Where the published method is ambiguous (zeros in ranges, the off-by-one band split,
+  strict vs non-strict decrease), the choice above is fixed now and the alternatives are not
+  tuned against the target.
+  RESULT (run 20261011T153032Z_P1-002): 484 of 610 khipus = 0.793 (95% CI 0.760-0.824), just outside
+  0.69-0.79. NOT REPRODUCED; Gate G1. Per-relation instance counts diverge from KFG (R1 12,983 vs
+  8,088; R2 12,146 vs 3,023; R3 615 vs 4,746; R4 3,818 vs 767), so this project's reading of the
+  relation definitions differs from the published implementation. See
+  reports/phase1_reproduction.md.

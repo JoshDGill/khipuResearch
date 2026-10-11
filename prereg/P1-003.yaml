@@ -1,0 +1,57 @@
+id: P1-003
+title: Reproduce the Santa Valley recto/verso attachment split (KH0323-KH0328)
+kind: reproduction
+phase: 1
+date: 2026-10-11
+status: reproduced
+
+claim: >-
+  On the six Santa Valley khipus matched to the 1670 revisita, pendant attachments split roughly
+  47% recto / 53% verso (Medrano & Urton 2018). Contreras (2026, preprint) reported 49/51 from
+  OKR, with KH0326 mixed.
+sources:
+  - Medrano & Urton (2018), Ethnohistory 65(1)
+  - FitzPatrick (2024), Ethnohistory 71(4)
+  - Contreras (2026), arXiv 2607.00185 (single-author preprint, not peer reviewed)
+features:
+  - OKR cord.ATTACHMENT_TYPE
+  - OKR cord.CORD_LEVEL / PENDANT_FROM (to select pendants)
+data_subset: >-
+  OKR v2.1.0 khipus KH0323, KH0324, KH0325, KH0326, KH0327, KH0328 (UR087-UR092). Pendant
+  cords only: cords attached directly to a primary cord, excluding top cords and subsidiaries.
+exclusions:
+  - Pendants with attachment U, blank or null (counted and reported, not imputed)
+definitions:
+  recto_share: count(R) / (count(R) + count(V)), pooled over the six khipus.
+  six_cord_groups: >-
+    Cord groups of exactly six pendants, counted per khipu. Sources disagree (132 vs 133). Both
+    the published figures and our count are reported, with no tolerance.
+held_out_prediction: Not applicable to a reproduction.
+refutation_criterion: >-
+  A recto share outside 0.45-0.53 means the split is not reproduced, and Gate G1 stops the
+  project for debugging.
+planned_test: >-
+  Count R and V pendants per khipu and pooled. Report the pooled share, per-khipu shares, the
+  number of unknown attachments, and the six-cord group count.
+effect_size: Pooled recto share with a Wilson 95% CI; per-khipu shares.
+tolerance:
+  metric: pooled recto share
+  published_value: ~0.47 (Medrano & Urton 2018); 0.49 (Contreras 2026, OKR)
+  accept_if: "0.45 <= x <= 0.53"
+  rationale: Approved by the project owner (decision D4).
+sensitivity_analyses:
+  - Excluding KH0326 (reported as mixed by Contreras)
+  - Including subsidiaries and top cords
+  - KFG Cords.Attachment as the source
+null_models: []
+null_models_deferred_to: >-
+  Phase 2. Whether recto/verso tracks moiety, and whether the split is rediscovered with Santa
+  Valley held out (AGENTS.md §9.1), is a separate pre-registered hypothesis with null models.
+replication: Repeated on KFG attachment data as an independent data path.
+notes: >-
+  RESULT (run 20261011T153022Z_P1-003): pooled recto share 382/797 = 0.479 (95% CI 0.445-0.514), inside
+  0.45-0.53. REPRODUCED. Signed off by the project owner (Josh Gill) on 2026-10-11. Caveat: attachment is constant within five
+  of the six khipus (KH0323, KH0328 all recto; KH0324, KH0325, KH0327 all verso; KH0326 37%
+  recto), so the effective sample is six khipus and the cord-level CI overstates precision.
+  Six-cord groups from OKR cord_cluster: 39, against 132/133 published; the published grouping is
+  not the OKR cluster structure.
