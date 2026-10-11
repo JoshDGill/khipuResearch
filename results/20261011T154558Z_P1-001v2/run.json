@@ -1,0 +1,16 @@
+{
+  "name": "P1-001v2",
+  "started_at": "20261011T154558Z",
+  "git_sha": "9c5e1ce0d8325095392b9009a9e1dde37c80cb23",
+  "git_dirty": false,
+  "seed": 20261011,
+  "prereg_ids": [
+    "P1-001v2"
+  ],
+  "uv_lock_sha256": "911cd465d4684e7a1221b5476e481f1c6c1d54a45adb83cbc9fdacdb72f31fbb",
+  "inputs": {
+    "data/interim/okr/cord.parquet": "b0a09437b56bbdd22dedde3dab40bc012b4ac88dc0954a76b8e2063c513477c0",
+    "data/interim/okr/knot.parquet": "e683f6e65925cf120588c22910874474c07e61f1a30515c2c334f71a28e4de16",
+    "data/interim/okr/knot_cluster.parquet": "fb5d1dff01970700d981193ca9154d495bb98cc20832e25ec9f687a695a01389"
+  }
+}

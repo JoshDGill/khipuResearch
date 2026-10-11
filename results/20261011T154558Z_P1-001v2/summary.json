@@ -1,0 +1,36 @@
+{
+  "prereg": "P1-001v2",
+  "supersedes": "P1-001",
+  "eligible_cords": 29337,
+  "agree": 25637,
+  "agreement": 0.8738794014384565,
+  "agreement_ci95_wilson": [
+    0.8700314744894585,
+    0.8776294278329292
+  ],
+  "tolerance": "x >= 0.99",
+  "inside_tolerance": false,
+  "exclusions": {
+    "long_knot_turns_invalid": 4546,
+    "le_above_units": 2239,
+    "undecodable_knot_type": 538,
+    "no_units_anchor": 351,
+    "units_multiple_le": 69,
+    "units_mixed_s_and_le": 2
+  },
+  "sensitivity": {
+    "delta_0.35": 0.8734021883628182,
+    "delta_0.75": 0.8427242049289293,
+    "per_khipu_bands": 0.8060469714013021,
+    "with_units_cluster": {
+      "agreement": 0.9775452273016142,
+      "cords": 23603
+    },
+    "without_units_cluster": {
+      "agreement": 0.44715730728985004,
+      "cords": 5734
+    },
+    "kfg_value": "pending: KFG download not complete"
+  },
+  "post_hoc": true
+}

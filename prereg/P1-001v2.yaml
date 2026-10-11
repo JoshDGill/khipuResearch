@@ -3,7 +3,7 @@ title: Reproduce Locke base-10 cord values using group-aligned place bands
 kind: reproduction
 phase: 1
 date: 2026-10-11
-status: registered
+status: not_reproduced
 supersedes: P1-001
 
 claim: >-
@@ -82,3 +82,9 @@ notes: >-
   knot were ambiguous. Approved by the project owner on 2026-10-11. The tolerance is unchanged.
   This version is flagged as post hoc in reports/phase1_reproduction.md, and a pass here is
   weaker evidence than a pass on the first registration.
+  RESULT (run 20261011T154558Z_P1-001v2): agreement 0.874 (95% CI 0.870-0.878) on 29,337 cords,
+  outside 0.99. NOT REPRODUCED. Cords with a units knot agree 0.978 (23,603); cords without one
+  agree 0.447 (5,734). Design error found afterwards: v2 let an S cluster take the units place,
+  which recorders almost never do (1% of such cords read below 10), so 2,681 mismatches are off
+  by exactly one place. Fixing it cannot reach 0.99 because cords with a units knot already cap
+  at 0.978. Per the refutation criterion, Phase 1 uses the recorders' readings as values.

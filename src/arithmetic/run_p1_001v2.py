@@ -52,7 +52,7 @@ def decode_all(elig, clusters, meta, factor: float, per_khipu: bool):
     corpus_gap = float(np.median(all_gaps))
 
     decoded, excluded = {}, {}
-    for gk, cids in groups.items():
+    for cids in groups.values():
         kh = meta.at[cids[0], "kh"]
         g_gaps = [x for cid in cids for x in gaps(clusters[cid])]
         if len(g_gaps) >= MIN_GAPS:

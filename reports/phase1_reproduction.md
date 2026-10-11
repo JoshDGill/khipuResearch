@@ -7,6 +7,7 @@ Data: OKR v2.1.0 (Zenodo 10.5281/zenodo.18025748). KFG cross-checks are pending 
 | Prereg | Target | Tolerance | Result | Verdict |
 |---|---|---|---|---|
 | P1-001 | Locke base-10 values reproduce the recorders' readings | ≥ 0.99 agreement | **0.937** (95% CI 0.934–0.940), 29,688 cords | **Not reproduced** |
+| P1-001v2 | Same, group-aligned place bands (post hoc) | ≥ 0.99 agreement | **0.874** (95% CI 0.870–0.878), 29,337 cords | **Not reproduced** |
 | P1-002 | Share of khipus with ≥ 1 Ascher sum relation | 0.69–0.79 | **0.793** (95% CI 0.760–0.824), 484/610 khipus | **Not reproduced** (marginally; components diverge) |
 | P1-003 | Santa Valley pooled recto share | 0.45–0.53 | **0.479** (95% CI 0.445–0.514), 382/797 pendants | **Reproduced**, signed off; effective n = 6 khipus |
 
@@ -36,6 +37,19 @@ Locke's digit rules are not in question here. Digits read from knot type and cou
 ### Next step (approved by the owner, 2026-10-11)
 
 Register **P1-001v2** (`supersedes: P1-001`) with group-aligned place bands. Within each cord group, cluster the knot positions of all cords into horizontal bands, anchor the units band on L/E knots, and give each S cluster the exponent of its band. The tolerance stays at 0.99. The revision is flagged as post hoc in this report, because its design was informed by the failure above. If v2 also fails, the honest outcome is that recorded positions alone do not determine place for a sizeable minority of cords, and Phase 1 uses the recorders' readings as values, with that limitation stated.
+
+### P1-001v2 result (post hoc, approved 2026-10-11)
+
+Run `results/20261011T154558Z_P1-001v2/`.
+
+- Agreement is 25,637 of 29,337 = **0.874** (Wilson 95% CI 0.870–0.878), below 0.99. **Not reproduced.** Sensitivity analyses: delta at 0.35× gives 0.873, at 0.75× gives 0.843, and bands per khipu give 0.806.
+- Cords with a units knot agree on **0.978** (23,603 cords). Cords without one agree on **0.447** (5,734 cords).
+- The v2 rule has a design error, found after the run. It let an S-knot cluster take the units place, but recorders almost never do this (only 1% of cords without a units knot have a recorded value below 10). When a group has no units knots, the rule also anchored on the nearest band however far away it was. As a result, 2,681 mismatches are exactly one place too low.
+- Fixing this would not reach the tolerance. Cords with a units knot are already capped at 0.978 under both v1 and v2, so no handling of the other 20% can lift the total to 0.99. No v3 is registered.
+
+### Conclusion for P1-001 (both versions)
+
+Neither registered rule reproduces the recorders' readings at 0.99 from OKR knot positions. For cords with a units knot, digit reading plus positional place assignment agrees with the recorders on about 97.5–98%. For cords without a units knot, the recorded geometry does not determine place reliably. Recorders resolved those cases by judgement and alignment that the database does not capture. **Per the pre-registered refutation criterion, Phase 1 and later work use the recorders' readings (`knot_value_type`) as cord values, with this limitation stated.** P1-002 already does so.
 
 ## P1-002: Share of khipus with an Ascher sum relation
 
