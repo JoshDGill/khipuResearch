@@ -1,0 +1,95 @@
+id: P1-002v2
+title: Reproduce the Ascher sum-relation share with KFG's published search criteria on KFG data
+kind: reproduction
+phase: 1
+date: 2026-10-11
+status: registered
+supersedes: P1-002
+
+claim: >-
+  About 74% of khipus contain at least one Ascher sum relationship (Medrano & Khosla). The KFG
+  analysis pages' published per-khipu outputs give 488 of 654 khipus (0.746) across R1-R7.
+sources:
+  - Medrano & Khosla (2024), Latin American Antiquity, doi:10.1017/laq.2024.5
+  - KFG analysis pages, data/raw/kfg/analyses/*.html (search criteria text and code cells)
+features:
+  - KFG Cords.Value, Cord_Name (p/s hierarchy), Attachment, Color
+  - KFG CordGroups pendant ranges
+data_subset: >-
+  Primary: KFG Excel files (snapshot recorded in data/raw/MANIFEST.csv), khipus with at least one
+  pendant whose Value parses as an integer. Secondary (sensitivity only): OKR v2.1.0 with
+  recorder readings as values, the same corpus as P1-002.
+exclusions:
+  - KFG khipus whose Excel file is missing or unparseable (listed)
+  - Top cords (Attachment T) are not pendants and take part only in the top-cord sensitivity
+definitions:
+  value: KFG Cords.Value as an integer. Non-integer or blank Value = uncomputable (as in P1-002).
+  pendant: Cord_Name of the form p<N>, Attachment not T. Subsidiary = any name containing s.
+  group: KFG CordGroups line "(a-b)" pendant ranges; groups ordered as listed.
+  nonzero_sequence: >-
+    Pendants in order with zero-valued cords removed. "Contiguous" below means consecutive in
+    this sequence (KFG: "contiguous ... not including 0 cords in-between"). Uncomputable cords
+    break contiguity.
+  R1_pendant_pendant_sum: >-
+    KFG criteria: a pendant with value >= 11 equals the exact sum of >= 2 contiguous non-zero
+    pendants (range of at most 250 non-zero cords) that excludes it, on either side, regardless of
+    colour or group. (KFG text says "at least three cords"; its own statistics report a minimum
+    of 2 summands, so 2 is used and the conflict is recorded.)
+  R2_colour_pendant_sum: >-
+    KFG criteria: a pendant with value >= 11 equals the exact sum of >= 2 contiguous members of
+    the non-zero subsequence of pendants sharing its full Color string; its value exceeds the
+    number of summands; the summands lie in at least two groups and those groups are adjacent.
+  R3_indexed_pendant_sum: >-
+    KFG code (indexed_pendant_sum.html): a pendant at index i of group g with value > 5; candidate
+    summands are the index-i pendants of every group to the left (or right) of g that has an
+    index i, with zeros removed; any contiguous run of >= 2 candidates whose sum equals the value
+    exactly. Sums that are multiples of 10 below 100, or multiples of 100 below 1000, are removed.
+  R4_subsidiary_pendant_sum: >-
+    KFG criteria: a subsidiary with value >= 5 equals the exact sum of >= 2 contiguous non-zero
+    pendants (range of at most 250 non-zero cords). Subsidiaries below 100 that are multiples of
+    10 are removed.
+  R5_group_sum_band: >-
+    KFG criteria: a group of pendants with total >= 5, not consisting of one repeated value, with
+    some split index where the left sum equals the right sum exactly and each side has >= 2
+    cords.
+  R6_group_sum_pair: >-
+    KFG code (group_group_sum.html, is_significant_sum): two different groups whose totals,
+    including subsidiaries and excluding top cords, are equal, and the total is >= 100 or
+    (>= 11 and not a multiple of 10). (The page text says >= 21; the code is used.)
+  R7_decreasing_group: >-
+    KFG code (roughly_linear_decreasing, tolerance 0.4): a group of >= 3 pendants whose
+    (index, value) points have a least-squares fit with r^2 > 0.6 and slope angle strictly
+    between -87 and -5 degrees.
+  khipu_has_relation: At least one instance of any of R1-R7.
+  jaccard: >-
+    For each relation, J = |ours AND kfg| / |ours OR kfg| over khipus present in both our parsed
+    corpus and the KFG published plots (names mapped via KFG Aliases and the ID crosswalk).
+held_out_prediction: Not applicable to a reproduction.
+refutation_criterion: >-
+  Not reproduced if the share falls outside 0.69-0.79 OR the median Jaccard over R1-R7 is
+  below 0.7. The second condition is new in v2: P1-002 showed a headline share can land near
+  the target while the components disagree.
+planned_test: >-
+  Parse the KFG files, run R1-R7, report the share, per-relation khipu counts and instances,
+  and per-relation Jaccard against the published sets. Repeat on OKR values as a sensitivity
+  analysis.
+effect_size: Share with a Wilson 95% CI; per-relation Jaccard; per-relation khipu counts.
+tolerance:
+  metric: share of eligible khipus with >= 1 relation of R1-R7 (KFG data)
+  published_value: ~0.74 (Medrano & Khosla); 0.746 (488/654, KFG published plots)
+  accept_if: "0.69 <= x <= 0.79"
+  rationale: Unchanged from P1-002 (decision D4); median Jaccard >= 0.7 is a required co-criterion.
+sensitivity_analyses:
+  - OKR recorder values instead of KFG values
+  - Sum relations only (R1-R6)
+  - Adding top-cord sums
+null_models: []
+null_models_deferred_to: >-
+  Phase 2, as in P1-002. Matching KFG's search would show only that the published rate is
+  reproducible, not that the relations are more frequent than chance.
+replication: The OKR sensitivity run is an independent data path.
+notes: >-
+  POST-HOC REVISION approved by the project owner on 2026-10-11 after P1-002 failed (0.793) with
+  component counts far from KFG's. KFG's code is not public; definitions are taken from the
+  search-criteria text and code cells on its analysis pages. Choices not determined by those
+  pages are stated above and fixed before any run on KFG data.

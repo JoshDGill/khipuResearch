@@ -41,7 +41,7 @@ kfg:
   name: Khipu Field Guide
   version: live site (no versioned release); snapshot date recorded per file in the manifest
   licence: >-
-    MIT notice (c) Ashok Khosla on site code; no separate data licence found.
+    MIT (c) Ashok Khosla, stated in each Excel file's "License and Description" sheet.
     Cite the KFG and the original recorders listed in its Databook.
   citation: "Khosla, A. et al. The Khipu Field Guide. https://www.khipufieldguide.com/"
   # robots.txt asks for Crawl-delay: 10. The fetcher honours it, so a full pull takes ~3 hours.

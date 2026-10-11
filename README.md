@@ -23,7 +23,7 @@ Raw downloads are not committed. `data/raw/MANIFEST.csv` records every file's UR
 | Source | Version | Licence |
 |---|---|---|
 | Open Khipu Repository | v2.1.0, [10.5281/zenodo.18025748](https://doi.org/10.5281/zenodo.18025748) | MIT |
-| Khipu Field Guide | live site, snapshot dates in the manifest | MIT notice on site; cite KFG and original recorders |
+| Khipu Field Guide | live site, snapshot dates in the manifest | MIT (stated in each data file); cite KFG and original recorders |
 | Khipu-Biblio Cross-Reference | v6, [10.26188/25661322.v6](https://doi.org/10.26188/25661322.v6) | CC BY-NC-SA 4.0 |
 
 Please cite these sources and follow the OKR citation guidance when using derived data. The khipus are cultural heritage of Andean communities, and most were removed from their contexts without record.
