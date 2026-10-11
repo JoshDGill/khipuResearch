@@ -1,0 +1,82 @@
+id: P1-001
+title: Reproduce Locke base-10 cord values from knot type and position
+kind: reproduction
+phase: 1
+date: 2026-10-11
+status: registered
+
+claim: >-
+  Cord values computed independently from knot type, number of turns and knot position using
+  Locke's rules agree with the values the original recorders assigned.
+sources:
+  - Locke (1912, 1923), The Ancient Quipu or Peruvian Knot Record
+  - Ascher & Ascher (1981), Code of the Quipu
+features:
+  - OKR knot.TYPE_CODE
+  - OKR knot.NUM_TURNS
+  - OKR knot_cluster.START_POS (position along the cord)
+  - OKR knot.CLUSTER_ID, knot_cluster.CORD_ID
+data_subset: >-
+  OKR v2.1.0 khipu.db, all cords. A cord is eligible when it has at least one knot, every knot
+  has TYPE_CODE in {S, L, E}, every L knot has NUM_TURNS in 2..9, every knot cluster has a
+  non-null START_POS, and every knot has a non-null recorder place value (knot.knot_value_type).
+exclusions:
+  - Cords with any knot of type EE, LL, BL, SP, TF, blank or quoted-blank (reported as undecodable, not guessed)
+  - L knots with NUM_TURNS null, 0, 1 or >9 (reported, not guessed)
+  - Cords on khipus the steward flags as no_cords/no_knots (vacuous)
+definitions:
+  reference_value: >-
+    Recorder reading = sum over the cord's knots of knot.knot_value_type (S knots carry their
+    place value 1/10/100/1000/..., L knots carry their unit value, E knots carry 1).
+    knot_cluster.TOTAL_VALUE is NOT used as the reference: inspection of the schema showed it is
+    null for 12,355 of 60,169 clusters and 0 on clusters with knots. Its agreement is reported
+    as a data-quality figure only.
+  decoder_inputs: >-
+    The decoder must not read knot_value_type or TOTAL_VALUE. It uses only type, turns,
+    cluster membership and START_POS.
+  units_cluster: >-
+    The lowest cluster on the cord (largest START_POS) is the units cluster if it contains an
+    L or E knot. Units digit = NUM_TURNS for one L knot, 1 for one E knot. A units cluster with
+    more than one L/E knot, or mixed S and L/E knots, makes the cord ineligible (logged).
+  place_spacing: >-
+    s = median distance between consecutive knot clusters on the same cord, pooled over all
+    eligible cords of the same khipu. Khipus with fewer than 10 such distances fall back to the
+    corpus-wide median.
+  place_assignment: >-
+    Clusters of S knots are walked upward from the units position. Between consecutive clusters
+    at distance d, the number of skipped (zero) places is max(0, round(d / s) - 1). If the cord
+    has no units cluster, the units position is the median START_POS of units clusters in the
+    same cord group (cord_cluster), or of the khipu if the group has none, and the lowest S
+    cluster's exponent is max(1, round((u - pos) / s)). Digit = number of S knots in the cluster.
+  agreement: decoded value == reference value, exact integer equality.
+held_out_prediction: >-
+  Not applicable to a reproduction. The decoder is fixed here before it is run on the corpus.
+refutation_criterion: >-
+  Agreement below 0.99 means base-10 values are not reproduced from the raw data, and Gate G1
+  stops the project for debugging.
+planned_test: >-
+  Run the decoder on all eligible cords, compare with the reference value, and list every
+  mismatch with KH number, cord id, knot sequence and both values.
+effect_size: Agreement proportion with a Wilson 95% CI; mismatch counts by khipu and by cause.
+tolerance:
+  metric: agreement proportion over eligible cords
+  published_value: Locke's rules are treated as settled (AGENTS.md §2.2); no published rate exists.
+  accept_if: "x >= 0.99"
+  rationale: Approved by the project owner (decision D4).
+sensitivity_analyses:
+  - Consecutive-place decoder (no zeros inferred from spacing)
+  - Place spacing estimated per cord group instead of per khipu
+  - Agreement against KFG Cords.Value for khipus present in both sources
+  - Additive (non-positional) reading per Overmann & Florio (2025), reported only
+  - Per-knot consistency of knot_value_type with TYPE_CODE/NUM_TURNS (data QA)
+  - TOTAL_VALUE coverage and agreement (data QA)
+null_models: []
+null_models_deferred_to: >-
+  None needed. This is a measurement of decoding agreement, not a structural claim.
+replication: >-
+  Independent data path. The KFG Excel files carry their own Value column, built by a different
+  pipeline, and are compared as a sensitivity analysis.
+notes: >-
+  Reference column changed from TOTAL_VALUE (as proposed in plan §4.3) to the summed per-knot
+  recorder values after schema inspection showed TOTAL_VALUE is unreliable. The tolerance is
+  unchanged. Recorded before any decoder run.
