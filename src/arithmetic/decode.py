@@ -122,3 +122,55 @@ def gaps(clusters: list[Cluster]) -> list[float]:
 
 def spacing_by(groups: dict[str, list[float]], fallback: float, min_n: int = 10) -> dict:
     return {k: (float(np.median(v)) if len(v) >= min_n else fallback) for k, v in groups.items()}
+
+
+# --- P1-001v2: group-aligned place bands (prereg/P1-001v2.yaml) ---------------------------
+
+
+def make_bands(positions: list[float], delta: float) -> list[tuple[float, float]]:
+    """Single-linkage 1-D bands: split sorted positions where the gap exceeds delta.
+
+    Returns (top, bottom) bounds per band, ordered from the top of the cord downwards.
+    """
+    ps = sorted(positions)
+    if not ps:
+        return []
+    bands, start = [], ps[0]
+    for a, b in zip(ps, ps[1:], strict=False):
+        if b - a > delta:
+            bands.append((start, a))
+            start = b
+    bands.append((start, ps[-1]))
+    return bands
+
+
+def units_band_index(bands: list[tuple[float, float]], u: float) -> int:
+    for i, (top, bottom) in enumerate(bands):
+        if top <= u <= bottom:
+            return i
+    return min(range(len(bands)), key=lambda i: abs((bands[i][0] + bands[i][1]) / 2 - u))
+
+
+def band_exponent(pos: float, bands: list[tuple[float, float]], units_idx: int) -> int:
+    for i, (top, bottom) in enumerate(bands):
+        if top <= pos <= bottom:
+            return max(0, units_idx - i)
+    raise ValueError(f"position {pos} is not in any band")
+
+
+def decode_banded(clusters: list[Cluster], bands: list[tuple[float, float]],
+                  units_idx: int) -> tuple[int, list[int]]:
+    ordered = sorted(clusters, key=lambda c: c.pos, reverse=True)  # bottom first
+    value, exps, prev = 0, [], None
+    if ordered[0].is_units:
+        value += units_digit(ordered[0])
+        prev = 0
+        ordered = ordered[1:]
+    for c in ordered:
+        e = band_exponent(c.pos, bands, units_idx)
+        if prev is not None:
+            e = max(e, prev + 1)
+        value += len(c.types) * 10 ** e
+        exps.append(e)
+        prev = e
+    return value, exps

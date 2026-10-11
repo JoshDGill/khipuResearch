@@ -50,3 +50,40 @@ def test_ineligibility_reasons():
     assert ineligibility([Cluster(10, ("L", "L"), (2.0, 3.0))]) == "units_multiple_le"
     assert ineligibility([Cluster(10, ("S", "L"), (0.0, 3.0))]) == "units_mixed_s_and_le"
     assert ineligibility([Cluster(float("nan"), ("S",), (0.0,))]) == "cluster_position_missing"
+
+
+def test_bands_single_linkage():
+    from arithmetic.decode import make_bands
+
+    assert make_bands([5.0, 5.5, 11.0, 17.0, 17.4], delta=2.0) == [(5.0, 5.5), (11.0, 11.0),
+                                                                   (17.0, 17.4)]
+
+
+def test_banded_decode_recovers_zero_place_from_neighbours():
+    from arithmetic.decode import decode_banded, make_bands, units_band_index
+
+    # Cord A: 1 hundred, 2 tens, units 3 (rows at 5, 11, 17). Cord B: 1 hundred, no tens, 6.
+    a = [S(5, 1), S(11, 2), L(17, 3)]
+    b = [S(5.3, 1), L(17.2, 6)]
+    bands = make_bands([c.pos for c in a + b], delta=2.0)
+    ui = units_band_index(bands, 17.1)
+    assert decode_banded(a, bands, ui)[0] == 123
+    assert decode_banded(b, bands, ui)[0] == 106  # single-cord spacing alone cannot see this
+
+
+def test_banded_decode_without_units_cluster():
+    from arithmetic.decode import decode_banded, make_bands, units_band_index
+
+    a = [S(5, 1), S(11, 2), L(17, 3)]
+    c = [S(11.2, 4)]  # 4 tens, no units knot
+    bands = make_bands([x.pos for x in a + c], delta=2.0)
+    assert decode_banded(c, bands, units_band_index(bands, 17.0))[0] == 40
+
+
+def test_banded_decode_enforces_increasing_places():
+    from arithmetic.decode import decode_banded, make_bands, units_band_index
+
+    # Two S clusters of one cord fall in the same band: the upper one moves up a place.
+    cl = [S(10, 1), S(11, 2), L(17, 3)]
+    bands = make_bands([10.0, 11.0, 17.0], delta=2.0)
+    assert decode_banded(cl, bands, units_band_index(bands, 17.0))[0] == 123
