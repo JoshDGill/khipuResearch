@@ -1,0 +1,44 @@
+[project]
+name = "khipu-research"
+version = "0.1.0"
+description = "Reproducible, null-model-first research pipeline for Inka khipu data"
+readme = "README.md"
+license = "Apache-2.0"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.1",
+    "pandas>=2.2",
+    "pyarrow>=17",
+    "scipy>=1.14",
+    "statsmodels>=0.14",
+    "scikit-learn>=1.5",
+    "openpyxl>=3.1",
+    "pydantic>=2.8",
+    "pyyaml>=6.0",
+    "requests>=2.32",
+    "ortools>=9.10",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+    "ruff>=0.6",
+]
+
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]

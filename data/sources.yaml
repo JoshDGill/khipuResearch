@@ -1,0 +1,57 @@
+# Raw data sources. `make data` downloads these into data/raw/<id>/ and records each file in
+# data/raw/MANIFEST.csv with its sha256. Raw files are never edited in place (AGENTS.md §5).
+
+okr:
+  name: Open Khipu Repository
+  version: v2.1.0
+  doi: 10.5281/zenodo.18025748
+  licence: MIT (repository LICENSE); Zenodo lists "other-open"
+  citation: "Open Khipu Repository (2025). The Open Khipu Repository v2.1.0. Zenodo. https://doi.org/10.5281/zenodo.18025748"
+  files:
+    - url: https://zenodo.org/api/records/18025748/files/open-khipu-repository-2.1.0.zip/content
+      name: open-khipu-repository-2.1.0.zip
+      md5: c741d4d3bbdeba531f547d10f85e2925
+      extract: true
+
+kbcr:
+  name: Khipu-Biblio Cross-Reference (KBCR)
+  version: v6 (KBCR v09 files)
+  doi: 10.26188/25661322.v6
+  licence: CC BY-NC-SA 4.0
+  citation: "Khipu-Biblio Cross-Reference (KBCR) Resource, v6. figshare. https://doi.org/10.26188/25661322.v6"
+  files:
+    - url: https://ndownloader.figshare.com/files/62739274
+      name: Khipu_Biblio_Cross_Reference_v09.xlsx
+      md5: 5b0ae7dbf5ca94a5b6ad28a40269f9a7
+    - url: https://ndownloader.figshare.com/files/62739277
+      name: KBCR_v09__3_KhipuConnections.csv
+      md5: 5ab833a289b79fe4c81e2574f88f321c
+    - url: https://ndownloader.figshare.com/files/62739280
+      name: KBCR_v09__2_Literature.csv
+      md5: 873e107ac2df231480d0e95d24c00d11
+    - url: https://ndownloader.figshare.com/files/62739283
+      name: KBCR_v09__1_Note.csv
+      md5: de5ab786c765f58e19f443287e070e16
+    - url: https://ndownloader.figshare.com/files/62739385
+      name: Supplementary_Table_1_Revised_Khipu_Survey.pdf
+      md5: 43436bbbd32f0beedaac983cfacd0532
+      note: from the companion record 10.26188/28786049.v4
+
+kfg:
+  name: Khipu Field Guide
+  version: live site (no versioned release); snapshot date recorded per file in the manifest
+  licence: >-
+    MIT notice (c) Ashok Khosla on site code; no separate data licence found.
+    Cite the KFG and the original recorders listed in its Databook.
+  citation: "Khosla, A. et al. The Khipu Field Guide. https://www.khipufieldguide.com/"
+  # robots.txt asks for Crawl-delay: 10. The fetcher honours it, so a full pull takes ~2 hours.
+  crawl_delay_seconds: 10
+  index_url: https://www.khipufieldguide.com/sketchbook/index.html
+  file_url_template: https://www.khipufieldguide.com/databook/excel_khipus/{kh}.xlsx
+  extra_files:
+    - url: https://khipufieldguide.com/databook/KFG_Template.xlsx
+      name: KFG_Template.xlsx
+    - url: https://www.khipufieldguide.com/databook/KFGExcelSpecification.html
+      name: KFGExcelSpecification.html
+    - url: https://www.khipufieldguide.com/databook/DatabaseBuild.html
+      name: DatabaseBuild.html

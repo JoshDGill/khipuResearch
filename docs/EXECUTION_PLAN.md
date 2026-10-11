@@ -1,6 +1,6 @@
 # Khipu Decipherment Project: Execution Plan
 
-This plan turns [`project-brief.md`](project-brief.md) (the "brief") into ordered, gated work. Section references like §6.3 point to the brief. The brief stays authoritative on scientific rules. This plan decides **order, gates, ownership and how each rule is enforced in code**.
+This plan turns [`AGENTS.md`](../AGENTS.md) (the "brief") into ordered, gated work. Section references like §6.3 point to the brief. The brief stays authoritative on scientific rules. This plan decides **order, gates, ownership and how each rule is enforced in code**.
 
 Prime directive, restated because it shapes every gate below: a pattern is a hypothesis until it beats null models on held-out data. A null result is a valid outcome and is reported with the same care as a positive one.
 
@@ -11,8 +11,8 @@ Prime directive, restated because it shapes every gate below: a pattern is a hyp
 | Item | Status |
 |---|---|
 | Repository | `JoshDGill/khipuResearch`, contains LICENSE + README only. Layout of §5 will be created at repo root (repo root = `khipu/`). |
-| OKR | Reachable via `git clone`. Snapshot inspected: commit `4039ca5` (2026-08-04). `data/khipu.db` = 39 MB SQLite. Whole repo 199 MB. |
-| KFG, Zenodo, figshare (KBCR), arXiv | **Blocked** by this cloud environment's network policy (proxy 403). Needs a policy change or manual upload (see §8, decision D1). |
+| OKR | Pinned to the Zenodo release v2.1.0 (2025-12-22, DOI 10.5281/zenodo.18025748). Its file set and `khipu.db` are byte-identical to git master `4039ca5` (2026-08-04). `khipu.db` = 39 MB SQLite. |
+| KFG, Zenodo, figshare (KBCR), arXiv | Reachable since 2026-10-11 after a network policy change (D1). KFG serves one Excel file per khipu at `databook/excel_khipus/<KH>.xlsx` (697 IDs on its index). Its robots.txt asks for a 10 s crawl delay, which the fetcher honours. KBCR is CC BY-NC-SA 4.0. |
 | Python | 3.13 and `uv` available in the container. Plan targets Python ≥3.11 per §5. |
 
 **First look at OKR `khipu.db`** (informational only; Phase 1 recomputes everything under test):
@@ -63,7 +63,7 @@ The archivist and the data-access requests start as soon as Phase 0 is done, bec
 | 0.1 | Scaffold §5 layout at repo root | `data/{raw,interim,clean,anchors,controls}`, `src/{steward,hypotheses,arithmetic,sequence,alignment,archive,redteam}`, `prereg/`, `results/`, `reports/`, `tests/` | Tree exists; `src/` is an installable package (`khipu`) |
 | 0.2 | Environment | `pyproject.toml` + `uv.lock` (pinned). Core deps: pandas, pyarrow, numpy, scipy, statsmodels, scikit-learn, openpyxl, pydantic, pyyaml, ortools (constraint solving), pytest, ruff | `uv sync --frozen` works from clean |
 | 0.3 | Agent instructions | Brief copied to `AGENTS.md` (Codex) plus `CLAUDE.md` that imports it, so both tools load the same rules | Both files present |
-| 0.4 | Raw-data fetcher | `src/steward/fetch.py`: pins OKR to a commit or tag, fetches KFG/KBCR when reachable, writes `data/raw/MANIFEST.csv` (source, URL, version, sha256, retrieved_at, licence) | `make data` is idempotent and re-verifies checksums |
+| 0.4 | Raw-data fetcher | `src/steward/fetch.py` driven by `data/sources.yaml`: OKR from Zenodo v2.1.0 (md5-verified), KBCR from figshare (md5-verified), KFG per-khipu Excel files, writes `data/raw/MANIFEST.csv` (source, URL, version, sha256, retrieved_at, licence) | `make data` is idempotent and re-verifies checksums |
 | 0.5 | Raw-data policy | `data/raw/` is git-ignored except the manifest (39 MB DB + KFG files do not belong in git). Optionally use git-LFS or DVC later | A pre-commit hook rejects edits under `data/raw/` |
 | 0.6 | Provenance primitive | `Provenance(source, file, table/sheet, row_key)` type carried on every value through transforms | Unit-tested; required by every steward output column |
 | 0.7 | Makefile | `make data`, `make clean-data`, `make phase1`, `make phase2`, `make report`, `make test`, `make prereg-check` | Targets exist, stubs fail loudly |
@@ -96,9 +96,9 @@ Script `src/steward/reconstruction_counts.py` produces `reports/reconstruction_c
 
 Before any reproduction code is run against the real corpus, commit `prereg/P1-001..003.yaml` with tolerances:
 
-| ID | Target | Proposed tolerance (to confirm in D4) |
+| ID | Target | Tolerance (approved, D4) |
 |---|---|---|
-| P1-001 | Locke base-10 cord values | ≥99% agreement with OKR `knot_cluster.TOTAL_VALUE` where present. Every mismatch listed with the knot sequence. |
+| P1-001 | Locke base-10 cord values | ≥99% agreement with the recorders' own readings (summed per-knot `knot.knot_value_type`). Every mismatch listed with the knot sequence. `TOTAL_VALUE` turned out to be null or 0 on many clusters, so it is reported only as a data-quality figure. |
 | P1-002 | Sum relations in ≥74% of the corpus (Medrano & Khosla) | Within ±5 percentage points on a matched corpus definition. Report the corpus size actually used. |
 | P1-003 | Santa Valley recto/verso split | Recto share between 45% and 53% (published ~47/53; Contreras 49/51). KH0326 handled both ways. Both the 132 and 133 six-cord-group counts reported. |
 
@@ -108,7 +108,7 @@ Before any reproduction code is run against the real corpus, commit `prereg/P1-0
 - **Sum-relation finder** (`src/arithmetic/sums.py`): pendant → top-cord and subsidiary → pendant sums, contiguous and group-level, using the published definition as closely as it can be reconstructed. Any ambiguity in their definition goes into a prereg note *before* the run.
 - **Santa Valley** (`src/alignment/santa_valley.py`): attachment by cord over KH0323–KH0328, grouping into six-cord groups, comparison with the 1670 revisita counts.
 
-**GATE G1.** All three are inside tolerance. If not, **stop**: debug data and definitions, log what was wrong, and re-run. Tolerances are never edited after seeing results. A new prereg version with a stated reason is the only allowed change, and it is flagged in the report. Output: `reports/phase1_reproduction.md`.
+**GATE G1.** All three are inside tolerance. If not, **stop**: debug data and definitions, log what was wrong, and re-run. Tolerances are never edited after seeing results. A new prereg version with a stated reason is the only allowed change, and it is flagged in the report. Output: `reports/phase1_reproduction.md`. The project owner signs off on G1 (D5); the pipeline does not pass the gate on its own.
 
 ---
 
@@ -167,7 +167,7 @@ The verdict is pass/fail with reasons in `reports/redteam_verdicts.md`. The red 
 
 ### 5.8 Replication pipeline (§9.6)
 
-A claim that passes red-team review is re-implemented in `replication/` **from its prereg YAML only**. This is done by a separate agent session that is not shown the original implementation, and preferably with a different stack (for example R or plain SQL for arithmetic claims). **GATE G4:** the finding reproduces within the prereg tolerance.
+A claim that passes red-team review is re-implemented in `replication/` **from its prereg YAML only**. This is done by a separate agent session that is not shown the original implementation, and preferably with a different stack (for example R or plain SQL for arithmetic claims). **GATE G4:** the finding reproduces within the prereg tolerance, and the project owner signs off (D5).
 
 ---
 
@@ -195,17 +195,19 @@ A claim that passes red-team review is re-implemented in `replication/` **from i
 
 ---
 
-## 8. Decisions needed from you
+## 8. Decisions
 
-| ID | Decision | Default if you don't choose |
+Recorded 2026-10-11.
+
+| ID | Decision | Outcome |
 |---|---|---|
-| D1 | **Data access** for KFG (`khipufieldguide.com`), Zenodo, figshare (KBCR) and arXiv. These hosts are blocked here. Either add them under Allowed domains in this environment's Network access settings (session title bar → environment → Edit; docs: https://code.claude.com/docs/en/cloud-environments#network-access), or upload the files. | Phase 1 proceeds **OKR-only**, clearly labelled, with KFG reconciliation deferred. |
-| D2 | **Push access**: install the Claude GitHub App on `khipuResearch` so work can be pushed and PR'd. | Work stays local to the session and is at risk when the container is reclaimed. |
-| D3 | Raw-data storage: git-ignored + checksummed manifest (default), git-LFS, or DVC. | git-ignored + manifest |
-| D4 | Phase 1 tolerances in §4.3. | As proposed |
-| D5 | Human reviewers for §6.8 and who signs off on G1/G4. | You |
-| D6 | Replication independence: separate agent session (default) or a human collaborator. | Separate session, different stack where practical |
-| D7 | Licence for this repo's code vs. derived data (repo is currently Apache-2.0 per LICENSE; OKR is MIT; KFG licence to be checked). | Code Apache-2.0; derived data carries upstream licences and citations |
+| D1 | Data access for KFG (`khipufieldguide.com`), Zenodo, figshare (KBCR) and arXiv | **Resolved.** Hosts allowed in the environment's network policy, all verified reachable. |
+| D2 | Push access to `khipuResearch` | **Resolved.** Claude GitHub App can push and open PRs. |
+| D3 | Raw-data storage | **Decided:** git-ignored `data/raw/` + checksummed `data/raw/MANIFEST.csv`. |
+| D4 | Phase 1 tolerances in §4.3 | **Approved as proposed.** |
+| D5 | Sign-off on G1 and G4 | **Project owner (Josh Gill)** signs off on both gates. The pipeline prepares the evidence and stops; it does not pass a gate on its own. |
+| D6 | Replication independence | Default applies (not separately discussed): separate agent session working from the prereg YAML only, different stack where practical. |
+| D7 | Licensing | Default applies (not separately discussed): code Apache-2.0 per LICENSE; derived data carries upstream licences and citations. KFG licence still to be checked by the fetcher step. |
 
 ---
 
@@ -226,11 +228,11 @@ A claim that passes red-team review is re-implemented in `replication/` **from i
 ## 10. First tickets (in order)
 
 1. Phase 0.1–0.3: scaffold, `pyproject.toml`/`uv.lock`, `AGENTS.md` + `CLAUDE.md`.
-2. Phase 0.4–0.6: OKR fetcher pinned to `4039ca5`, manifest with sha256, provenance type.
+2. Phase 0.4–0.6: fetcher (OKR Zenodo v2.1.0, KBCR, KFG), manifest with sha256, provenance type.
 3. Steward step 1: OKR loader + code-table decoding + sentinel inventory report.
 4. Steward steps 4–5: crosswalk + 15-duplicate merge, with tests.
 5. Steward step 7: quality flags; first `reports/reconstruction_counts.md` (OKR-only).
-6. Commit `prereg/P1-001..003.yaml` (after D4).
+6. Commit `prereg/P1-001..003.yaml`.
 7. Locke decoder + P1-001 run.
 8. Sum-relation finder + P1-002 run.
 9. Santa Valley recto/verso + P1-003 run → `reports/phase1_reproduction.md` → Gate G1.
