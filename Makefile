@@ -34,6 +34,8 @@ check: lint test prereg-check
 steward:
 	$(RUN) python -m steward.okr
 	$(RUN) python -m steward.crosswalk
+	$(RUN) python -m steward.kfg
+	$(RUN) python -m steward.kfg_published
 	$(RUN) python -m steward.quality
 	$(RUN) python -m steward.reconstruction_counts
 

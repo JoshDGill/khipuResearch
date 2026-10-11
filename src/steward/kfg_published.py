@@ -33,6 +33,7 @@ PAGES = {
 }
 PLOT = re.compile(r'Plotly\.newPlot\(\s*"[^"]+",\s*(\[.*?\])\s*,\s*(\{.*?\})\s*,\s*\{', re.S)
 OUT = paths.INTERIM / "kfg" / "published_relations.csv"
+OUT_UNIVERSE = paths.INTERIM / "kfg" / "published_universe.csv"  # all khipus KFG analysed
 
 
 def plots(html: str) -> list[tuple[str, list]]:
@@ -64,7 +65,18 @@ def extract(relation: str, page: str, title_prefix: str) -> pd.DataFrame:
     raise ValueError(f"{page}: no plot titled {title_prefix!r}")
 
 
+def universe() -> pd.DataFrame:
+    """The R6 scatter plots every khipu KFG analysed (654), including those with no relation."""
+    page, prefix = PAGES["R6"]
+    html = (paths.RAW / "kfg" / "analyses" / page).read_text(errors="replace")
+    for title, data in plots(html):
+        if title.startswith(prefix):
+            return pd.DataFrame({"kfg_name": data[0]["hovertext"]}).drop_duplicates()
+    raise ValueError("universe plot not found")
+
+
 def main() -> int:
+    universe().to_csv(OUT_UNIVERSE, index=False)
     frames = [extract(r, p, t) for r, (p, t) in PAGES.items()]
     df = pd.concat(frames, ignore_index=True)
     OUT.parent.mkdir(parents=True, exist_ok=True)
