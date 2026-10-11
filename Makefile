@@ -1,4 +1,4 @@
-.PHONY: help data verify-data lint test prereg-check check phase1 phase2 report
+.PHONY: help data verify-data lint test prereg-check check steward phase1 phase2 report
 
 RUN := uv run
 
@@ -9,6 +9,7 @@ help:
 	@echo "make test          pytest"
 	@echo "make prereg-check  enforce pre-registration ordering"
 	@echo "make check         lint + test + prereg-check (what CI runs)"
+	@echo "make steward       load raw OKR into data/interim/ and write the sentinel report"
 	@echo "make phase1        steward + Phase 1 reproductions"
 	@echo "make phase2        Phase 2 tracks (not yet implemented)"
 	@echo "make report        rebuild reports from results/ (not yet implemented)"
@@ -30,8 +31,11 @@ prereg-check:
 
 check: lint test prereg-check
 
-phase1:
-	@echo "phase1: steward and reproductions not implemented yet (see docs/EXECUTION_PLAN.md §10)" && exit 1
+steward:
+	$(RUN) python -m steward.okr
+
+phase1: steward
+	@echo "phase1: reproductions not implemented yet (see docs/EXECUTION_PLAN.md §10)" && exit 1
 
 phase2:
 	@echo "phase2: not implemented yet" && exit 1
