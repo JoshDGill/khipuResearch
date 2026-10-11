@@ -9,6 +9,7 @@ Data: OKR v2.1.0 (Zenodo 10.5281/zenodo.18025748). KFG cross-checks are pending 
 | P1-001 | Locke base-10 values reproduce the recorders' readings | ≥ 0.99 agreement | **0.937** (95% CI 0.934–0.940), 29,688 cords | **Not reproduced** |
 | P1-001v2 | Same, group-aligned place bands (post hoc) | ≥ 0.99 agreement | **0.874** (95% CI 0.870–0.878), 29,337 cords | **Not reproduced** |
 | P1-002 | Share of khipus with ≥ 1 Ascher sum relation | 0.69–0.79 | **0.793** (95% CI 0.760–0.824), 484/610 khipus | **Not reproduced** (marginally; components diverge) |
+| P1-002v2 | Same, KFG's published criteria on KFG data (post hoc) | 0.69–0.79 **and** median per-relation Jaccard vs KFG ≥ 0.7 | pending (KFG download in progress) | – |
 | P1-003 | Santa Valley pooled recto share | 0.45–0.53 | **0.479** (95% CI 0.445–0.514), 382/797 pendants | **Reproduced**, signed off; effective n = 6 khipus |
 
 ## P1-001: Locke base-10 decoding
@@ -81,6 +82,13 @@ Note also that any-distance search makes these relations easy to find by chance:
 ### Next step (approved by the owner, 2026-10-11)
 
 Obtain KFG's own relation definitions. The KFG notebooks reference `utils_khipu` and a fieldmark CSV (`ascher_sums_overview.csv`), and the authors may share the code. Then register **P1-002v2** implementing them, with the same tolerance. If they cannot be obtained, report P1-002 as not reproducible from published descriptions and carry the definitional uncertainty into Phase 2.
+
+**Done so far.** KFG's detection library (`qollqa_chuspa` and its fieldmark modules) is not public. Its analysis pages do, however, state each relation's search criteria, include code cells for several relations (indexed sums, group-pair significance, the decreasing-group test), and embed the per-khipu outputs as plot data. Together the R1–R7 outputs cover 488 of 654 khipus (**0.746**), which is the source of the ~74% figure. **P1-002v2** (`prereg/P1-002v2.yaml`) implements those criteria, runs on KFG's own data, and adds a co-criterion: the per-relation khipu sets must match KFG's published sets with median Jaccard ≥ 0.7. Several criteria differ materially from this project's P1-002 reading:
+
+- R1 sums must be ≥ 11, zeros are skipped rather than breaking ranges, and ranges are capped at 250 cords.
+- R3 drops zeros and skips groups that lack the index position, requires sums > 5, and filters round numbers.
+- R6 requires a significant total (≥ 100, or ≥ 11 and not a multiple of 10). The page text says ≥ 21, but the code cell is used.
+- R7 is KFG's "roughly linear decreasing" fit (r² > 0.6, slope angle between −87° and −5°), not strict decrease.
 
 ## P1-003: Santa Valley recto/verso split
 
