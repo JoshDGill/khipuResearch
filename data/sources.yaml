@@ -54,3 +54,25 @@ kfg:
       name: KFGExcelSpecification.html
     - url: https://www.khipufieldguide.com/databook/DatabaseBuild.html
       name: DatabaseBuild.html
+    # Ascher sum analysis pages: their embedded plot data carry KFG's per-khipu relation counts,
+    # the published outputs P1-002v2 is calibrated and tested against (KFG code is not public).
+    - url: https://www.khipufieldguide.com/notebook/analyses/ascher_sums_overview.html
+      name: analyses/ascher_sums_overview.html
+    - url: https://www.khipufieldguide.com/notebook/analyses/pendant_pendant_sum.html
+      name: analyses/pendant_pendant_sum.html
+    - url: https://www.khipufieldguide.com/notebook/analyses/colored_pendant_sum.html
+      name: analyses/colored_pendant_sum.html
+    - url: https://www.khipufieldguide.com/notebook/analyses/pendant_pendants_color_sum.html
+      name: analyses/pendant_pendants_color_sum.html
+    - url: https://www.khipufieldguide.com/notebook/analyses/indexed_pendant_sum.html
+      name: analyses/indexed_pendant_sum.html
+    - url: https://www.khipufieldguide.com/notebook/analyses/subsidiary_pendant_sum.html
+      name: analyses/subsidiary_pendant_sum.html
+    - url: https://www.khipufieldguide.com/notebook/analyses/group_sum_bands.html
+      name: analyses/group_sum_bands.html
+    - url: https://www.khipufieldguide.com/notebook/analyses/group_group_sum.html
+      name: analyses/group_group_sum.html
+    - url: https://www.khipufieldguide.com/notebook/analyses/ascher_decreasing_group.html
+      name: analyses/ascher_decreasing_group.html
+    - url: https://www.khipufieldguide.com/notebook/analyses/sum_top_cords.html
+      name: analyses/sum_top_cords.html

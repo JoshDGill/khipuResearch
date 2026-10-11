@@ -1,0 +1,84 @@
+id: P1-001v2
+title: Reproduce Locke base-10 cord values using group-aligned place bands
+kind: reproduction
+phase: 1
+date: 2026-10-11
+status: registered
+supersedes: P1-001
+
+claim: >-
+  Cord values computed from knot type, number of turns and knot position, with place assigned by
+  aligning knot rows across the cords of a group (as Locke and the Aschers did), agree with the
+  values the original recorders assigned.
+sources:
+  - Locke (1912, 1923), The Ancient Quipu or Peruvian Knot Record
+  - Ascher & Ascher (1981), Code of the Quipu
+features:
+  - OKR knot.TYPE_CODE
+  - OKR knot.NUM_TURNS
+  - OKR knot_cluster.START_POS
+  - OKR cord.CLUSTER_ID (cord group)
+data_subset: >-
+  Identical to P1-001: OKR v2.1.0, cords with at least one knot, every knot of type S/L/E, every
+  L knot with 2-9 turns, every cluster with a START_POS, every knot with a recorder place value,
+  a units cluster (if any) holding exactly one L/E knot and no S knot, and no L/E knot above the
+  lowest cluster.
+exclusions:
+  - All P1-001 exclusions, unchanged
+  - Cords without a units cluster whose khipu has no units cluster anywhere (no_units_anchor)
+definitions:
+  reference_value: As in P1-001 (sum of knot.knot_value_type); TOTAL_VALUE is not used.
+  decoder_inputs: As in P1-001; the decoder never reads knot_value_type or TOTAL_VALUE.
+  cord_group: >-
+    cord.CLUSTER_ID within a khipu (missing IDs form one group per khipu). Only eligible cords
+    contribute positions.
+  band_tolerance: >-
+    delta_G = 0.5 x the median distance between consecutive knot clusters on the same cord, over
+    the group's eligible cords. Fewer than 5 such distances in the group: use the khipu's; fewer
+    than 5 in the khipu: use the corpus median.
+  bands: >-
+    All knot-cluster positions of the group's eligible cords (S and units clusters alike) are
+    sorted and split wherever two consecutive positions differ by more than delta_G
+    (single-linkage). Each resulting run of positions is one band.
+  units_band: >-
+    u_G = median position of the group's units clusters (fallback: the khipu's units clusters).
+    The units band is the band containing u_G, or the band whose median position is nearest u_G.
+  band_exponent: >-
+    Units band = 0. Bands above it (smaller START_POS) are numbered 1, 2, 3, ... upward. Bands
+    below the units band get 0.
+  cord_decode: >-
+    Units digit as in P1-001 (L = turns, E = 1). Walk the cord's S clusters bottom-up; each gets
+    exp_i = max(band exponent of its position, exp_{i-1} + 1), where exp_0 is the units
+    cluster's 0 if the cord has one, else the first S cluster takes max(band exponent, 0) with no
+    floor from below. Digit = number of S knots in the cluster. Value = sum of digit x 10^exp.
+  round: Not used (no rounding in this rule).
+  agreement: decoded value == reference value, exact integer equality.
+held_out_prediction: Not applicable to a reproduction.
+refutation_criterion: >-
+  Agreement below 0.99 means base-10 values are not reproduced from positions and knot types
+  under group alignment. Gate G1 then reports that recorded positions alone do not determine
+  place for the failing share of cords, and Phase 1 uses the recorders' readings as values with
+  that limitation stated.
+planned_test: >-
+  Run on all eligible cords, compare with the reference, list every mismatch with KH number,
+  cord id, group, knot sequence, band exponents and both values.
+effect_size: Agreement proportion with a Wilson 95% CI; mismatch counts by khipu and cause.
+tolerance:
+  metric: agreement proportion over eligible cords
+  published_value: Locke's rules are treated as settled (AGENTS.md §2.2); no published rate exists.
+  accept_if: "x >= 0.99"
+  rationale: Unchanged from P1-001 (decision D4).
+sensitivity_analyses:
+  - delta_G at 0.35x and 0.75x the median gap
+  - Bands built per khipu instead of per cord group
+  - Agreement on cords with and without a units cluster, reported separately
+  - Agreement against KFG Cords.Value where available
+null_models: []
+null_models_deferred_to: None needed; this is a measurement of decoding agreement.
+replication: Independent data path via KFG Value (sensitivity analysis above).
+notes: >-
+  POST-HOC REVISION. Registered after P1-001 failed (0.937). Its design was informed by that
+  failure: single-cord spacing both invented and missed zero places, and cords without a units
+  knot were ambiguous. Approved by the project owner on 2026-10-11. The tolerance is unchanged.
+  This version is flagged as post hoc in reports/phase1_reproduction.md, and a pass here is
+  weaker evidence than a pass on the first registration.
