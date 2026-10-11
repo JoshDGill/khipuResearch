@@ -71,6 +71,8 @@ def r2(k: Khipu) -> set[int]:
     gof = _group_of(k)
 
     def keep(run, s):
+        if any(i not in gof for i in run):  # ungrouped pendant: adjacency cannot hold
+            return False
         gs = sorted({gof[i] for i in run})
         return len(gs) >= 2 and gs[-1] - gs[0] + 1 == len(gs) and s > len(run)
 

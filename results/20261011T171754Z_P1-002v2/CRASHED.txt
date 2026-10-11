@@ -1,0 +1,1 @@
+CRASHED before producing any result: KeyError in arithmetic.sums_kfg.r2 (a pendant outside every KFG CordGroups range had no group). No numbers were computed. Fixed in the next commit; see reports/phase1_reproduction.md.

@@ -54,3 +54,11 @@ def test_r7_roughly_linear_decreasing():
     assert not roughly_linear_decreasing([90, 60, 30])
     assert not roughly_linear_decreasing([10, 30, 5])  # not linear
     assert r7(kh([30, 20, 10], groups=[[0, 1, 2]])) == {0}
+
+
+def test_r2_ungrouped_pendant_cannot_be_a_summand():
+    # pendant 3 belongs to no group (KFG CordGroups ranges do not always cover every pendant)
+    k = kh([30, 10, 20, 0], groups=[[0, 1], [2]], colours=["W", "W", "W", "W"])
+    assert r2(k) == {0}
+    k2 = kh([30, 10, 20], groups=[[0, 1]], colours=["W", "W", "W"])
+    assert r2(k2) == set()
