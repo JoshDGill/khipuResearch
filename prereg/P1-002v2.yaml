@@ -3,7 +3,7 @@ title: Reproduce the Ascher sum-relation share with KFG's published search crite
 kind: reproduction
 phase: 1
 date: 2026-10-11
-status: registered
+status: reproduced
 supersedes: P1-002
 
 claim: >-
@@ -93,3 +93,9 @@ notes: >-
   component counts far from KFG's. KFG's code is not public; definitions are taken from the
   search-criteria text and code cells on its analysis pages. Choices not determined by those
   pages are stated above and fixed before any run on KFG data.
+  RESULT (run 20261011T171837Z_P1-002v2; an earlier run 20261011T171754Z crashed before computing anything and is
+  kept with CRASHED.txt): 528 of 695 KFG khipus = 0.760 (95% CI 0.727-0.790), inside 0.69-0.79.
+  Median per-relation Jaccard against KFG's published sets 0.852 (>= 0.7): R1 0.96, R3 0.93,
+  R5 0.87, R7 0.85, R2 0.64, R4 0.58, R6 0.50. REPRODUCED (post hoc), awaiting owner sign-off.
+  KFG's published outputs give 0.748 on the 644 khipus in common; OKR values give 0.752.
+  Top-cord sensitivity not computed (no KFG code for it).

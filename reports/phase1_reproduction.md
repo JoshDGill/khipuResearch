@@ -1,6 +1,6 @@
 # Phase 1 reproduction report
 
-**Status: Gate G1 not passed.** P1-001 and P1-002 are outside their pre-registered tolerances. P1-003 is inside its tolerance, with a caveat about effective sample size. Under the plan, the project stops at G1 for debugging, and Phase 2 does not start. G1 is signed off by the project owner, not by the pipeline.
+**Status: Gate G1 awaiting the owner's decision.** P1-002v2 and P1-003 reproduce (P1-003 signed off; P1-002v2 is a post-hoc revision). P1-001 did not reproduce under either registered rule; its pre-registered refutation clause applies, so cord values come from the recorders' readings with that limitation stated. Phase 2 does not start until the owner signs off G1.
 
 Data: OKR v2.1.0 (Zenodo 10.5281/zenodo.18025748). KFG cross-checks are pending until the KFG download completes.
 
@@ -9,7 +9,7 @@ Data: OKR v2.1.0 (Zenodo 10.5281/zenodo.18025748). KFG cross-checks are pending 
 | P1-001 | Locke base-10 values reproduce the recorders' readings | ≥ 0.99 agreement | **0.937** (95% CI 0.934–0.940), 29,688 cords | **Not reproduced** |
 | P1-001v2 | Same, group-aligned place bands (post hoc) | ≥ 0.99 agreement | **0.874** (95% CI 0.870–0.878), 29,337 cords | **Not reproduced** |
 | P1-002 | Share of khipus with ≥ 1 Ascher sum relation | 0.69–0.79 | **0.793** (95% CI 0.760–0.824), 484/610 khipus | **Not reproduced** (marginally; components diverge) |
-| P1-002v2 | Same, KFG's published criteria on KFG data (post hoc) | 0.69–0.79 **and** median per-relation Jaccard vs KFG ≥ 0.7 | pending (KFG download in progress) | – |
+| P1-002v2 | Same, KFG's published criteria on KFG data (post hoc) | 0.69–0.79 **and** median per-relation Jaccard vs KFG ≥ 0.7 | **0.760** (95% CI 0.727–0.790), 528/695; median Jaccard **0.85** | **Reproduced** (post hoc), awaiting sign-off |
 | P1-003 | Santa Valley pooled recto share | 0.45–0.53 | **0.479** (95% CI 0.445–0.514), 382/797 pendants | **Reproduced**, signed off; effective n = 6 khipus |
 
 ## P1-001: Locke base-10 decoding
@@ -89,6 +89,27 @@ Obtain KFG's own relation definitions. The KFG notebooks reference `utils_khipu`
 - R3 drops zeros and skips groups that lack the index position, requires sums > 5, and filters round numbers.
 - R6 requires a significant total (≥ 100, or ≥ 11 and not a multiple of 10). The page text says ≥ 21, but the code cell is used.
 - R7 is KFG's "roughly linear decreasing" fit (r² > 0.6, slope angle between −87° and −5°), not strict decrease.
+
+### P1-002v2 result (post hoc, approved 2026-10-11)
+
+Run `20261011T171837Z_P1-002v2/`. An earlier run (`20261011T171754Z_P1-002v2/`) crashed with a KeyError before computing anything: one pendant on one KFG khipu lies outside every CordGroups range. The fix rejects runs containing such a pendant, as the adjacent-groups condition requires. The crashed folder is kept with `CRASHED.txt`.
+
+- 695 KFG khipus parsed with no failures. 528 have at least one of R1–R7: **0.760** (Wilson 95% CI 0.727–0.790), inside 0.69–0.79.
+- Agreement with KFG's published per-khipu sets (644 khipus in both; 4 published names unmapped: CM009, QU016, QU017, QU019):
+
+| Relation | Ours | KFG | Both | Jaccard |
+|---|---:|---:|---:|---:|
+| R1 pendant-pendant sum | 422 | 422 | 413 | 0.96 |
+| R2 colour pendant sum | 206 | 261 | 182 | 0.64 |
+| R3 indexed pendant sum | 223 | 226 | 216 | 0.93 |
+| R4 subsidiary-pendant sum | 217 | 132 | 128 | 0.58 |
+| R5 group sum band | 94 | 95 | 88 | 0.87 |
+| R6 group sum pair | 134 | 94 | 76 | 0.50 |
+| R7 decreasing group | 128 | 122 | 115 | 0.85 |
+
+- The median Jaccard is **0.85**, so the co-criterion (≥ 0.7) is met and **P1-002v2 is reproduced**. Three relations still diverge. R4 and R6 flag more khipus than KFG does, which points to unpublished filters, and R2 flags fewer. Their individual Jaccards are reported, not hidden by the median.
+- On the same 644 khipus, KFG's own published outputs give a share of 0.748. Sensitivity analyses: OKR values give 0.752, and sum relations only (R1–R6) give 0.734. The top-cord sensitivity was not computed, because KFG publishes no code for it.
+- Caveat: this is a post-hoc revision, and it calibrates to KFG's published criteria, not to an independent definition. It shows the published rate can be reproduced from the published method and data. It says nothing yet about whether these relations occur more often than chance, which is the first Phase 2 test.
 
 ## P1-003: Santa Valley recto/verso split
 

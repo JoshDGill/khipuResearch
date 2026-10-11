@@ -1,0 +1,116 @@
+{
+  "prereg": "P1-002v2",
+  "supersedes": "P1-002",
+  "kfg_files_parsed": 695,
+  "headline": {
+    "khipus": 528,
+    "of": 695,
+    "share": 0.7597122302158273,
+    "ci95_wilson": [
+      0.7265750936173438,
+      0.7899941445746677
+    ]
+  },
+  "tolerance": "0.69 <= x <= 0.79",
+  "inside_tolerance": true,
+  "median_jaccard": 0.8518518518518519,
+  "jaccard_criterion": "median >= 0.7",
+  "jaccard_ok": true,
+  "reproduced": true,
+  "per_relation": {
+    "R1": {
+      "khipus": 451,
+      "instances": 8638,
+      "jaccard": 0.9582366589327146,
+      "ours": 422,
+      "kfg": 422,
+      "both": 413
+    },
+    "R2": {
+      "khipus": 220,
+      "instances": 1801,
+      "jaccard": 0.6385964912280702,
+      "ours": 206,
+      "kfg": 261,
+      "both": 182
+    },
+    "R3": {
+      "khipus": 236,
+      "instances": 2286,
+      "jaccard": 0.927038626609442,
+      "ours": 223,
+      "kfg": 226,
+      "both": 216
+    },
+    "R4": {
+      "khipus": 233,
+      "instances": 2009,
+      "jaccard": 0.579185520361991,
+      "ours": 217,
+      "kfg": 132,
+      "both": 128
+    },
+    "R5": {
+      "khipus": 101,
+      "instances": 172,
+      "jaccard": 0.8712871287128713,
+      "ours": 94,
+      "kfg": 95,
+      "both": 88
+    },
+    "R6": {
+      "khipus": 142,
+      "instances": 1044,
+      "jaccard": 0.5,
+      "ours": 134,
+      "kfg": 94,
+      "both": 76
+    },
+    "R7": {
+      "khipus": 142,
+      "instances": 278,
+      "jaccard": 0.8518518518518519,
+      "ours": 128,
+      "kfg": 122,
+      "both": 115
+    }
+  },
+  "comparison_universe": {
+    "kfg_published": 654,
+    "mapped": 650,
+    "in_our_corpus": 644,
+    "unmapped_names": [
+      "CM009",
+      "QU016",
+      "QU017",
+      "QU019"
+    ]
+  },
+  "kfg_published_any_relation_in_common": {
+    "khipus": 482,
+    "of": 644,
+    "share": 0.7484472049689441
+  },
+  "sensitivity": {
+    "okr_values": {
+      "khipus": 459,
+      "of": 610,
+      "share": 0.7524590163934426,
+      "ci95_wilson": [
+        0.7167008903983293,
+        0.7850573332832812
+      ]
+    },
+    "sum_relations_only_R1_R6": {
+      "khipus": 510,
+      "of": 695,
+      "share": 0.7338129496402878,
+      "ci95_wilson": [
+        0.6997348875440518,
+        0.765320520800557
+      ]
+    },
+    "top_cord_sums": "not computed: top-cord relation not specified in KFG code cells"
+  },
+  "post_hoc": true
+}
