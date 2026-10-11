@@ -1,14 +1,14 @@
 # Phase 1 reproduction report
 
-**Status: Gate G1 not passed.** P1-001 is outside its pre-registered tolerance. Under the plan, the project stops at G1 for debugging. G1 is signed off by the project owner, not by the pipeline.
+**Status: Gate G1 not passed.** P1-001 and P1-002 are outside their pre-registered tolerances. P1-003 is inside its tolerance, with a caveat about effective sample size. Under the plan, the project stops at G1 for debugging, and Phase 2 does not start. G1 is signed off by the project owner, not by the pipeline.
 
 Data: OKR v2.1.0 (Zenodo 10.5281/zenodo.18025748). KFG cross-checks are pending until the KFG download completes.
 
 | Prereg | Target | Tolerance | Result | Verdict |
 |---|---|---|---|---|
 | P1-001 | Locke base-10 values reproduce the recorders' readings | ≥ 0.99 agreement | **0.937** (95% CI 0.934–0.940), 29,688 cords | **Not reproduced** |
-| P1-002 | Share of khipus with ≥ 1 Ascher sum relation | 0.69–0.79 | pending | – |
-| P1-003 | Santa Valley pooled recto share | 0.45–0.53 | pending | – |
+| P1-002 | Share of khipus with ≥ 1 Ascher sum relation | 0.69–0.79 | **0.793** (95% CI 0.760–0.824), 484/610 khipus | **Not reproduced** (marginally; components diverge) |
+| P1-003 | Santa Valley pooled recto share | 0.45–0.53 | **0.479** (95% CI 0.445–0.514), 382/797 pendants | **Reproduced**, effective n = 6 khipus |
 
 ## P1-001: Locke base-10 decoding
 
@@ -36,3 +36,48 @@ Locke's digit rules are not in question here. Digits read from knot type and cou
 ### Proposed next step (needs owner approval)
 
 Register **P1-001v2** (`supersedes: P1-001`) with group-aligned place bands. Within each cord group, cluster the knot positions of all cords into horizontal bands, anchor the units band on L/E knots, and give each S cluster the exponent of its band. The tolerance stays at 0.99. The revision is flagged as post hoc in this report, because its design was informed by the failure above. If v2 also fails, the honest outcome is that recorded positions alone do not determine place for a sizeable minority of cords, and Phase 1 uses the recorders' readings as values, with that limitation stated.
+
+## P1-002: Share of khipus with an Ascher sum relation
+
+Run `results/20261011T153032Z_P1-002/`.
+
+### Result as registered
+
+- 610 khipus are eligible: they have at least one computable pendant, and the duplicate KH0483 is excluded. 484 have at least one of R1–R7, a share of **0.793** (Wilson 95% CI 0.760–0.824). The tolerance is 0.69–0.79, so **P1-002 is not reproduced**, by 0.003.
+- Sensitivity analyses: sum relations only (R1–R6) give 0.782, adding top-cord sums gives 0.793, and counting only sums ≥ 10 gives 0.716.
+
+### Debugging (exploratory)
+
+The headline share is close to the published ~0.74 and KFG's 0.709, but the components are not. Instance counts compared with the KFG table:
+
+| Relation | This run: khipus | This run: instances | KFG instances |
+|---|---:|---:|---:|
+| R1 pendant-pendant sum | 448 | 12,983 | 8,088 |
+| R2 colour pendant sum | 423 | 12,146 | 3,023 |
+| R3 indexed pendant sum | 181 | 615 | 4,746 |
+| R4 subsidiary-pendant sum | 238 | 3,818 | 767 |
+| R5 group sum band | 68 | 132 | 149 |
+| R6 group sum pair | 127 | 896 | 315 |
+| R7 decreasing group | 42 | 92 | 103 |
+
+R1, R2, R4 and R6 are 1.6–4× more permissive than KFG's implementation, and R3 is 8× stricter. The pre-registered definitions are this project's reading of one-line descriptions, and they evidently do not match the code that produced the published figures. A near-match on the headline share is therefore partly coincidental, and it should not count as reproduction even if it had landed inside the tolerance.
+
+Note also that any-distance search makes these relations easy to find by chance: R1 alone fires on 73% of khipus. Whether that exceeds a shuffled-cord baseline is the Phase 2 question, and nothing here bears on it.
+
+### Proposed next step (needs owner approval)
+
+Obtain KFG's own relation definitions. The KFG notebooks reference `utils_khipu` and a fieldmark CSV (`ascher_sums_overview.csv`), and the authors may share the code. Then register **P1-002v2** implementing them, with the same tolerance. If they cannot be obtained, report P1-002 as not reproducible from published descriptions and carry the definitional uncertainty into Phase 2.
+
+## P1-003: Santa Valley recto/verso split
+
+Run `results/20261011T153022Z_P1-003/`.
+
+- 811 pendants on KH0323–KH0328 (13 top cords and 254 subsidiaries excluded). 382 recto, 415 verso and 14 unknown, a pooled recto share of **0.479** (Wilson 95% CI 0.445–0.514). The tolerance is 0.45–0.53, so **P1-003 is reproduced**, pending owner sign-off.
+- Sensitivity analyses: excluding KH0326 gives 0.496, and including subsidiaries and top cords gives 0.490.
+- **Caveat on precision.** Attachment is constant within five of the six khipus. KH0323 (287 R) and KH0328 (55 R) are all recto. KH0324 (53 V), KH0325 (204 V) and KH0327 (90 V) are all verso. KH0326 is mixed, at 37% recto. The pooled share therefore mostly reflects which khipus are recto and how many cords each has. The effective sample is six khipus, and the cord-level CI overstates precision. This matches the khipu-level reading in the literature (a moiety per khipu, with KH0326 mixed, as Contreras reported).
+- **Six-cord groups.** OKR's cord clusters give 39 groups of exactly six pendants (KH0323: 34, KH0325: 4, KH0326: 1), against the 132/133 published. The published count does not use OKR's cluster structure, so the census-matching grouping must be reconstructed from the publication before Modeler C can use Santa Valley as its positive control. No tolerance was set for this count.
+
+## Data limitations carried forward
+
+- The KFG cross-checks (values, attachment) are pending until the KFG download completes.
+- The additive reading of Overmann & Florio needs an operational definition before it can be computed.

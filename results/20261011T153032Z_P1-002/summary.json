@@ -1,0 +1,66 @@
+{
+  "prereg": "P1-002",
+  "eligible_khipus": 610,
+  "excluded_duplicates": [
+    "KH0483"
+  ],
+  "khipus_with_relation": 484,
+  "share": 0.7934426229508197,
+  "share_ci95_wilson": [
+    0.7595279727211077,
+    0.8236845080516735
+  ],
+  "tolerance": "0.69 <= x <= 0.79",
+  "inside_tolerance": false,
+  "per_relation": {
+    "R1": {
+      "khipus": 448,
+      "share": 0.7344262295081967,
+      "instances": 12983,
+      "kfg_instances": 8088
+    },
+    "R2": {
+      "khipus": 423,
+      "share": 0.6934426229508197,
+      "instances": 12146,
+      "kfg_instances": 3023
+    },
+    "R3": {
+      "khipus": 181,
+      "share": 0.2967213114754098,
+      "instances": 615,
+      "kfg_instances": 4746
+    },
+    "R4": {
+      "khipus": 238,
+      "share": 0.3901639344262295,
+      "instances": 3818,
+      "kfg_instances": 767
+    },
+    "R5": {
+      "khipus": 68,
+      "share": 0.11147540983606558,
+      "instances": 132,
+      "kfg_instances": 149
+    },
+    "R6": {
+      "khipus": 127,
+      "share": 0.2081967213114754,
+      "instances": 896,
+      "kfg_instances": 315
+    },
+    "R7": {
+      "khipus": 42,
+      "share": 0.06885245901639345,
+      "instances": 92,
+      "kfg_instances": 103
+    }
+  },
+  "sensitivity": {
+    "sum_relations_only_R1_R6": 0.7819672131147541,
+    "with_top_cord_sums": 0.7934426229508197,
+    "sum_value_ge10": 0.7163934426229508,
+    "kfg_values": "pending: KFG download not complete"
+  },
+  "null_models": "deferred to Phase 2 per prereg; this share is not evidence of design"
+}

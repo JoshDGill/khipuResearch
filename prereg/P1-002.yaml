@@ -3,7 +3,7 @@ title: Reproduce the share of khipus with at least one Ascher sum relationship (
 kind: reproduction
 phase: 1
 date: 2026-10-11
-status: registered
+status: not_reproduced
 
 claim: >-
   About 74% of khipus with computable cord values contain at least one Ascher sum relationship
@@ -80,3 +80,8 @@ notes: >-
   any run. Where the published method is ambiguous (zeros in ranges, the off-by-one band split,
   strict vs non-strict decrease), the choice above is fixed now and the alternatives are not
   tuned against the target.
+  RESULT (run 20261011T153032Z_P1-002): 484 of 610 khipus = 0.793 (95% CI 0.760-0.824), just outside
+  0.69-0.79. NOT REPRODUCED; Gate G1. Per-relation instance counts diverge from KFG (R1 12,983 vs
+  8,088; R2 12,146 vs 3,023; R3 615 vs 4,746; R4 3,818 vs 767), so this project's reading of the
+  relation definitions differs from the published implementation. See
+  reports/phase1_reproduction.md.

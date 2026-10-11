@@ -3,7 +3,7 @@ title: Reproduce the Santa Valley recto/verso attachment split (KH0323-KH0328)
 kind: reproduction
 phase: 1
 date: 2026-10-11
-status: registered
+status: reproduced
 
 claim: >-
   On the six Santa Valley khipus matched to the 1670 revisita, pendant attachments split roughly
@@ -48,3 +48,10 @@ null_models_deferred_to: >-
   Phase 2. Whether recto/verso tracks moiety, and whether the split is rediscovered with Santa
   Valley held out (AGENTS.md §9.1), is a separate pre-registered hypothesis with null models.
 replication: Repeated on KFG attachment data as an independent data path.
+notes: >-
+  RESULT (run 20261011T153022Z_P1-003): pooled recto share 382/797 = 0.479 (95% CI 0.445-0.514), inside
+  0.45-0.53. REPRODUCED, awaiting owner sign-off at G1. Caveat: attachment is constant within five
+  of the six khipus (KH0323, KH0328 all recto; KH0324, KH0325, KH0327 all verso; KH0326 37%
+  recto), so the effective sample is six khipus and the cord-level CI overstates precision.
+  Six-cord groups from OKR cord_cluster: 39, against 132/133 published; the published grouping is
+  not the OKR cluster structure.

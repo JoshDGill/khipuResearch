@@ -1,0 +1,115 @@
+{
+  "prereg": "P1-003",
+  "pendants": 811,
+  "pooled": {
+    "recto": 382,
+    "verso": 415,
+    "unknown": 14,
+    "recto_share": 0.479297365119197,
+    "ci95_wilson": [
+      0.44479683714526297,
+      0.5139965049869047
+    ]
+  },
+  "tolerance": "0.45 <= x <= 0.53",
+  "inside_tolerance": true,
+  "per_khipu": {
+    "KH0323": {
+      "recto": 287,
+      "verso": 0,
+      "unknown": 6,
+      "recto_share": 1.0,
+      "ci95_wilson": [
+        0.9867919146181204,
+        0.9999999999999999
+      ]
+    },
+    "KH0324": {
+      "recto": 0,
+      "verso": 53,
+      "unknown": 1,
+      "recto_share": 0.0,
+      "ci95_wilson": [
+        0.0,
+        0.0675819885765419
+      ]
+    },
+    "KH0325": {
+      "recto": 0,
+      "verso": 204,
+      "unknown": 2,
+      "recto_share": 0.0,
+      "ci95_wilson": [
+        0.0,
+        0.01848263980868308
+      ]
+    },
+    "KH0326": {
+      "recto": 40,
+      "verso": 68,
+      "unknown": 0,
+      "recto_share": 0.37037037037037035,
+      "ci95_wilson": [
+        0.28521534777174484,
+        0.4644302640143996
+      ]
+    },
+    "KH0327": {
+      "recto": 0,
+      "verso": 90,
+      "unknown": 0,
+      "recto_share": 0.0,
+      "ci95_wilson": [
+        0.0,
+        0.0409356255643268
+      ]
+    },
+    "KH0328": {
+      "recto": 55,
+      "verso": 0,
+      "unknown": 5,
+      "recto_share": 1.0,
+      "ci95_wilson": [
+        0.9347150988829137,
+        1.0
+      ]
+    }
+  },
+  "six_cord_groups": {
+    "per_khipu": {
+      "KH0323": 34,
+      "KH0324": 0,
+      "KH0325": 4,
+      "KH0326": 1,
+      "KH0327": 0,
+      "KH0328": 0
+    },
+    "total": 39,
+    "published": "132 or 133 (sources conflict; AGENTS.md \u00a74)"
+  },
+  "sensitivity": {
+    "excluding_KH0326": {
+      "recto": 342,
+      "verso": 347,
+      "unknown": 14,
+      "recto_share": 0.49637155297532654,
+      "ci95_wilson": [
+        0.4591619492456798,
+        0.5336213925472453
+      ]
+    },
+    "all_cords_incl_subsidiaries_and_top": {
+      "recto": 406,
+      "verso": 423,
+      "unknown": 249,
+      "recto_share": 0.4897466827503016,
+      "ci95_wilson": [
+        0.4558434884432606,
+        0.5237444633572272
+      ]
+    },
+    "kfg_attachment": "pending: KFG download not complete"
+  },
+  "top_cords_excluded": 13,
+  "subsidiaries_excluded": 254
+}
