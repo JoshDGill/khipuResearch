@@ -44,13 +44,12 @@ kfg:
     MIT notice (c) Ashok Khosla on site code; no separate data licence found.
     Cite the KFG and the original recorders listed in its Databook.
   citation: "Khosla, A. et al. The Khipu Field Guide. https://www.khipufieldguide.com/"
-  # robots.txt asks for Crawl-delay: 10. The fetcher honours it, so a full pull takes ~2 hours.
+  # robots.txt asks for Crawl-delay: 10. The fetcher honours it, so a full pull takes ~3 hours.
+  # (The KFG_Template.xlsx linked from the spec page returns 404, so it is not fetched.)
   crawl_delay_seconds: 10
   index_url: https://www.khipufieldguide.com/sketchbook/index.html
   file_url_template: https://www.khipufieldguide.com/databook/excel_khipus/{kh}.xlsx
   extra_files:
-    - url: https://khipufieldguide.com/databook/KFG_Template.xlsx
-      name: KFG_Template.xlsx
     - url: https://www.khipufieldguide.com/databook/KFGExcelSpecification.html
       name: KFGExcelSpecification.html
     - url: https://www.khipufieldguide.com/databook/DatabaseBuild.html

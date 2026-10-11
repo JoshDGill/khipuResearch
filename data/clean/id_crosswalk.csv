@@ -1,0 +1,753 @@
+kh,Collection / Location,Collection Number,Country,KHIPU_ID,INVESTIGATOR_NUM,MUSEUM_NAME,MUSEUM_NUM,PROVENANCE,REGION,in_khipu_db,aliases,duplicate_of,split_group
+KH0001,American Museum of Natural History,B/8705,USA,1000493.0,LL01/UR176,"""American Museum of Natural History, NY""",B/8705,Chuquitanta,,True,LL01;UR176;LL001,,G-KH0001
+KH0002,National Museum of the American Indian,17/8826,USA,,,,,,,False,AS001,,G-KH0002
+KH0003,National Museum of the American Indian,17/8832,USA,,,,,,,False,AS002,,G-KH0003
+KH0004,National Museum of the American Indian,17/8827,USA,,,,,,,False,AS003,,G-KH0004
+KH0005,National Museum of the American Indian,17/8821,USA,,,,,,,False,AS004,,G-KH0005
+KH0006,National Museum of the American Indian,17/8831,USA,,,,,,,False,AS005,,G-KH0006
+KH0007,National Museum of the American Indian,17/8838,USA,,,,,,,False,AS006,,G-KH0007
+KH0008,National Museum of the American Indian,17/8825,USA,,,,,,,False,AS007,,G-KH0008
+KH0009,"Pitt Rivers Museum, University of Oxford","1931.32.1, VIII. 502",England,,,,,,,False,AS008,,G-KH0009
+KH0010,"Pitt Rivers Museum, University of Oxford","1925.55.2, L. I. 39",England,,,,,,,False,AS009,,G-KH0010
+KH0011,Niedersächsisches Landesmuseum,6271,Germany,1000166.0,AS010,"""Niedersächsische Landesmuseum, Hanover, West Germany""",6271,,,True,AS010,,G-KH0011
+KH0012,Niedersächsisches Landesmuseum,10087,Germany,1000167.0,AS011,"""Niedersächsische Landesmuseum, Hanover, West Germany""",10087,,,True,AS011,,G-KH0012
+KH0013,Niedersächsisches Landesmuseum,10217,Germany,1000180.0,AS012,"""Niedersächsische Landesmuseum, Hanover, West Germany""",10217,,,True,AS012,,G-KH0013
+KH0014,Niedersächsisches Landesmuseum,10086,Germany,1000184.0,AS013,"""Niedersächsische Landesmuseum, Hanover, West Germany""",10086,,,True,AS013,,G-KH0014
+KH0015,British Museum,"Am1907,0319.286",England,1000185.0,AS014,British Museum,,,,True,AS014,,G-KH0015
+KH0016,Penn Museum,SA4035,USA,1000186.0,AS015,"""University Museum, University of Pennsylvania""",SA4035,,,True,AS015,,G-KH0016
+KH0017,Penn Museum,SA4032,USA,1000187.0,AS016,"""University Museum, University of Pennsylvania""",SA4032,,,True,AS016,,G-KH0017
+KH0018,Penn Museum,SA4029,USA,1000188.0,AS017,"""University Museum, University of Pennsylvania""",SA4029,,,True,AS017,,G-KH0018
+KH0019,Penn Museum,CG852611-6382,USA,1000189.0,AS018,"""University Museum, University of Pennsylvania""",SA4034,,,True,AS018,,G-KH0019
+KH0020,Penn Museum,SA4033,USA,1000190.0,AS019,"""University Museum, University of Pennsylvania""",SA4033,,,True,AS019,,G-KH0020
+KH0021,Penn Museum,SA4034,USA,1000191.0,AS020,"""University Museum, University of Pennsylvania""",SA4034,,,True,AS020,,G-KH0019
+KH0022,Penn Museum,SA4040,USA,1000192.0,AS021,"""University Museum, University of Pennsylvania""",SA4040,,,True,AS021,,G-KH0022
+KH0023,Penn Museum,SA4037,USA,,,,,,,False,AS022,,G-KH0023
+KH0024,Penn Museum,SA4038,USA,1000194.0,AS023,"""University Museum, University of Pennsylvania""",SA4038,,,True,AS023,,G-KH0024
+KH0025,Penn Museum,SA4036,USA,1000195.0,AS024,"""University Museum, University of Pennsylvania""",SA4036,,,True,AS024,,G-KH0025
+KH0026,Penn Museum,SA4041,USA,1000196.0,AS025,"""University Museum, University of Pennsylvania""",SA4041,,,True,AS025,,G-KH0026
+KH0027,Penn Museum,SA4030,USA,1000197.0,AS026A,"""University Museum, University of Pennsylvania""",SA4030,,,True,AS026A,,G-KH0027
+KH0028,Penn Museum,SA4030,USA,1000198.0,AS026B,"""University Museum, University of Pennsylvania""",SA4030,,,True,AS026B,,G-KH0027
+KH0029,Penn Museum,SA4039,USA,1000199.0,AS027,"""University Museum, University of Pennsylvania""",SA4039,,,True,AS027,,G-KH0029
+KH0030,Penn Museum,SA4031,USA,1000200.0,AS028,"""University Museum, University of Pennsylvania""",SA4031,,,True,AS028,,G-KH0030
+KH0031,Wereldmuseum,WM-40148,Netherlands,1000201.0,AS029,"""Museum Voor Land-en Volkenkunde, Rotterdam, Holland""",40145,Aankoop,,True,AS029,,G-KH0031
+KH0032,Peabody Museum of Archaeology and Ethnology,41-70.30/3110,USA,1000101.0,AS030/UR043,"""Peabody Museum, Harvard University""",41.70.30/3110,"""La puntilla, between Paracas and Pisco""",,True,AS030;UR043,,G-KH0032
+KH0033,Peabody Museum of Archaeology and Ethnology,32-70-30/F851,USA,1000097.0,AS031/UR1031/UR044,"""Peabody Museum, Harvard University""",32-70-30/F851,,,True,AS031;UR1031;UR044,,G-KH0033
+KH0034,Peabody Museum of Archaeology and Ethnology,42.28.30/4532,USA,1000103.0,UR1032,"""Peabody Museum, Harvard University""",42.28.30/4532,Nazca,,True,UR1032;AS032,,G-KH0034
+KH0035,Peabody Museum of Archaeology and Ethnology,41.52.30/293B,USA,1000105.0,UR1033A,"""Peabody Museum, Harvard University""",41.52.30/293B,,,True,UR1033A;AS033A,,G-KH0035
+KH0036,Peabody Museum of Archaeology and Ethnology,41.52.30/293B,USA,1000106.0,UR1033B,"""Peabody Museum, Harvard University""",41.52.30/293B,,,True,UR1033B;AS033B,,G-KH0035
+KH0037,Peabody Museum of Archaeology and Ethnology,41.52.30/293B,USA,1000107.0,UR1033C,"""Peabody Museum, Harvard University""",41.52.30/293B,,,True,UR1033C;AS033C,,G-KH0035
+KH0038,Peabody Museum of Archaeology and Ethnology,41.52.30/293B,USA,1000108.0,UR1033D,"""Peabody Museum, Harvard University""",41.52.30/293B,,,True,UR1033D;AS033D,,G-KH0035
+KH0039,Peabody Museum of Archaeology and Ethnology,41.52.30/293B,USA,1000109.0,UR1033E,"""Peabody Museum, Harvard University""",41.52.30/293B,,,True,UR1033E;AS033E,,G-KH0035
+KH0040,Peabody Museum of Archaeology and Ethnology,41.52.30/293B,USA,1000110.0,UR1033F,"""Peabody Museum, Harvard University""",41.52.30/293B,,,True,UR1033F;AS033F,,G-KH0035
+KH0041,Peabody Museum of Archaeology and Ethnology,41.52.30/293B,USA,1000111.0,UR1033G,"""Peabody Museum, Harvard University""",41.52.30/293B,,,True,UR1033G;AS033G,,G-KH0035
+KH0042,Smithsonian National Museum of Natural History,365240,USA,1000333.0,UR1034,"""National Museum, Smithsonian, Washington, D.C.""",365240,Pachacamac,,True,UR1034;AS034,,G-KH0042
+KH0043,Brooklyn Museum,"70.177.69, X591a",USA,1000204.0,AS35A,Brooklyn Museum,X591a,,,True,AS35A;AS035A,,G-KH0043
+KH0044,Brooklyn Museum,"70.177.69, X591a",USA,1000205.0,AS35B,Brooklyn Museum,X591a,,,True,AS35B;AS035B,,G-KH0043
+KH0045,Brooklyn Museum,"70.177.69, X591a",USA,1000206.0,AS035C,Brooklyn Museum,X591a,,,True,AS035C,,G-KH0043
+KH0046,Brooklyn Museum,"70.177.69, X591a",USA,1000207.0,AS035D,Brooklyn Museum,X591a,,,True,AS035D,,G-KH0043
+KH0047,Museo Jacinto Jijón y Caamaño,P501A,Ecuador,1000235.0,AS036,"""Museo """"Jijon y Caamano"""", Pontificia Universidad Catolica del Ecuador, Quito, Ecuador""",P501A,"""Maranga, Huaca 1""",,True,AS036,,G-KH0047
+KH0048,Museo Jacinto Jijón y Caamaño,P501B,Ecuador,1000236.0,AS037,"""Museo """"Jijon y Caamano"""", Pontificia Universidad Catolica del Ecuador, Quito, Ecuador""",P501B,,,True,AS037,,G-KH0048
+KH0049,"Museo Nacional de Arqueología, Antropología e Historia del Perú","MNAAHP3550, 3884-147",Peru,1000565.0,AS038/HP036,"Museo Nacional de Arqueología, Antropología e Historia de Perú",MNAAHP3550,Costa Sur,,True,AS038;HP036,,G-KH0049
+KH0050,"Museo Nacional de Arqueología, Antropología e Historia del Perú",17/543,Peru,1000213.0,AS039,"""Museo Nacional, Lima, Peru""",17/543,,,True,AS039,,G-KH0050
+KH0051,"Museo Nacional de Arqueología, Antropología e Historia del Perú",,Peru,1000208.0,UR1040,"""Museo Nacional, Lima, Peru""",unnumbered,,,True,UR1040;AS040,,G-KH0051
+KH0052,"Museo Nacional de Arqueología, Antropología e Historia del Perú",V17/559,Peru,1000209.0,AS041,"""Museo Nacional, Lima, Peru""",V17/559,,,True,AS041,,G-KH0052
+KH0053,"Museo Nacional de Arqueología, Antropología e Historia del Perú",17/569,Peru,1000210.0,AS042,"""Museo Nacional, Lima, Peru""",17/569,,,True,AS042,,G-KH0053
+KH0054,"Museo Nacional de Arqueología, Antropología e Historia del Perú",0908-a,Peru,1000211.0,AS043,"""Museo Nacional, Lima, Peru""",0908-a,,,True,AS043,,G-KH0054
+KH0055,"Museo Nacional de Arqueología, Antropología e Historia del Perú",17/579,Peru,1000345.0,AS044,"""Museo Nacional, Lima, Peru""",17/579,,,True,AS044,,G-KH0055
+KH0056,"Museo Nacional de Arqueología, Antropología e Historia del Perú",17/560,Peru,1000212.0,AS045,"""Museo Nacional, Lima, Peru""",17/560,,,True,AS045,,G-KH0056
+KH0057,"Museo Nacional de Arqueología, Antropología e Historia del Perú","MNAAHP5693, 17/565",Peru,1000570.0,AS046/HP041,"Museo Nacional de Arqueología, Antropología, e Historia del Perú",MNAAHP5693,unknown,,True,AS046;HP041,,G-KH0057
+KH0058,"Museo Nacional de Arqueología, Antropología e Historia del Perú","MNAAHP1748, 3882",Peru,1000564.0,AS047/HP035,"Museo Nacional de Arqueología, Antropología e Historia de Perú",MNAAHP1748,unknown,,True,AS047;HP035,,G-KH0058
+KH0059,Museo Amano,R2700,Peru,1000229.0,AS048,"""Museo Amano, Lima, Peru""",R2700,,,True,AS048,,G-KH0059
+KH0060,Museo Amano,R2699,Peru,1000230.0,UR1049,"""Museo Amano, Lima, Peru""",R2699,,,True,UR1049;AS049,,G-KH0060
+KH0061,Ana Maria Soldi,1,Peru,1000361.0,AS050,"""owner Ana Maria Soldi, Lima, Peru""",1,,,True,AS050,,G-KH0061
+KH0062,"Museo Nacional de Arqueología, Antropología e Historia del Perú",5,Peru,1000214.0,UR1051,"""Museo Nacional, Lima, Peru""",5,Hacienda Ullujalla y Callengo,,True,UR1051;AS051,,G-KH0062
+KH0063,Museo Regional de Ica Adolfo Bermúdez Jenkins,6,Peru,1000170.0,UR1052,"""Museo de Ica, Ica, Peru""",6,Hacienda Ullujalla y Callengo,,True,UR1052;AS052,,G-KH0063
+KH0064,Museo Regional de Ica Adolfo Bermúdez Jenkins,2,Peru,1000169.0,UR1053,"""Museo de Ica, Ica, Peru""",2,Hacienda Ullujalla y Callengo,,True,UR1053;AS053,,G-KH0064
+KH0065,Museo Regional de Ica Adolfo Bermúdez Jenkins,3,Peru,1000179.0,AS054,"""Museo de Ica, Ica, Peru""",3,Hacienda Ullujalla y Callengo,,True,AS054,,G-KH0065
+KH0066,Museo Regional de Ica Adolfo Bermúdez Jenkins,4A,Peru,1000182.0,AS055,"""Museo de Ica, Ica, Peru""",4A,Hacienda Ullujalla y Callengo,,True,AS055,,G-KH0066
+KH0067,Museo Regional de Ica Adolfo Bermúdez Jenkins,4B,Peru,1000392.0,AS056/UR163,Valle de Ica Hacienda Callango Ocucaje,03993-02,,,True,AS056;UR163,,G-KH0067
+KH0068,Museo Regional de Ica Adolfo Bermúdez Jenkins,7,Peru,1000183.0,UR1057,"""Museo de Ica, Ica, Peru""",7,,,True,UR1057;AS057,,G-KH0068
+KH0069,Museo Regional de Ica Adolfo Bermúdez Jenkins,1,Peru,1000176.0,UR1058,"""Museo de Ica, Ica, Peru""",1,,,True,UR1058;AS058,,G-KH0069
+KH0070,Óscar Núñez del Prado,5B,Peru,1000173.0,AS059,"""O. Nunez del Prado, Cuzco""",5B,,,True,AS059,,G-KH0070
+KH0071,Óscar Núñez del Prado,6B,Peru,1000171.0,AS060,"""O. Nunez del Prado, Cuzco""",6B,,,True,AS060,,G-KH0071
+KH0072,Óscar Núñez del Prado,8B,Peru,1000177.0,AS061/MA036,"""O. Nunez del Prado, Cuzco""",8B,,,True,AS061;MA036,,G-KH0072
+KH0073,Óscar Núñez del Prado,4B,Peru,1000178.0,AS062,"""O. Nunez del Prado, Cuzco""",4B,,,True,AS062,,G-KH0073
+KH0074,Óscar Núñez del Prado,7B,Peru,1000216.0,AS063,"""O. Nunez del Prado, Cuzco""",7B,,,True,AS063;AS063(A),,G-KH0074
+KH0075,Óscar Núñez del Prado,7B,Peru,1000223.0,AS063B,"""O. Nunez del Prado, Cuzco""",7B,,,True,AS063B,,G-KH0074
+KH0076,Óscar Núñez del Prado,3B,Peru,1000217.0,AS064,"""O. Nunez del Prado, Cuzco""",3B,,,True,AS064,,G-KH0076
+KH0077,Óscar Núñez del Prado,11B,Peru,1000218.0,AS065,"""O. Nunez del Prado, Cuzco""",11B ,,,True,AS065;AS065(A),,G-KH0077
+KH0078,Óscar Núñez del Prado,10B,Peru,1000224.0,AS065B,"""O. Nunez del Prado, Cuzco""",10B,,,True,AS065B,,G-KH0078
+KH0079,Óscar Núñez del Prado,2a,Peru,1000369.0,AS066,"""O. Nunez del Prado, Cuzco""",2a,,,True,AS066,,G-KH0079
+KH0080,Óscar Núñez del Prado,1,Peru,1000371.0,AS067/MA029,"""O. Nunez del Prado, Cuzco""",No. 1,,,True,AS067;MA029,,G-KH0080
+KH0081,"Museo Nacional de Arqueología, Antropología e Historia del Perú","1745, 3882",Peru,1000648.0,AS068/UR281,"Museo Nac., Pueblo Libre",1745,"Monte de Cacatilla, Valle de Nazca",,True,AS068;UR281,,G-KH0081
+KH0082,Percy Dauelsberg,4,Chile,1000096.0,AS069,"""owner Percy Dauelsberg, Arica, Chile""",4,Lluta Valley,,True,AS069,,G-KH0082
+KH0083,Percy Dauelsberg,1; 780 at Museo Chileno de Arte Precolombino,Chile,1000279.0,AS070/UR035,Museo Chileno de Arte Precolombino,780,Mollepampa,"""Inka, Playa Miller""",True,AS070;UR035,,G-KH0083
+KH0084,Percy Dauelsberg,3,Chile,1000368.0,AS071,"""owner Percy Dauelsberg, Arica, Chile""",#3,,,True,AS071,,G-KH0084
+KH0085,Rancho San Juan,,Peru,1000367.0,AS072,,,"Rancho San Juan, Ica Valley",,True,AS072,,G-KH0085
+KH0086,Rancho San Juan,,Peru,1000174.0,AS073,,,"Rancho San Juan, Ica Valley",,True,AS073,,G-KH0086
+KH0087,Musée du quai Branly - Jacques Chirac,71.1964.19.1.7,France,1000366.0,AS074,"""Musee de l Homme, Paris, France""",64.19.1.7,,,True,AS074,,G-KH0087
+KH0088,Musée du quai Branly - Jacques Chirac,71.1964.19.1.5,France,1000342.0,AS075,"""Musee de l Homme, Paris, France""",64.19.1.5,Pachacamac,,True,AS075,,G-KH0088
+KH0089,Musée du quai Branly - Jacques Chirac,64.19.1.4,France,1000220.0,AS076,"""Musee de l Homme, Paris, France""",64.19.1.4,,,True,AS076,,G-KH0089
+KH0090,Musée du quai Branly - Jacques Chirac,64.19.1.3,France,1000221.0,AS077,"""Musee de l Homme, Paris, France""",64.19.1.3,,,True,AS077,,G-KH0090
+KH0091,Musée du quai Branly - Jacques Chirac,64.19.1.2,France,1000172.0,AS078,"""Musee Quai Branly, Paris, France""",64.19.1.2,"""Hacienda Copara, Nazca""","""South Coast, Peru""",True,AS078,,G-KH0091
+KH0092,Musée du quai Branly - Jacques Chirac,64.19.1.6,France,1000346.0,AS079,"""Musee de l Homme, Paris, France""",64.19.1.6,,,True,AS079,,G-KH0092
+KH0093,Musée du quai Branly - Jacques Chirac,64.19.1.8,France,1000222.0,AS080,"""Musee de l Homme, Paris, France""",64.19.1.8,,,True,AS080,,G-KH0093
+KH0094,Musée du quai Branly - Jacques Chirac,64.19.2,France,1000225.0,AS081,"""Musee de l Homme, Paris, France""",64.19.2,,,True,AS081,,G-KH0094
+KH0095,Musée du quai Branly - Jacques Chirac,64.19.3,France,1000226.0,AS082,"""Musee de l Homme, Paris, France""",64.19.3,,,True,AS082,,G-KH0095
+KH0096,Musée du quai Branly - Jacques Chirac,64.19.7,France,1000168.0,AS083,"""Musee de l Homme, Paris, France""",64.19.7,,,True,AS083,,G-KH0096
+KH0097,Musée du quai Branly - Jacques Chirac,71.1930.19.470,France,1000344.0,UR1084,"""Musee Quai Branly, Paris, France""",71.1930.19.470,,,True,UR1084;AS084,,G-KH0097
+KH0098,Musée d’ethnographie de Genève,9570,Switzerland,1000231.0,AS085,"""Musee d Ethnographie, Geneva, Switzerland""",9570,,,True,AS085,,G-KH0098
+KH0099,Museum der Kulturen,IVc.2821.b,Switzerland,1000228.0,AS086,"""Museum fur Volkerkunde, Basel, Switzerland""",2821,Huacho,,True,AS086;MM1086,,G-KH0099
+KH0100,Museum Fünf Kontinente,G3304,Germany,1000310.0,UR1087,"""Museum Fur Volkerkunde, Munich, W. Germany""",G3304,Peru,,True,UR1087;AS087;N03,,G-KH0100
+KH0101,Museum Fünf Kontinente,G3297,Germany,1000313.0,UR1088,"""Museum Fur Volkerkunde, Munich, W. Germany""",G3297,Huacho,,True,UR1088;AS088;N06,,G-KH0101
+KH0102,Museum Fünf Kontinente,G3301,Germany,1000232.0,AS089,"""Museum Fur Volkerkunde, Munich, W. Germany""",G3301,Peru,,True,AS089,,G-KH0102
+KH0103,Museum Fünf Kontinente,G3319,Germany,1000233.0,AS090/N2,"""Museum Fur Volkerkunde, Munich, W. Germany""",G3319,Peru,,True,AS090;N2;N02,,G-KH0103
+KH0104,Museum Fünf Kontinente,26T580,Germany,1000312.0,UR1091,"""Museum Fur Volkerkunde, Munich, W. Germany""",26T580,,,True,UR1091;AS091,,G-KH0104
+KH0105,Museum Fünf Kontinente,G3306,Germany,1000234.0,AS092,"""Museum Fur Volkerkunde, Munich, W. Germany""",G3306,Peru,,True,AS092,,G-KH0105
+KH0106,Museum Fünf Kontinente,G3305A,Germany,1000365.0,AS093,"""Museum Fur Volkerkunde, Munich, W. Germany""",G3305A,,,True,AS093,,G-KH0106
+KH0107,Museum Fünf Kontinente,G3305B,Germany,1000227.0,AS094,"""Museum Fur Volkerkunde, Munich, W. Germany""",G3305B,Peru,,True,AS094,,G-KH0107
+KH0108,Museum Fünf Kontinente,G3299,Germany,1000314.0,UR1095,"""Museum Fur Volkerkunde, Munich, W. Germany""",G3299,Pachacamac,,True,UR1095;AS095;N04,,G-KH0108
+KH0109,Museum Fünf Kontinente,G3300,Germany,1000315.0,UR1096,"""Museum Fur Volkerkunde, Munich, W. Germany""",G3300,Pachacamac,,True,UR1096;AS096,,G-KH0109
+KH0110,Ethnologisches Museum,VA42553,Germany,1000039.0,UR1097,"""Museum für Völkerkunde, Berlin""",VA42553,Pachacamac,,True,UR1097;AS097,,G-KH0110
+KH0111,Ethnologisches Museum,VA16136,Germany,1000040.0,UR1098,"""Museum für Völkerkunde, Berlin""",VA16136,Between Ica and Pisco,,True,UR1098;AS098,,G-KH0111
+KH0112,Ethnologisches Museum,VA42526,Germany,1000041.0,UR1099,"""Museum für Völkerkunde, Berlin""",VA42526,Pachacamac,,True,UR1099;AS099,,G-KH0112
+KH0113,Ethnologisches Museum,VA47070,Germany,1000042.0,UR1100,"""Museum für Völkerkunde, Berlin""",VA47070,Ica,,True,UR1100;AS100,,G-KH0113
+KH0114,Ethnologisches Museum,VA42528,Germany,1000043.0,AS101 - Part 1,"""Museum für Völkerkunde, Berlin""",VA42528,Pachacamac,,True,AS101 - Part 1,,G-KH0114
+KH0115,Ethnologisches Museum,VA42528,Germany,1000044.0,AS101 - Part 2,"""Museum für Völkerkunde, Berlin""",VA42528,Pachacamac,,True,AS101 - Part 2,,G-KH0114
+KH0116,Ethnologisches Museum,VA42613,Germany,1000046.0,UR1102,"""Museum für Völkerkunde, Berlin""",VA42613,Pachacamac,,True,UR1102;AS102,,G-KH0116
+KH0117,Ethnologisches Museum,VA47078,Germany,1000047.0,UR1103,"""Museum für Völkerkunde, Berlin""",VA47078,Ica,,True,UR1103;AS103;N12,,G-KH0117
+KH0118,Ethnologisches Museum,VA42527,Germany,1000048.0,UR1104,"""Ethnologisches Museum, Berlin, Germany""",VA42527,Pachacamac,"""Central Coast, Peru""",True,UR1104;AS104;N11;UR224,,G-KH0118
+KH0119,Ethnologisches Museum,VA47097,Germany,1000049.0,UR1105,"""Museum für Völkerkunde, Berlin""",VA47097,Ica,,True,UR1105;AS105;N16,,G-KH0119
+KH0120,Ethnologisches Museum,VA24370(A),Germany,1000050.0,UR1106,"""Museum für Völkerkunde, Berlin""",VA24370(A),Marquez,,True,UR1106;AS106,,G-KH0120
+KH0121,Ethnologisches Museum,VA24370(B),Germany,1000051.0,UR1107,"""Museum für Völkerkunde, Berlin""",VA24370(B),Marquez,,True,UR1107;AS107,,G-KH0121
+KH0122,Ethnologisches Museum,VA16143,Germany,1000052.0,UR1108,"""Museum für Völkerkunde, Berlin""",VA16143,Between Ica and Pisco,,True,UR1108;AS108,,G-KH0122
+KH0123,Ethnologisches Museum,VA47069,Germany,1000053.0,UR1109,"""Museum für Völkerkunde, Berlin""",VA47069,Ica,,True,UR1109;AS109,,G-KH0123
+KH0124,Ethnologisches Museum,VA42605A,Germany,1000054.0,AS110,"""Museum für Völkerkunde, Berlin""",VA42605 A,Pachacamac,,True,AS110,,G-KH0124
+KH0125,Ethnologisches Museum,VA42605B,Germany,1000055.0,AS111,"""Museum für Völkerkunde, Berlin""",VA42605 B,Pachacamac,,True,AS111,,G-KH0125
+KH0126,Ethnologisches Museum,VA39385,Germany,1000056.0,AS112,"""Museum für Völkerkunde, Berlin""",VA39385,Pachacamac,,True,AS112,,G-KH0126
+KH0127,Ethnologisches Museum,VA16140,Germany,1000057.0,UR1113,"""Museum für Völkerkunde, Berlin""",VA16140,Between Ica and Pisco,,True,UR1113;AS113,,G-KH0127
+KH0128,Ethnologisches Museum,VA16148,Germany,1000063.0,UR1114,"""Museum für Völkerkunde, Berlin""",VA16148,Between Ica and Pisco,,True,UR1114;AS114,,G-KH0128
+KH0129,Ethnologisches Museum,VA47089,Germany,1000071.0,AS115,"""Museum für Völkerkunde, Berlin""",VA47089,Ica,,True,AS115,,G-KH0129
+KH0130,Ethnologisches Museum,VA47125,Germany,1000072.0,UR1116,"""Museum für Völkerkunde, Berlin""",VA47125,Ica,,True,UR1116;AS116,,G-KH0130
+KH0131,Ethnologisches Museum,VA47118,Germany,1000073.0,UR1117,"""Museum für Völkerkunde, Berlin""",VA47118,Ica,,True,UR1117;AS117,,G-KH0131
+KH0132,Ethnologisches Museum,VA42601,Germany,1000074.0,UR1118,"""Museum für Völkerkunde, Berlin""",VA42601,Pachacamac,,True,UR1118;AS118,,G-KH0132
+KH0133,Ethnologisches Museum,VA42545,Germany,1000075.0,UR1119,"""Museum für Völkerkunde, Berlin""",VA42545,Pachacamac,,True,UR1119;AS119,,G-KH0133
+KH0134,Ethnologisches Museum,VA47083,Germany,1000076.0,UR1120,"""Museum für Völkerkunde, Berlin""",VA47083,Ica,,True,UR1120;AS120,,G-KH0134
+KH0135,Ethnologisches Museum,VA42538,Germany,1000077.0,UR1121,"""Museum für Völkerkunde, Berlin""",VA42538,Pachacamac,,True,UR1121;AS121,,G-KH0135
+KH0136,Ethnologisches Museum,VA11639,Germany,1000078.0,AS122,"""Museum für Völkerkunde, Berlin""",VA11639,Lima,,True,AS122,,G-KH0136
+KH0137,Ethnologisches Museum,VA47085,Germany,1000079.0,UR1123,"""Museum für Völkerkunde, Berlin""",VA47085,Ica,,True,UR1123;AS123,,G-KH0137
+KH0138,Ethnologisches Museum,VA24371,Germany,1000080.0,UR1124,"""Museum für Völkerkunde, Berlin""",VA24371,Marquez,,True,UR1124;AS124,,G-KH0138
+KH0139,Ethnologisches Museum,VA24371,Germany,1000081.0,UR1124 Detail 1,"""Museum für Völkerkunde, Berlin""",VA24371,Marquez,,True,UR1124 Detail 1;AS124 Detail 1,,G-KH0138
+KH0140,Ethnologisches Museum,VA42670,Germany,1000082.0,AS125,"""Museum für Völkerkunde, Berlin""",VA42670,Pachacamac,,True,AS125,,G-KH0140
+KH0141,Ethnologisches Museum,VA47095,Germany,1000083.0,UR1126,"""Museum für Völkerkunde, Berlin""",VA47095,Ica,,True,UR1126;AS126,,G-KH0141
+KH0142,Ethnologisches Museum,VA63042(A),Germany,1000084.0,UR1127,"""Museum für Völkerkunde, Berlin""",VA63042(A),Nazca,,True,UR1127;AS127,,G-KH0142
+KH0143,Ethnologisches Museum,VA63042(B),Germany,1000085.0,AS128,"""Museum für Völkerkunde, Berlin""",VA63042(B),Nazca,,True,AS128,,G-KH0143
+KH0144,Ethnologisches Museum,VA77098,Germany,1000086.0,AS129,"""Museum für Völkerkunde, Berlin""",VA77098,Ica,,True,AS129,,G-KH0144
+KH0145,Ethnologisches Museum,VA37865,Germany,1000087.0,UR1130,"""Museum für Völkerkunde, Berlin""",VA37865,near Lima,,True,UR1130;AS130,,G-KH0145
+KH0146,Ethnologisches Museum,VA37857,Germany,1000088.0,AS130 B,"""Museum für Völkerkunde, Berlin""",VA37857,near Lima,,True,AS130 B;AS130B,,G-KH0146
+KH0147,Ethnologisches Museum,VA42510,Germany,1000089.0,UR1131,"""Museum für Völkerkunde, Berlin""",VA42510,Pachacamac,,True,UR1131;AS131,,G-KH0147
+KH0148,Ethnologisches Museum,VA24369B,Germany,1000090.0,AS132,"""Museum für Völkerkunde, Berlin""",VA24369 A,Marquez,,True,AS132,,G-KH0148
+KH0149,Ethnologisches Museum,VA24369A,Germany,1000091.0,AS133,"""Museum für Völkerkunde, Berlin""",VA24369 B,Marquez,,True,AS133,,G-KH0149
+KH0150,Ethnologisches Museum,VA42581,Germany,1000092.0,AS134,"""Museum für Völkerkunde, Berlin""",VA42581,Pachacamac,,True,AS134,,G-KH0150
+KH0151,Ethnologisches Museum,VA47115,Germany,1000093.0,UR1135,"""Museum für Völkerkunde, Berlin""",VA47115,Ica,,True,UR1135;AS135,,G-KH0151
+KH0152,Ethnologisches Museum,VA16635,Germany,1000094.0,UR1136,"""Museum für Völkerkunde, Berlin""",VA16635,Nazca,,True,UR1136;AS136,,G-KH0152
+KH0153,Ethnologisches Museum,VA24939,Germany,1000112.0,AS137,"""Museum für Völkerkunde, Berlin""",VA24939,Chuquitanta,,True,AS137,,G-KH0153
+KH0154,Ethnologisches Museum,VA47121,Germany,1000113.0,UR1138,"""Museum für Völkerkunde, Berlin""",VA47121,Ica,,True,UR1138;AS138,,G-KH0154
+KH0155,Ethnologisches Museum,VA42598,Germany,1000114.0,AS139,"""Museum für Völkerkunde, Berlin""",VA42598,Pachacamac,,True,AS139,,G-KH0155
+KH0156,Ethnologisches Museum,VA16636,Germany,1000115.0,UR1140,"""Museum für Völkerkunde, Berlin""",VA16636,Nazca,,True,UR1140;AS140;N09,,G-KH0156
+KH0157,Ethnologisches Museum,VA47124B,Germany,1000116.0,UR1141,"""Museum für Völkerkunde, Berlin""",VA47124A,Ica,,True,UR1141;AS141,,G-KH0157
+KH0158,Ethnologisches Museum,VA47124A,Germany,1000117.0,AS142,"""Museum für Völkerkunde, Berlin""",VA47124B,Ica,,True,AS142,,G-KH0158
+KH0159,Ethnologisches Museum,VA47096,Germany,1000118.0,UR1143,"""Museum für Völkerkunde, Berlin""",VA47096,Ica,,True,UR1143;AS143,,G-KH0159
+KH0160,Ethnologisches Museum,VA42564,Germany,1000119.0,UR1144,"""Museum für Völkerkunde, Berlin""",VA42564,Pachacamac,,True,UR1144;AS144,,G-KH0160
+KH0161,Ethnologisches Museum,VA42533,Germany,1000120.0,UR1145,"""Museum für Völkerkunde, Berlin""",VA42533,Pachacamac,,True,UR1145;AS145,,G-KH0161
+KH0162,Ethnologisches Museum,VA47081,Germany,1000121.0,UR1146,"""Museum für Völkerkunde, Berlin""",VA47081,Ica,,True,UR1146;AS146;N10,,G-KH0162
+KH0163,Ethnologisches Museum,VA44866C,Germany,1000122.0,UR1147,"""Museum für Völkerkunde, Berlin""",VA44866A,Ocucaje,,True,UR1147;AS147,,G-KH0163
+KH0164,Ethnologisches Museum,VA44866B,Germany,1000123.0,UR1148,"""Museum für Völkerkunde, Berlin""",VA44866B,Ocucaje,,True,UR1148;AS148,,G-KH0164
+KH0165,Ethnologisches Museum,VA44866A,Germany,1000124.0,UR1149,"""Museum für Völkerkunde, Berlin""",VA44866C,Ocucaje,,True,UR1149;AS149,,G-KH0165
+KH0166,Ethnologisches Museum,VA47109,Germany,1000125.0,UR1150,"""Museum für Völkerkunde, Berlin""",VA47109,Ica,,True,UR1150;AS150,,G-KH0166
+KH0167,Ethnologisches Museum,VA42514,Germany,1000126.0,UR1151,"""Museum für Völkerkunde, Berlin""",VA42514,Pachacamac,,True,UR1151;AS151,,G-KH0167
+KH0168,Ethnologisches Museum,VA47076,Germany,1000127.0,UR1152,"""Museum für Völkerkunde, Berlin""",VA47076,Ica,,True,UR1152;AS152,,G-KH0168
+KH0169,Ethnologisches Museum,VA66831,Germany,1000128.0,AS153,"""Museum für Völkerkunde, Berlin""",unnumbered,,,True,AS153,,G-KH0169
+KH0170,Ethnologisches Museum,VA37867A,Germany,1000129.0,UR1154,"""Museum für Völkerkunde, Berlin""",VA37867A,near Lima,,True,UR1154;AS154,,G-KH0170
+KH0171,Ethnologisches Museum,VA37867B,Germany,1000130.0,AS155,"""Museum für Völkerkunde, Berlin""",VA37967B,near Lima,,True,AS155,,G-KH0171
+KH0172,Ethnologisches Museum,VA42535,Germany,1000131.0,AS156,"""Museum für Völkerkunde, Berlin""",VA42535,Pachacamac,,True,AS156,,G-KH0172
+KH0173,Ethnologisches Museum,VA42550,Germany,1000132.0,AS157,"""Museum für Völkerkunde, Berlin""",unnumbered,,,True,AS157,,G-KH0173
+KH0174,Ethnologisches Museum,VA42599,Germany,1000133.0,AS158,"""Museum für Völkerkunde, Berlin""",VA42599,Pachacamac,,True,AS158,,G-KH0174
+KH0175,Ethnologisches Museum,VA16138B,Germany,1000058.0,AS159,"""Museum für Völkerkunde, Berlin""",VA16138 A,Between Ica and Pisco,,True,AS159,,G-KH0175
+KH0176,Ethnologisches Museum,VA16138C,Germany,1000064.0,AS160,"""Museum für Völkerkunde, Berlin""",VA16138 B,Between Ica and Pisco,,True,AS160,,G-KH0176
+KH0177,Ethnologisches Museum,VA47106C,Germany,1000134.0,UR1161,"""Museum für Völkerkunde, Berlin""",VA47106A,Ica,,True,UR1161;AS161,,G-KH0177
+KH0178,Ethnologisches Museum,VA47106B,Germany,1000135.0,UR1162A,"""Museum für Völkerkunde, Berlin""",VA47106B,Ica,,True,UR1162A;AS162(A),,G-KH0178
+KH0179,Ethnologisches Museum,VA47106A,Germany,1000136.0,UR1162B,"""Museum für Völkerkunde, Berlin""",VA47106B,Ica,,True,UR1162B;AS162(B),,G-KH0178
+KH0180,Ethnologisches Museum,VA42587,Germany,1000137.0,UR1163,"""Museum für Völkerkunde, Berlin""",VA42587,Pachacamac,,True,UR1163;AS163,,G-KH0180
+KH0181,Ethnologisches Museum,VA47113,Germany,1000138.0,AS164,"""Museum für Völkerkunde, Berlin""",VA47113,Ica,,True,AS164,,G-KH0181
+KH0182,Ethnologisches Museum,VA42563,Germany,1000139.0,UR1165,"""Museum für Völkerkunde, Berlin""",VA42563,Pachacamac,,True,UR1165;AS165,,G-KH0182
+KH0183,Ethnologisches Museum,VA47079,Germany,1000140.0,UR1166,"""Museum für Völkerkunde, Berlin""",VA47079,Ica,,True,UR1166;AS166,,G-KH0183
+KH0184,Ethnologisches Museum,VA42584,Germany,1000141.0,UR1167,"""Museum für Völkerkunde, Berlin""",VA42584,Pachacamac,,True,UR1167;AS167;N15,,G-KH0184
+KH0185,Ethnologisches Museum,VA66813,Germany,1000142.0,AS168,"""Museum für Völkerkunde, Berlin""",unnumbered,,,True,AS168,,G-KH0185
+KH0186,Ethnologisches Museum,VA66814B,Germany,1000143.0,AS169,"""Museum für Völkerkunde, Berlin""",unnumbered,,,True,AS169,,G-KH0186
+KH0187,Ethnologisches Museum,VA42554,Germany,1000144.0,AS170,"""Museum für Völkerkunde, Berlin""",VA42554,Pachacamac,,True,AS170,,G-KH0187
+KH0188,Ethnologisches Museum,VA47105,Germany,1000145.0,AS171,"""Museum für Völkerkunde, Berlin""",VA47105,Ica,,True,AS171,,G-KH0188
+KH0189,Ethnologisches Museum,VA42560,Germany,1000146.0,AS172,"""Museum für Völkerkunde, Berlin""",VA16145(A),Pachacamac,,True,AS172,,G-KH0189
+KH0190,Ethnologisches Museum,VA16145(B),Germany,1000059.0,AS173,"""Museum für Völkerkunde, Berlin""",VA16145(B),Between Ica and Pisco,,True,AS173,,G-KH0190
+KH0191,Ethnologisches Museum,VA16145(C),Germany,1000060.0,AS174,"""Museum für Völkerkunde, Berlin""",VA16145 B,Between Ica and Pisco,,True,AS174,,G-KH0191
+KH0192,Ethnologisches Museum,VA42518,Germany,1000147.0,UR1175,"""Museum für Völkerkunde, Berlin""",VA42518,Pachacamac,,True,UR1175;AS175,,G-KH0192
+KH0193,Ethnologisches Museum,VA63043,Germany,1000148.0,UR1176,"""Museum für Völkerkunde, Berlin""",VA37859(A),Nazca,,True,UR1176;AS176,,G-KH0193
+KH0194,Ethnologisches Museum,VA37859(A),Germany,1000149.0,AS177,"""Museum für Völkerkunde, Berlin""",VA37859(B),near Lima,,True,AS177,,G-KH0194
+KH0195,Ethnologisches Museum,VA37859(B),Germany,1000150.0,AS178,"""Museum für Völkerkunde, Berlin""",VA37859B,near Lima,,True,AS178,,G-KH0195
+KH0196,Ethnologisches Museum,VA47123,Germany,1000151.0,UR1179,"""Museum für Völkerkunde, Berlin""",VA47123,Ica,,True,UR1179;AS179,,G-KH0196
+KH0197,Ethnologisches Museum,VA47126,Germany,1000152.0,UR1180,"""Museum für Völkerkunde, Berlin""",VA66832,Ica,,True,UR1180;AS180,,G-KH0197
+KH0198,Ethnologisches Museum,VA66832,Germany,1000546.0,AS181/UR236,"""Ethnologisches Museum, Berlin, Germany""",VA 66832,unknown,unknown,True,AS181;UR236,,G-KH0198
+KH0199,Ethnologisches Museum,VA66840A,Germany,1000154.0,AS182,"""Museum für Völkerkunde, Berlin""",unnumbered,,,True,AS182;AS182(A),,G-KH0199
+KH0200,Ethnologisches Museum,,Germany,1000155.0,AS182B,"""Museum für Völkerkunde, Berlin""",unnumbered,,,True,AS182B,,G-KH0200
+KH0201,Ethnologisches Museum,VA66840A,Germany,1000156.0,AS183,"""Museum für Völkerkunde, Berlin""",unnumbered,,,True,AS183,,G-KH0201
+KH0202,Ethnologisches Museum,VA66840A,Germany,1000157.0,AS184,"""Museum für Völkerkunde, Berlin""",unnumbered,,,True,AS184,,G-KH0202
+KH0203,Ethnologisches Museum,VA66840A,Germany,1000158.0,AS185,"""Museum für Völkerkunde, Berlin""",unnumbered,,,True,AS185,,G-KH0203
+KH0204,Ethnologisches Museum,VA66840A,Germany,1000159.0,AS186,"""Museum für Völkerkunde, Berlin""",unnumbered,,,True,AS186,,G-KH0204
+KH0205,Ethnologisches Museum,VA43333C,Germany,1000160.0,AS187,"""Museum für Völkerkunde, Berlin""",VA43333A,Pachacamac,,True,AS187,,G-KH0205
+KH0206,Ethnologisches Museum,VA43333B,Germany,1000161.0,AS188,"""Museum für Völkerkunde, Berlin""",VA43333B,Pachacamac,,True,AS188,,G-KH0206
+KH0207,Ethnologisches Museum,VA43334,Germany,1000162.0,AS189,"""Museum für Völkerkunde, Berlin""",VA4334,Pachacamac,,True,AS189,,G-KH0207
+KH0208,American Museum of Natural History,41.2/6714,USA,1000065.0,AS190,"""American Museum of Natural History, NY""",41.2/6714,Ica,,True,AS190,,G-KH0208
+KH0209,American Museum of Natural History,41.2/6698,USA,1000066.0,AS191,"""American Museum of Natural History, NY""",41.2/6698,Ica,,True,AS191,,G-KH0209
+KH0210,American Museum of Natural History,41.2/6701,USA,1000067.0,AS192,"""American Museum of Natural History, NY""",41.2/6701,Ica,,True,AS192,,G-KH0210
+KH0211,American Museum of Natural History,41.2/6700,USA,1000068.0,AS193,"""American Museum of Natural History, NY""",41.2/6700,Ica,,True,AS193,,G-KH0211
+KH0212,American Museum of Natural History,41.2/6702,USA,1000061.0,AS194,"""American Museum of Natural History, NY""",41.2/6702,Ica,,True,AS194,,G-KH0212
+KH0213,American Museum of Natural History,41.2/6703,USA,1000062.0,AS195,"""American Museum of Natural History, NY""",41.2/6703,Ica,,True,AS195,,G-KH0213
+KH0214,American Museum of Natural History,41.2/6697,USA,1000069.0,AS196,"""American Museum of Natural History, NY""",41.2/6697,Ica,,True,AS196,,G-KH0214
+KH0215,American Museum of Natural History,41.2/6997,USA,1000070.0,AS197,"""American Museum of Natural History, NY""",41.2/6997,Ica,,True,AS197,,G-KH0215
+KH0216,American Museum of Natural History,41.2/5786,USA,1000163.0,AS198,"""American Museum of Natural History, NY""",41.2/5786,,,True,AS198,,G-KH0216
+KH0217,American Museum of Natural History,41.0/7305A,USA,1000164.0,AS199,"""American Museum of Natural History, NY""",41.0/7305A,,,True,AS199,,G-KH0217
+KH0218,American Museum of Natural History,41.2/5784,USA,1000165.0,AS200,"""American Museum of Natural History, NY""",41.2/5784,probably Central Coast Late Period,,True,AS200,,G-KH0218
+KH0219,Phoebe A. Hearst Museum of Anthropology,TK 4/5419B,USA,1000026.0,AS201,"""Lowie Museum, University of California, Berkeley""",TK 4/5419,Ica,,True,AS201,,G-KH0219
+KH0220,Phoebe A. Hearst Museum of Anthropology,TK 4/5419A,USA,1000013.0,AS202,"""Lowie Museum, University of California, Berkeley""",TK 4/5419,,,True,AS202,,G-KH0219
+KH0221,Phoebe A. Hearst Museum of Anthropology,TK 4/5419C,USA,1000014.0,AS203,"""Lowie Museum, University of California, Berkeley""",TK 4/5419,,,True,AS203,,G-KH0219
+KH0222,Phoebe A. Hearst Museum of Anthropology,TK 4/5418,USA,1000027.0,AS204,"""Lowie Museum, University of California, Berkeley""",TK 4/5418,Ica,,True,AS204,,G-KH0222
+KH0223,Phoebe A. Hearst Museum of Anthropology,TM 4/5446B,USA,1000028.0,AS205,"""Lowie Museum, University of California, Berkeley""",TM 4/5446,,,True,AS205,,G-KH0223
+KH0224,"Fowler Museum, UCLA",,USA,1000015.0,AS206,"""Museum of Culture History, University of California, Los Angeles""",None,,,True,AS206,,G-KH0224
+KH0225,Museum of Science,C14459,USA,1000029.0,AS207A,"""Museum of Science, Buffalo, New York""",C14459,,,True,AS207A,,G-KH0225
+KH0226,Museum of Science,C14459,USA,1000030.0,AS207B,"""Museum of Science, Buffalo, New York""",C14459,,,True,AS207B,,G-KH0225
+KH0227,Museum of Science,C14459,USA,1000031.0,AS207C,"""Museum of Science, Buffalo, New York""",C14459,,,True,AS207C,,G-KH0225
+KH0228,Weltmuseum Wien,"IX/1961, 140708",Austria,1000396.0,AS208/UR083,"""Museum fur Volkerkunde, Vienna""",140708,"""Huaura Valley, near Lima, on Santa Rosalia Hacienda""",,True,AS208;UR083,,G-KH0228
+KH0229,Royal Ontario Museum,HP519,Canada,1000032.0,AS209,"""Royal Ontario Museum, Toronto""",HP519,,,True,AS209,,G-KH0229
+KH0230,Field Museum,111407,USA,1000017.0,AS210,"""Field Museum of Natural History, Chicago, IL""",111407,,,True,AS210,,G-KH0230
+KH0231,Náprstek Museum,45.698,Czech Republic,1000033.0,AS211,"""N195161prstkovo Museum, Prague""",45.698,,,True,AS211,,G-KH0231
+KH0232,Joslyn Art Museum,1958-57,USA,1000034.0,AS212,"""Joslyn Art Museum, Omaha, Nebraska""",1958-57,,,True,AS212,,G-KH0232
+KH0233,Leo J. Harris,1,USA,1000035.0,AS213,"""owner Leo J. Harris, St. Paul, Minnesota""",1,,,True,AS213,,G-KH0233
+KH0234,Hood Museum of Art,43-4-8575,USA,1000036.0,AS214,"""Hood Museum of Art, Dartmouth College, Hanover, New Hampshire""",43-4-8575,,,True,AS214,,G-KH0234
+KH0235,Hood Museum of Art,55-32-13302,USA,1000037.0,AS215,"""Hood Museum of Art, Dartmouth College, Hanover, New Hampshire""",55-32-13302,Nazca,,True,AS215,,G-KH0235
+KH0236,Hood Museum of Art,55-32-13302,USA,1000038.0,AS215F,"""Hood Museum of Art, Dartmouth College, Hanover, New Hampshire""",55-32-13302,Nazca,,True,AS215F,,G-KH0235
+KH0237,"Centro Mallqui, Museo Leymebamba","INC/LDC 108, LC1947.TEQ",Peru,1000023.0,UR001,"""Centro Mallqui, Leymebamba, Amazonas""","""INC/LDC 108, LC1947.TEQ""",Leymebamba,Chachapoyas,True,UR001,,G-KH0237
+KH0238,"Centro Mallqui, Museo Leymebamba","CMA-628/
+LC1 257B TEQ",Peru,1000012.0,UR002,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-628/LC1 257B TEQ,Leymebamba,Chachapoyas,True,UR002,,G-KH0238
+KH0239,"Centro Mallqui, Museo Leymebamba","CMA-419/
+LC1-048 TEQ",Peru,1000020.0,UR003,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-419/LC1-048 TEQ,Leymebamba,Chachapoyas,True,UR003,,G-KH0239
+KH0240,"Centro Mallqui, Museo Leymebamba",CMA 847-LC1.476 TEQ,Peru,1000024.0,UR004,"""Centro Mallqui, Leymebamba, Amazonas""",CMA 847-LC1.476 TEQ,Leymebamba,Chachapoyas,True,UR004,,G-KH0240
+KH0241,"Centro Mallqui, Museo Leymebamba","CMA 480/
+LC1-109.2",Peru,1000005.0,UR005,"""Centro Mallqui, Leymebamba, Amazonas""",CMA 480/LC1-109.2,Leymebamba,Chachapoyas,True,UR005,,G-KH0241
+KH0242,"Centro Mallqui, Museo Leymebamba","CMA.625/
+LC1-254",Peru,1000025.0,UR006,"""Centro Mallqui, Leymebamba, Amazonas""",CMA.625/LC1-254,Leymebamba,Chachapoyas,True,UR006,,G-KH0242
+KH0243,"Centro Mallqui, Museo Leymebamba","CMA 480/
+LC1-109.4",Peru,1000006.0,UR007,"""Centro Mallqui, Leymebamba, Amazonas""",CMA 480/LC1-109.4,Leymebamba,Chachapoyas,True,UR007,,G-KH0243
+KH0244,"Centro Mallqui, Museo Leymebamba","CMA-480/
+LC1-109.5",Peru,1000001.0,UR008,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-480/LC1-109.5,Leymebamba,Chachapoyas,True,UR008,,G-KH0244
+KH0245,"Centro Mallqui, Museo Leymebamba","CMA 850/
+LC1-479",Peru,1000019.0,UR009,"""Centro Mallqui, Leymebamba, Amazonas""",CMA 850/LC1-479,Leymebamba,Chachapoyas,True,UR009,,G-KH0245
+KH0246,"Centro Mallqui, Museo Leymebamba","CMA-480/
+LC1-109.1",Peru,1000004.0,UR010,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-480/LC1-109.1,Leymebamba,Chachapoyas,True,UR010,,G-KH0246
+KH0247,"Centro Mallqui, Museo Leymebamba","CMA-628/
+LC1-257A",Peru,1000007.0,UR011,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-628/LC1-257A,Leymebamba,Chachapoyas,True,UR011,,G-KH0247
+KH0248,"Centro Mallqui, Museo Leymebamba","CMA-628/
+LC1-257C",Peru,1000009.0,UR012,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-628/LC1-257C,Leymebamba,Chachapoyas,True,UR012,,G-KH0248
+KH0249,"Centro Mallqui, Museo Leymebamba","CMA-628/
+LC1-257D",Peru,1000008.0,UR013,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-628/LC1-257D,Leymebamba,Chachapoyas,True,UR013,,G-KH0249
+KH0250,"Centro Mallqui, Museo Leymebamba","CMA-628/
+LC1-257E",Peru,1000011.0,UR014,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-628/LC1-257E,Leymebamba,Chachapoyas,True,UR014,,G-KH0250
+KH0251,"Centro Mallqui, Museo Leymebamba","CMA-628/
+LC1-257F",Peru,1000010.0,UR015,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-628/LC1-257F,Leymebamba,Chachapoyas,True,UR015,,G-KH0251
+KH0252,"Centro Mallqui, Museo Leymebamba","CMA-373/
+LC2-002",Peru,1000018.0,UR016,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-373/LC2-002,Leymebamba,Chachapoyas,True,UR016,,G-KH0252
+KH0253,"Centro Mallqui, Museo Leymebamba","CMA 480/
+LC1-109A",Peru,1000021.0,UR017,"""Centro Mallqui, Leymebamba, Amazonas""",CMA 480/LC1-109A,Leymebamba,Chachapoyas,True,UR017,,G-KH0253
+KH0254,"Centro Mallqui, Museo Leymebamba","CMA-480/
+LC1-109B",Peru,1000003.0,UR018,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-480/LC1-109B,Leymebamba,Chachapoyas,True,UR018,,G-KH0254
+KH0255,"Centro Mallqui, Museo Leymebamba","CMA-480/
+LC1-109.3",Peru,1000000.0,UR019,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-480/LC1-109.3,Leymebamba,Chachapoyas,True,UR019,,G-KH0255
+KH0256,"Centro Mallqui, Museo Leymebamba","CMA-480/
+LC1-109.6",Peru,1000002.0,UR020,"""Centro Mallqui, Leymebamba, Amazonas""",CMA-480/LC1-109.6,Leymebamba,Chachapoyas,True,UR020,,G-KH0256
+KH0257,"Centro Mallqui, Museo Leymebamba",INC-498,Peru,1000022.0,UR021,"""Centro Mallqui, Leymebamba, Amazonas""",INC-498,Leymebamba,Chachapoyas,True,UR021,,G-KH0257
+KH0258,"Centro Mallqui, Museo Leymebamba",INC-109,Peru,1000045.0,UR022,"""Centro Mallqui, Leymebamba, Amazonas""",INC-109,Leymebamba,Chachapoyas,True,UR022,,G-KH0258
+KH0259,Museum Fünf Kontinente,n/a (F),Germany,1000307.0,UR023,"""Museum Fur Volkerkunde, Munich, W. Germany""",s/n F,Atarco,Nazca,True,UR023,,G-KH0259
+KH0260,Museum Fünf Kontinente,n/a (E),Germany,1000306.0,UR024,"""Museum Fur Volkerkunde, Munich, W. Germany""",s/n E,Atarco,Nazca,True,UR024,,G-KH0260
+KH0261,Museum Fünf Kontinente,G.3320,Germany,1000335.0,UR026,"""Museum Fur Volkerkunde, Munich, W. Germany""",G.3320,unknown,,True,UR026,,G-KH0261
+KH0262,Museum Fünf Kontinente,n/a (B),Germany,1000303.0,UR027,"""Museum Fur Volkerkunde, Munich, W. Germany""",s/n B,Atarco,Nazca,True,UR027,,G-KH0262
+KH0263,Museum Fünf Kontinente,n/a (C),Germany,1000304.0,UR028,"""Museum Fur Volkerkunde, Munich, W. Germany""",s/n C,Atarco,Nazca,True,UR028,,G-KH0263
+KH0264,Museum Fünf Kontinente,n/a (D),Germany,1000305.0,UR029,"""Museum Fur Volkerkunde, Munich, W. Germany""",TM 4/5446,Atarco,Nazca,True,UR029,,G-KH0264
+KH0265,Phoebe Hearst Museum of Anthropology,TM 4/5446,USA,1000330.0,UR032,Phoebe Hearst Museum of Anthropology,TM 4/5446,,,True,UR032,,G-KH0265
+KH0266,Phoebe Hearst Museum of Anthropology,TM 4/5446,USA,1000276.0,UR033,Phoebe Hearst Museum of Anthropology,7X 4/5446,,,True,UR033,,G-KH0266
+KH0267,Museo de la Nación,T5730 / 26865,Peru,1000380.0,UR034,"""Museo de la Nacion, Lima, Peru""",T5730 / 26865,,,True,UR034,,G-KH0267
+KH0268,Museo Chileno de Arte Precolombino,CMBE 901/PE-16,Chile,1000318.0,UR036/UR133,Museo Chileno de Arte Precolombino,CMBE 0901,"""Playa Miller #6, Arica, Chile""",,True,UR036;UR133,,G-KH0268
+KH0269,Museo Amano,R4248,Peru,1000331.0,UR037,"""Museo Amano, Lima, Peru""",R4248,,,True,UR037,,G-KH0269
+KH0270,Museo Amano,,Peru,1000277.0,UR038,"""Museo Amano, Lima, Peru""",,,,True,UR038,,G-KH0270
+KH0271,Universidad de San Martín de Porres,,Peru,1000374.0,UR039,Universidad de San Martin de Porres,,Huari,,True,UR039,,G-KH0271
+KH0272,Peabody Museum of Archaeology and Ethnology,32.30.30/54,USA,1000098.0,UR040,"""Peabody Museum, Harvard University""",32.30.30/54,Nazca,,True,UR040,,G-KH0272
+KH0273,Peabody Museum of Archaeology and Ethnology,32.30.30/55,USA,1000099.0,UR041,"""Peabody Museum, Harvard University""",32.30.30/53(A),,,True,UR041,,G-KH0273
+KH0274,Peabody Museum of Archaeology and Ethnology,32.30.30/53(A),USA,1000100.0,UR042,"""Peabody Museum, Harvard University""",32.30.30/53a,,,True,UR042,,G-KH0274
+KH0275,Museo Larco,1,Peru,1000332.0,UR045,Museo Larco,#1,,,True,UR045,,G-KH0275
+KH0276,Museo Larco,2,Peru,1000241.0,UR046,Museo Larco,#2,"""Pueblo Libre, Lima, Peru""",,True,UR046,,G-KH0276
+KH0277,Museo Larco,3,Peru,1000240.0,UR047,Museo Larco,#3,"""Pueblo Libre, Lima, Peru""",,True,UR047,,G-KH0277
+KH0278,Museo Larco,4,Peru,1000239.0,UR048,Museo Larco,#4,"""Pueblo Libre, Lima, Peru""",,True,UR048,,G-KH0278
+KH0279,Museo Larco,5,Peru,1000238.0,UR049,Museo Larco,#5,,,True,UR049,,G-KH0279
+KH0280,Ana Maria Soldi,,Peru,1000363.0,UR050,Private Collection: Anna Maria Soldi,s/n,,,True,UR050,,G-KH0280
+KH0281,Banco Central de Reserva del Perú,ATE 3567,Peru,1000375.0,UR051,Banco Central de la Reserva del Peru,ATE3567,,,True,UR051,,G-KH0281
+KH0282,Banco Central de Reserva del Perú,25868,Peru,1000385.0,UR052,Banco Central de la Reserva,25868,,,True,UR052,,G-KH0282
+KH0283,Banco Central de Reserva del Perú,ATE 3517,Peru,1000265.0,UR053A,Banco Central de la Reserva,ATE 3517,,,True,UR053A,,G-KH0283
+KH0284,Banco Central de Reserva del Perú,ATE 3517,Peru,1000266.0,UR053B,Banco Central de la Reserva,ATE 3517,,,True,UR053B,,G-KH0283
+KH0285,Banco Central de Reserva del Perú,ATE 3517,Peru,1000267.0,UR053C,Banco Central de la Reserva,ATE 3517,,,True,UR053C,,G-KH0283
+KH0286,Banco Central de Reserva del Perú,ATE 3517,Peru,1000268.0,UR053D,Banco Central de la Reserva,ATE 3517,,,True,UR053D,,G-KH0283
+KH0287,Banco Central de Reserva del Perú,ATE 3517,Peru,1000269.0,UR053E,Banco Central de la Reserva,ATE 3517,,,True,UR053E,,G-KH0283
+KH0288,Ana Maria Soldi,,Peru,1000383.0,UR054,Private Collection: Anna Maria Soldi,,,,True,UR054,,G-KH0288
+KH0289,Museo Oro del Perú y Armas del Mundo,4117-789-1014 203/INC-88,Peru,1000376.0,UR055,"""Museo Oro, Fundaci195179n Miguel Mujica Gallo""",4117-789-1014 203/INC-88,,,True,UR055,,G-KH0289
+KH0290,Rijksmuseum voor Volkenkunde,527412,Netherlands,1000295.0,UR056A,"""Rijksmuseum fur Volkerkunde, Leiden, Holland""",3344-1,,,True,UR056A,,G-KH0290
+KH0291,Rijksmuseum voor Volkenkunde,527412,Netherlands,1000296.0,UR056B,"""Rijksmuseum fur Volkerkunde, Leiden, Holland""",3344-1,,,True,UR056B,,G-KH0290
+KH0292,Rijksmuseum voor Volkenkunde,527412,Netherlands,1000297.0,UR056C,"""Rijksmuseum fur Volkerkunde, Leiden, Holland""",3344-1,,,True,UR056C,,G-KH0290
+KH0293,Museum Fünf Kontinente,n/a (G),Germany,1000309.0,UR057,"""Museum Fur Volkerkunde, Munich, W. Germany""",s/n G,Atarco,Nazca,True,UR057,,G-KH0293
+KH0294,Museo Arqueológico San Miguel de Azapa,23284 (A),Chile,1000298.0,UR058A,"""Museo Arqueologico San Miguel de Azapa (MASMA), Arica, Chile""",23284 (A),"""Playa Miller #6, Arica, Chile""",,True,UR058A,,G-KH0294
+KH0295,Museo Arqueológico San Miguel de Azapa,23284 (B),Chile,1000299.0,UR058B,"""Museo Arqueologico San Miguel de Azapa (MASMA), Arica, Chile""",23284 (B),,,True,UR058B,,G-KH0295
+KH0296,Lowe Art Museum,91-0361,USA,1000390.0,UR059,"""Lowe Art Museum, University of Miami""",91-0361,,,True,UR059,,G-KH0296
+KH0297,Museo de Sitio Arturo Jiménez Borja – Puruchuco,1 Tex 641 Rt 639,Peru,1000264.0,UR060,Puruchuco Museum,1 Tex 641 Rt 639,Huaquerones,Puruchuco,True,UR060,,G-KH0297
+KH0298,Museo de Sitio Arturo Jiménez Borja – Puruchuco,1c Tex 641 Rt 639,Peru,1000246.0,UR061,Puruchuco Museum,1c Tex 641 Rt 639,Huaquerones,Puruchuco,True,UR061,,G-KH0298
+KH0299,Museo de Sitio Arturo Jiménez Borja – Puruchuco,20,Peru,1000243.0,UR062,Puruchuco Museum,20,Huaquerones,Puruchuco,True,UR062,,G-KH0299
+KH0300,Museo de Sitio Arturo Jiménez Borja – Puruchuco,,Peru,1000259.0,UR063,Puruchuco Museum,s/n,,Puruchuco,True,UR063,,G-KH0300
+KH0301,Museo de Sitio Arturo Jiménez Borja – Puruchuco,3 Tex 641 Rt 639,Peru,1000263.0,UR064,Puruchuco Museum,#3 Tex 641 Rt 639,Huaquerones,Puruchuco,True,UR064,,G-KH0301
+KH0302,Museo de Sitio Arturo Jiménez Borja – Puruchuco,3c Tex 639 Rt 637,Peru,1000242.0,UR065,Puruchuco Museum,3c Tex 639 Rt 637,Huaquerones,Puruchuco,True,UR065,,G-KH0302
+KH0303,Museo de Sitio Arturo Jiménez Borja – Puruchuco,4a,Peru,1000261.0,UR066,Puruchuco Museum,4a,Huaquerones,Puruchuco,True,UR066,,G-KH0303
+KH0304,Museo de Sitio Arturo Jiménez Borja – Puruchuco,,Peru,1000260.0,UR067,,s/n,Huaquerones,Puruchuco,True,UR067,,G-KH0303
+KH0305,Museo de Sitio Arturo Jiménez Borja – Puruchuco,2,Peru,1000262.0,UR068,Puruchuco Museum,2,,Puruchuco,True,UR068,,G-KH0305
+KH0306,Museo de Sitio Arturo Jiménez Borja – Puruchuco,,Peru,1000245.0,UR069,Puruchuco Museum,s/n,Huaquerones,Puruchuco,True,UR069,,G-KH0306
+KH0307,Museo de Sitio Arturo Jiménez Borja – Puruchuco,6 Tex 641 Rt 639,Peru,1000247.0,UR070,Puruchuco Museum,6 Tex 641 Rt 639,Huaquerones,Puruchuco,True,UR070,,G-KH0307
+KH0308,Museo de Sitio Arturo Jiménez Borja – Puruchuco,7 Tex 641 Rt 639,Peru,1000248.0,UR071,Puruchuco Museum,7 Tex 641 Rt 639,Huaquerones,Puruchuco,True,UR071,,G-KH0308
+KH0309,Museo de Sitio Arturo Jiménez Borja – Puruchuco,18 Tex 641 Rt 639,Peru,1000249.0,UR072,Puruchuco Museum,18 Tex 641 Rt 639,Huaquerones,Puruchuco,True,UR072,,G-KH0309
+KH0310,Museo de Sitio Arturo Jiménez Borja – Puruchuco,Tex 0637 Rt 0635/28,Peru,1000250.0,UR073,Puruchuco Museum,Tex 0637 Rt 0635/28,,Puruchuco,True,UR073,,G-KH0310
+KH0311,Museo de Sitio Arturo Jiménez Borja – Puruchuco,10 Tex 641 Rt 639,Peru,1000251.0,UR074,Puruchuco Museum,10 Tex 641 Rt 639,Huaquerones,Puruchuco,True,UR074,,G-KH0311
+KH0312,Museo de Sitio Arturo Jiménez Borja – Puruchuco,19,Peru,1000252.0,UR075,Puruchuco Museum,19,Huaquerones,Puruchuco,True,UR075,,G-KH0312
+KH0313,Museo de Sitio Arturo Jiménez Borja – Puruchuco,21,Peru,1000253.0,UR076,Puruchuco Museum,21,Huaquerones,Puruchuco,True,UR076,,G-KH0313
+KH0314,Museo de Sitio Arturo Jiménez Borja – Puruchuco,4c,Peru,1000244.0,UR077,Puruchuco Museum,4c,,Puruchuco,True,UR077,,G-KH0314
+KH0315,Museo de Sitio Arturo Jiménez Borja – Puruchuco,25,Peru,1000254.0,UR078,Puruchuco Museum,25,Huaquerones,Puruchuco,True,UR078,,G-KH0315
+KH0316,Museo de Sitio Arturo Jiménez Borja – Puruchuco,22,Peru,1000255.0,UR079,Puruchuco Museum,22,Huaquerones,Puruchuco,True,UR079,,G-KH0316
+KH0317,Museo de Sitio Arturo Jiménez Borja – Puruchuco,23,Peru,1000256.0,UR080,Puruchuco Museum,23,Huaquerones,Puruchuco,True,UR080,,G-KH0317
+KH0318,Museo de Sitio Arturo Jiménez Borja – Puruchuco,26,Peru,1000257.0,UR081,Puruchuco Museum,26,Huaquerones,Puruchuco,True,UR081,,G-KH0318
+KH0319,Museo de Sitio Arturo Jiménez Borja – Puruchuco,17,Peru,1000258.0,UR082,Puruchuco Museum,17,Huaquerones,Puruchuco,True,UR082,,G-KH0319
+KH0320,Museo Chileno de Arte Precolombino,CMBE 0904,Chile,1000319.0,UR084,Museo Chileno de Arte Precolombino,CMBE 0904,"""Playa Miller #6, Arica, Chile""",,True,UR084,,G-KH0320
+KH0321,Biblioteca Museo Temple Radicati,,Peru,1000280.0,UR085,Museo Temple Radicati,,,,True,UR085,,G-KH0321
+KH0322,Biblioteca Museo Temple Radicati,12,Peru,1000336.0,UR086,Museo Temple Radicati,12,,,True,UR086,,G-KH0322
+KH0323,Biblioteca Museo Temple Radicati,6,Peru,1000273.0,UR087,Museo Temple Radicati,6,Santa,,True,UR087,,G-KH0323
+KH0324,Biblioteca Museo Temple Radicati,1,Peru,1000270.0,UR088,Museo Temple Radicati,1,Santa,,True,UR088,,G-KH0324
+KH0325,Biblioteca Museo Temple Radicati,5,Peru,1000275.0,UR089,Museo Temple Radicati,5,Santa,,True,UR089,,G-KH0325
+KH0326,Biblioteca Museo Temple Radicati,3,Peru,1000274.0,UR090,Museo Temple Radicati,3,Santa,,True,UR090,,G-KH0326
+KH0327,Biblioteca Museo Temple Radicati,2,Peru,1000271.0,UR091,Museo Temple Radicati,2,Santa,,True,UR091,,G-KH0327
+KH0328,Biblioteca Museo Temple Radicati,4,Peru,1000272.0,UR092,Museo Temple Radicati,4,Santa,,True,UR092,,G-KH0328
+KH0329,Biblioteca Museo Temple Radicati,,Peru,1000321.0,UR093,Museo Temple Radicati,s/n, , ,True,UR093,,G-KH0329
+KH0330,Biblioteca Museo Temple Radicati,13,Peru,1000337.0,UR094,Museo Temple Radicati,13,unknown,,True,UR094,,G-KH0330
+KH0331,Biblioteca Museo Temple Radicati,21,Peru,1000338.0,UR095,Museo Temple Radicati,21,unknown,,True,UR095,,G-KH0331
+KH0332,Biblioteca Museo Temple Radicati,11,Peru,1000339.0,UR096,Museo Temple Radicati,11,unknown,,True,UR096,,G-KH0332
+KH0333,Biblioteca Museo Temple Radicati,9,Peru,1000340.0,UR097,Museo Temple Radicati,9,unknown,,True,UR097,,G-KH0333
+KH0334,Biblioteca Museo Temple Radicati,16,Peru,1000347.0,UR098,Museo Temple Radicati,16,,,True,UR098,,G-KH0334
+KH0335,Biblioteca Museo Temple Radicati,17,Peru,1000348.0,UR099,Museo Temple Radicati,17,,,True,UR099,,G-KH0335
+KH0336,Biblioteca Museo Temple Radicati,18,Peru,1000349.0,UR100,Museo Temple Radicati,18,,,True,UR100,,G-KH0336
+KH0337,Biblioteca Museo Temple Radicati,19,Peru,1000350.0,UR101,Museo Temple Radicati,19,,,True,UR101,,G-KH0337
+KH0338,Biblioteca Museo Temple Radicati,7,Peru,1000351.0,UR102,Museo Temple Radicati,7,,,True,UR102,,G-KH0338
+KH0339,Biblioteca Museo Temple Radicati,8,Peru,1000352.0,UR103,Museo Temple Radicati,8,,,True,UR103,,G-KH0339
+KH0340,Biblioteca Museo Temple Radicati,9a,Peru,1000353.0,UR104,Museo Temple Radicati,9A,,,True,UR104,,G-KH0340
+KH0341,Biblioteca Museo Temple Radicati,22,Peru,1000354.0,UR105,Museo Temple Radicati,22,,,True,UR105,,G-KH0341
+KH0342,Biblioteca Museo Temple Radicati,20,Peru,1000355.0,UR106,Museo Temple Radicati,20,,,True,UR106,,G-KH0342
+KH0343,Biblioteca Museo Temple Radicati,15,Peru,1000356.0,UR107,Museo Temple Radicati,15,,,True,UR107,,G-KH0343
+KH0344,Biblioteca Museo Temple Radicati,23,Peru,1000357.0,UR108,Museo Temple Radicati,23,,,True,UR108,,G-KH0344
+KH0345,Biblioteca Museo Temple Radicati,14,Peru,1000358.0,UR109,Museo Temple Radicati,14,,,True,UR109,,G-KH0345
+KH0346,Biblioteca Museo Temple Radicati,,Peru,1000381.0,UR110,Museo Temple Radicati,,,,True,UR110,,G-KH0346
+KH0347,Biblioteca Museo Temple Radicati,10,Peru,1000359.0,UR111,Museo Temple Radicati,10,,,True,UR111,,G-KH0347
+KH0348,Biblioteca Museo Temple Radicati,,Peru,1000382.0,UR112,Museo Temple Radicati,1924.18.0001,,,True,UR112,,G-KH0348
+KH0349,Världskulturmuseet,1924.18.0001,Sweden,1000292.0,UR113,"""Museum for World Culture, Goteborg""",1931.37.0001,Nazca,,True,UR113,,G-KH0349
+KH0350,Världskulturmuseet,1931.37.0001,Sweden,1000287.0,UR114,"""Museum for World Culture, Goteborg""",37.31.1,Nazca,,True,UR114,,G-KH0350
+KH0351,Världskulturmuseet,16.9.57,Sweden,1000327.0,UR115/UR126,"""Museum of Worldculture, Goteborg, Sweden""",16.9.57,Pachacamac,,True,UR115;UR126,,G-KH0351
+KH0352,Världskulturmuseet,1929.26.0157a-b,Sweden,1000285.0,UR116A,"""Museum for World Culture, Goteborg""",1929.26.0157a-b,,,True,UR116A,,G-KH0352
+KH0353,Världskulturmuseet,1929.26.0157a-b,Sweden,1000283.0,UR116B,"""Museum for World Culture, Goteborg""",1929.26.0157a-b,,,True,UR116B,,G-KH0352
+KH0354,Världskulturmuseet,32.7.3,Sweden,1000288.0,UR117A,"""Museum for World Culture, Goteborg""",32.7.3,Paracas,,True,UR117A,,G-KH0354
+KH0355,Världskulturmuseet,32.7.3,Sweden,1000289.0,UR117B,"""Museum for World Culture, Goteborg""",32.7.3,Paracas,,True,UR117B,,G-KH0354
+KH0356,Världskulturmuseet,32.7.3,Sweden,1000290.0,UR117C,"""Museum for World Culture, Goteborg""",32.7.3,Paracas,,True,UR117C,,G-KH0354
+KH0357,Världskulturmuseet,32.7.3,Sweden,1000291.0,UR117D,"""Museum for World Culture, Goteborg""",32.7.3,Paracas,,True,UR117D,,G-KH0354
+KH0358,Världskulturmuseet,31.37.2.b,Sweden,1000293.0,UR118,"""Museum for World Culture, Goteborg""",31.37.2.b,Paracas,,True,UR118,,G-KH0358
+KH0359,Världskulturmuseet,31.37.2.a,Sweden,1000329.0,UR119,"""Museum for World Culture, Goteborg""",31.37.2.a,Paracas,,True,UR119,,G-KH0359
+KH0360,Världskulturmuseet,1938.45.0229,Sweden,1000320.0,UR120,"""Museum of Worldculture, Goteborg, Sweden""",1938.45.0229,Huacho,,True,UR120,,G-KH0360
+KH0361,Världskulturmuseet,1938.45.231,Sweden,1000322.0,UR121,"""Museum of Worldculture, Goteborg, Sweden""",1938.45.231,Nazca,,True,UR121,,G-KH0361
+KH0362,Världskulturmuseet,1938.45.0228,Sweden,1000323.0,UR122,"""Museum of Worldculture, Goteborg, Sweden""",1938.45.0228,Nazca,,True,UR122,,G-KH0362
+KH0363,Världskulturmuseet,16.9.56,Sweden,1000324.0,UR123,"""Museum of Worldculture, Goteborg, Sweden""",16.9.56,Pachacamac,,True,UR123,,G-KH0363
+KH0364,Världskulturmuseet,16.9.58,Sweden,1000325.0,UR124,"""Museum of Worldculture, Goteborg, Sweden""",16.9.58,Pachacamac,,True,UR124,,G-KH0364
+KH0365,Världskulturmuseet,31.37.2.c,Sweden,1000326.0,UR125,"""Museum of Worldculture, Goteborg, Sweden""",31.37.2.c,Paracas,,True,UR125,,G-KH0365
+KH0366,Världskulturmuseet,30.2.16.a,Sweden,1000328.0,UR127,"""Museum of Worldculture, Goteborg, Sweden""",30.2.16.a,Unknown,,True,UR127,,G-KH0366
+KH0367,Världskulturmuseet,30.2.16.c,Sweden,1000377.0,UR128,"""Museum of Worldculture, Goteborg, Sweden""",30.2.16c,unknown,,True,UR128,,G-KH0367
+KH0368,Världskulturmuseet,30.2.16.e,Sweden,1000378.0,UR129,"""Museum of Worldculture, Goteborg, Sweden""",30.2.16e,unknown,,True,UR129,,G-KH0368
+KH0369,Museo Chileno de Arte Precolombino,916,Chile,1000316.0,UR130,Museo Chileno de Arte Precolombino,916,"""Playa Miller #6, Arica, Chile""",,True,UR130,,G-KH0369
+KH0370,Museo Chileno de Arte Precolombino,21163,Chile,1000300.0,UR131A,Museo Chileno de Arte Precolombino,21163,Lluta Valley,,True,UR131A,,G-KH0370
+KH0371,Museo Chileno de Arte Precolombino,21163,Chile,1000301.0,UR131B,Museo Chileno de Arte Precolombino,21163,Lluta Valley,,True,UR131B,,G-KH0370
+KH0372,Museo Chileno de Arte Precolombino,21163,Chile,1000302.0,UR131C,Museo Chileno de Arte Precolombino,21163,Lluta Valley,,True,UR131C,,G-KH0370
+KH0373,Museo Chileno de Arte Precolombino,CMBE 0910,Chile,1000317.0,UR132,Museo Chileno de Arte Precolombino,CMBE 0910,"""Playa Miller #6, Arica, Chile""",,True,UR132,,G-KH0373
+KH0374,Lowe Art Museum,94.0064.04,USA,1000452.0,UR134,"""Lowe Art Museum, University of Miami""",94.0064.04,"""Chancay, Central Coast""",,True,UR134,,G-KH0374
+KH0375,Lowe Art Museum,94.0064.36,USA,1000389.0,UR135,"""Lowe Art Museum, University of Miami""",94.0064.36,"""Chancay, Central Coast""",,True,UR135,,G-KH0375
+KH0376,Lowe Art Museum,94.0064.173,USA,1000388.0,UR136,"""Lowe Art Museum, University of Miami""",94.0064.173,"""Chancay, Central Coast""",,True,UR136,,G-KH0376
+KH0377,Lowe Art Museum,57.172.002,USA,1000387.0,UR137,"""Lowe Art Museum, University of Miami""",57.172.002,"""Chancay, Central Coast""",,True,UR137,,G-KH0377
+KH0378,Lowe Art Museum,61.071.000,USA,1000386.0,UR138,"""Lowe Art Museum, University of Miami""",61.071.000,Cuzco,,True,UR138,,G-KH0378
+KH0379,Museo Regional de Ica Adolfo Bermúdez Jenkins,00250-02,Peru,1000407.0,UR139,Museo Regional de Ica,00250-02,Valle de Ica Hacienda Callango Ocucaje,,True,UR139,,G-KH0379
+KH0380,Museo Regional de Ica Adolfo Bermúdez Jenkins,00270-02,Peru,1000408.0,UR140,Museo Regional de Ica,00270-02,Valle de Ica Hacienda Callango Ocucaje,,True,UR140,,G-KH0380
+KH0381,Museo Regional de Ica Adolfo Bermúdez Jenkins,00254-02,Peru,1000409.0,UR141,Museo Regional de Ica,00254-02,,,True,UR141,,G-KH0381
+KH0382,Museo Regional de Ica Adolfo Bermúdez Jenkins,0249-02,Peru,1000406.0,UR142,Museo Regional de Ica,0249-02,Valle de Ica Hacienda Callango Ocucaje,,True,UR142,,G-KH0382
+KH0383,Museo Regional de Ica Adolfo Bermúdez Jenkins,00252-02,Peru,1000401.0,UR143,Museo Regional de Ica,00252-02,Valle de Ica Hacienda Callango Ocucaje,,True,UR143,,G-KH0383
+KH0384,Museo Regional de Ica Adolfo Bermúdez Jenkins,820,Peru,1000419.0,UR144,On loan to Ica Museum,820,Valle de Pisco,,True,UR144,,G-KH0384
+KH0385,Museo Regional de Ica Adolfo Bermúdez Jenkins,04591-02,Peru,1000415.0,UR145,Museo Regional de Ica,404591-02,Acari,,True,UR145,,G-KH0385
+KH0386,Museo Regional de Ica Adolfo Bermúdez Jenkins,04393-02,Peru,1000418.0,UR146,Museo Regional de Ica,04393-02,Donation from the collection Belli,,True,UR146,,G-KH0386
+KH0387,Museo Regional de Ica Adolfo Bermúdez Jenkins,04395-02,Peru,1000400.0,UR147,Museo Regional de Ica,04395-02,unknown,,True,UR147,,G-KH0387
+KH0388,Museo Regional de Ica Adolfo Bermúdez Jenkins,03996-02,Peru,1000414.0,UR148,Museo Regional de Ica,03996-02,,,True,UR148,,G-KH0388
+KH0389,Museo Regional de Ica Adolfo Bermúdez Jenkins,00253-02,Peru,1000413.0,UR149,Museo Regional de Ica,00253-02,Hacienda Ullujalla y Callengo,,True,UR149,,G-KH0389
+KH0390,Museo Regional de Ica Adolfo Bermúdez Jenkins,04392-02,Peru,1000405.0,UR150,Museo Regional de Ica,04392-02,unknown,,True,UR150,,G-KH0390
+KH0391,Museo Regional de Ica Adolfo Bermúdez Jenkins,01530-02,Peru,1000404.0,UR151,Museo Regional de Ica,01530-02,Valle de Ica Hacienda Callango Ocucaje,,True,UR151,,G-KH0391
+KH0392,Museo Regional de Ica Adolfo Bermúdez Jenkins,04075-02,Peru,1000402.0,UR152,Museo Regional de Ica,04075-02,Hacienda Ullujalla y Callengo,,True,UR152,,G-KH0392
+KH0393,Museo Regional de Ica Adolfo Bermúdez Jenkins,04396-02,Peru,1000403.0,UR153,Museo Regional de Ica,04396-02,unknown,,True,UR153,,G-KH0393
+KH0394,Museo Regional de Ica Adolfo Bermúdez Jenkins,03987-02,Peru,1000399.0,UR154,Museo Regional de Ica,03987-02,Valle de Ica Hacienda Callango Ocucaje,,True,UR154,,G-KH0394
+KH0395,Museo Regional de Ica Adolfo Bermúdez Jenkins,03989-02,Peru,1000398.0,UR155,Museo Regional de Ica,03989-02,Valle de Ica Hacienda Callango Ocucaje,,True,UR155,,G-KH0395
+KH0396,Museo Regional de Ica Adolfo Bermúdez Jenkins,TC-0142-02,Peru,1000410.0,UR156,Museo Regional de Ica,TC-0142-02,Tambo Colorado,,True,UR156,,G-KH0396
+KH0397,Museo Regional de Ica Adolfo Bermúdez Jenkins,TC-0143-02,Peru,1000416.0,UR157,Museo Regional de Ica,TC-0143-02,Tambo Colorado,,True,UR157,,G-KH0397
+KH0398,Museo Regional de Ica Adolfo Bermúdez Jenkins,TC-0141-02,Peru,1000417.0,UR158,Museo Regional de Ica,TC-0141-02,Tambo Colorado,,True,UR158,,G-KH0398
+KH0399,Museo Regional de Ica Adolfo Bermúdez Jenkins,TC-0024-02,Peru,1000411.0,UR159,Museo Regional de Ica,TC-0024-02,Tambo Colorado,,True,UR159,,G-KH0399
+KH0400,Museo Regional de Ica Adolfo Bermúdez Jenkins,04394-02,Peru,1000397.0,UR160,Museo Regional de Ica,04394-02,,,True,UR160,,G-KH0400
+KH0401,Museo Regional de Ica Adolfo Bermúdez Jenkins,03991-02,Peru,1000395.0,UR161,Valle de Ica Hacienda Callango Ocucaje,03991-02,,,True,UR161,,G-KH0401
+KH0402,Museo Regional de Ica Adolfo Bermúdez Jenkins,03992-02,Peru,1000393.0,UR162,Museo Regional de Ica,03992-02,Valle de Ica Hacienda Callango Ocucaje,,True,UR162,,G-KH0402
+KH0403,Museo Regional de Ica Adolfo Bermúdez Jenkins,03994-02,Peru,1000412.0,UR164,Museo Regional de Ica,03994-02,,,True,UR164,,G-KH0403
+KH0404,Museo de Sitio Arturo Jiménez Borja – Puruchuco,0638/SP642 Tex 0640 (R.M.RT0638),Peru,1000472.0,UR165,Puruchuco Museum,0638/SP642 Tex 0640 (R.M.RT0638),La Molina,Puruchuco,True,UR165,,G-KH0404
+KH0405,American Museum of Natural History,B/8713,USA,1000496.0,UR166,"""American Museum of Natural History, NY""","41.0/1550, B/3453A","""Huando, Chancay, Peru (Gaffron Collection)""",,True,UR166,,G-KH0405
+KH0406,American Museum of Natural History,"41.0/1550, B/3453A",USA,1000474.0,UR167,"""American Museum of Natural History, NY""",41.0/1550,Ica,,True,UR167,,G-KH0406
+KH0407,American Museum of Natural History,41.0/1551,USA,1000475.0,UR168,"""American Museum of Natural History, NY""",41.0/1551,Ica,,True,UR168,,G-KH0407
+KH0408,American Museum of Natural History,41.2/6995,USA,1000477.0,UR169,"""American Museum of Natural History, NY""",41.2/6995,"""Ica Valley, near Callango""",,True,UR169,,G-KH0408
+KH0409,American Museum of Natural History,41.2/6715,USA,1000492.0,UR170,"""American Museum of Natural History, NY""",41.2/6715,,,True,UR170,,G-KH0409
+KH0410,American Museum of Natural History,41.2/6712,USA,1000478.0,UR171,"""American Museum of Natural History, NY""",41.2/6712,unknown,,True,UR171,,G-KH0410
+KH0411,American Museum of Natural History,41.2/6711,USA,1000479.0,UR172,"""American Museum of Natural History, NY""",41.2/6711,,,True,UR172,,G-KH0411
+KH0412,American Museum of Natural History,41.2/6699,USA,1000481.0,UR173,"""American Museum of Natural History, NY""",41.2/6699,,,True,UR173,,G-KH0412
+KH0413,American Museum of Natural History,41.2/6709,USA,1000480.0,UR174,"""American Museum of Natural History, NY""",41.2/6709,,,True,UR174,,G-KH0413
+KH0414,American Museum of Natural History,41.2/6710,USA,1000483.0,UR175,"""American Museum of Natural History, NY""",41.2/6710,,,True,UR175,,G-KH0414
+KH0415,American Museum of Natural History,B/8704,USA,1000494.0,UR177,"""American Museum of Natural History, NY""",B/8704,Chuquitanta,,True,UR177,,G-KH0415
+KH0416,American Museum of Natural History,B/3453A,USA,1000485.0,UR178,"""American Museum of Natural History, NY""",B/3453A,Cajamarquilla,,True,UR178,,G-KH0416
+KH0417,American Museum of Natural History,B/3453B,USA,1000489.0,UR179,"""American Museum of Natural History, NY""",B/3453B,Cajamarquilla,,True,UR179,,G-KH0417
+KH0418,American Museum of Natural History,B/3453C,USA,1000486.0,UR180,"""American Museum of Natural History, NY""",B/3453C,Cajamarquilla,,True,UR180,,G-KH0418
+KH0419,American Museum of Natural History,B/3453D,USA,1000491.0,UR181,"""American Museum of Natural History, NY""",B/3453D,Cajamarquilla,,True,UR181,,G-KH0419
+KH0420,American Museum of Natural History,B/8714A,USA,1000482.0,UR182,"""American Museum of Natural History, NY""",B/8714A,Chuquitanta,,True,UR182,,G-KH0420
+KH0421,American Museum of Natural History,B/8709,USA,1000487.0,UR183,"""American Museum of Natural History, NY""",B/8709,"""Chancay, Central Coast""",,True,UR183,,G-KH0421
+KH0422,American Museum of Natural History,41.2/5785,USA,1000488.0,UR184,"""American Museum of Natural History, NY""",41.2/5785,unknown,,True,UR184,,G-KH0422
+KH0423,American Museum of Natural History,B/8711K,USA,1000490.0,UR185,"""American Museum of Natural History, NY""",B/8711K,,,True,UR185,,G-KH0423
+KH0424,American Museum of Natural History,B/8707,USA,1000497.0,UR186,"""American Museum of Natural History, NY""",B/8707,"""Hda. Huando, Chancay""",,True,UR186,,G-KH0424
+KH0425,American Museum of Natural History,41.2/6996A,USA,1000495.0,UR187,"""American Museum of Natural History, NY""",41.2/6996A,"""Ica Valley, near Callango""",,True,UR187,,G-KH0425
+KH0426,Musée du quai Branly - Jacques Chirac,71.1930.19.483,France,1000499.0,UR188,Musee Quai Branly,71.1930.19.483,,,True,UR188,,G-KH0426
+KH0427,Musée du quai Branly - Jacques Chirac,71.1878.3.61,France,1000500.0,Ur189,"""Musee Quai Branly, Paris, France""",71.1878.3.61,,,True,Ur189;UR189,,G-KH0427
+KH0428,Musée du quai Branly - Jacques Chirac,71.1887.9.14,France,1000501.0,UR190,"""Musee Quai Branly, Paris, France""",71.1887.9.14,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",True,UR190,,G-KH0428
+KH0429,Musée du quai Branly - Jacques Chirac,71.1887.9.16,France,1000502.0,UR191,"""Musee Quai Branly, Paris, France""",71.1887.9.16,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",True,UR191,,G-KH0429
+KH0430,Musée du quai Branly - Jacques Chirac,71.1887.9.15,France,1000503.0,UR192,"""Musee Quai Branly, Paris, France""",71.1887.9.15,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",True,UR192,,G-KH0430
+KH0431,Ethnologisches Museum,VA42593,Germany,1000504.0,UR193,"""Ethnologisches Museum, Berlin, Germany""",42593,"""Peru, Fundort: Pachacmac""","""Central Coast, Peru""",True,UR193,,G-KH0431
+KH0432,Ethnologisches Museum,VA47082,Germany,1000505.0,UR194,"""Ethnologisches Museum, Berlin, Germany""",47082,Ica,"""South Coast, Peru""",True,UR194,,G-KH0432
+KH0433,Ethnologisches Museum,VA63040,Germany,1000506.0,UR195,"""Ethnologisches Museum, Berlin, Germany""",63040,Huacho,"""Central Coast, Peru""",True,UR195,,G-KH0433
+KH0434,Ethnologisches Museum,VA42521,Germany,1000507.0,UR196,"""Ethnologisches Museum, Berlin, Germany""",42521,Pachacamac,"""Central Coast, Peru""",True,UR196,,G-KH0434
+KH0435,Ethnologisches Museum,VA42523,Germany,1000508.0,UR197,"""Ethnologisches Museum, Berlin, Germany""",42523,Pachacamac,"""Central Coast, Peru""",True,UR197,,G-KH0435
+KH0436,Ethnologisches Museum,VA63039,Germany,1000509.0,UR198,"""Ethnologisches Museum, Berlin, Germany""",63039,"""Santa Clara, Nazca""","""South Coast, Peru""",True,UR198,,G-KH0436
+KH0437,Ethnologisches Museum,VA42532,Germany,1000510.0,UR199,"""Ethnologisches Museum, Berlin, Germany""",VA42597(A),Pachacamac,"""Central Coast, Peru""",True,UR199,,G-KH0437
+KH0438,Ethnologisches Museum,VA42597(A),Germany,1000511.0,UR200,"""Ethnologisches Museum, Berlin, Germany""",VA42597(B),Pachacamac,"""Central Coast, Peru""",True,UR200,,G-KH0438
+KH0439,Ethnologisches Museum,VA42597(B),Germany,1000512.0,UR201,"""Ethnologisches Museum, Berlin, Germany""",42597 B,Pachacamac,"""Central Coast, Peru""",True,UR201,,G-KH0439
+KH0440,Ethnologisches Museum,VA42543,Germany,1000513.0,UR202,"""Ethnologisches Museum, Berlin, Germany""",42543,Pachacamac,"""Central Coast, Peru""",True,UR202,,G-KH0440
+KH0441,Ethnologisches Museum,VA42583,Germany,1000514.0,UR203,"""Ethnologisches Museum, Berlin, Germany""",VA47114c(A),unknown,unknown,True,UR203,,G-KH0441
+KH0442,Ethnologisches Museum,VA47114c(A),Germany,1000515.0,UR204,"""Ethnologisches Museum, Berlin, Germany""",VA47114c(B),unknown,unknown,True,UR204,,G-KH0442
+KH0443,Ethnologisches Museum,VA47114c(B),Germany,1000516.0,UR205,"""Ethnologisches Museum, Berlin, Germany""",VA47114c(C),unknown,unknown,True,UR205,,G-KH0443
+KH0444,Ethnologisches Museum,VA47114c(C),Germany,1000517.0,UR206,"""Ethnologisches Museum, Berlin, Germany""","""47114 C, c""",unknown,unknown,True,UR206,,G-KH0444
+KH0445,Ethnologisches Museum,VA12179,Germany,1000518.0,UR207,"""Ethnologisches Museum, Berlin, Germany""",12179,unknown,unknown,True,UR207,,G-KH0445
+KH0446,Ethnologisches Museum,VA42549,Germany,1000519.0,UR208,"""Ethnologisches Museum, Berlin, Germany""",42549,Pachacamac,"""Central Coast, Peru""",True,UR208,,G-KH0446
+KH0447,Ethnologisches Museum,VA16144,Germany,1000520.0,UR209,"""Ethnologisches Museum, Berlin, Germany""",VA16141(A),Pisco,"""South Coast, Peru""",True,UR209,,G-KH0447
+KH0448,Ethnologisches Museum,VA16141(A),Germany,1000521.0,UR210,"""Ethnologisches Museum, Berlin, Germany""",VA16141(B),Ica/Pisco,"""South Coast, Peru""",True,UR210,,G-KH0448
+KH0449,Ethnologisches Museum,VA16141(B),Germany,1000522.0,UR211,"""Ethnologisches Museum, Berlin, Germany""",16141 b,Ica/Pisco,"""South Coast, Peru""",True,UR211,,G-KH0449
+KH0450,Ethnologisches Museum,VA42513,Germany,1000523.0,UR212,"""Ethnologisches Museum, Berlin, Germany""",VA42508(A),Pachacamac,"""Central Coast, Peru""",True,UR212,,G-KH0450
+KH0451,Ethnologisches Museum,VA42508(A),Germany,1000524.0,UR213,"""Ethnologisches Museum, Berlin, Germany""",VA42508(B),Pachacamac,"""Central Coast, Peru""",True,UR213,,G-KH0451
+KH0452,Ethnologisches Museum,VA42508(B),Germany,1000525.0,UR214,"""Ethnologisches Museum, Berlin, Germany""",VA42508 b*,Pachacamac,"""Central Coast, Peru""",True,UR214,,G-KH0452
+KH0453,Ethnologisches Museum,VA22574,Germany,1000526.0,UR215,"""Ethnologisches Museum, Berlin, Germany""",22574,unknown,unknown,True,UR215,,G-KH0453
+KH0454,Ethnologisches Museum,VA42586,Germany,1000527.0,UR216,"""Ethnologisches Museum, Berlin, Germany""",42586,Pachacamac,"""Central Coast, Peru""",True,UR216,,G-KH0454
+KH0455,Ethnologisches Museum,VA44864a,Germany,1000528.0,UR217,"""Ethnologisches Museum, Berlin, Germany""",44864 a,Ocucaje,"""South Coast, Peru""",True,UR217,,G-KH0455
+KH0456,Ethnologisches Museum,VA42559,Germany,1000529.0,UR218,"""Ethnologisches Museum, Berlin, Germany""",VA 42559,Pachacamac,"""Central Coast, Peru""",True,UR218,,G-KH0456
+KH0457,Ethnologisches Museum,VA47084,Germany,1000530.0,UR219,"""Ethnologisches Museum, Berlin, Germany""",VA 47084,Ica,"""South Coast, Peru""",True,UR219,,G-KH0457
+KH0458,Ethnologisches Museum,VA47114a,Germany,1000531.0,UR220,"""Ethnologisches Museum, Berlin, Germany""",VA47114b,Ica,"""South Coast, Peru""",True,UR220,,G-KH0458
+KH0459,Ethnologisches Museum,VA47114b,Germany,1000532.0,UR221,"""Ethnologisches Museum, Berlin, Germany""",VA 471146,Ica,"""South Coast, Peru""",True,UR221,,G-KH0459
+KH0460,Ethnologisches Museum,VA47114d,Germany,1000533.0,UR222,"""Ethnologisches Museum, Berlin, Germany""",VA 47114 d,Ica,"""South Coast, Peru""",True,UR222,,G-KH0460
+KH0461,Ethnologisches Museum,VA47077,Germany,1000534.0,UR223,"""Ethnologisches Museum, Berlin, Germany""",VA 47077,Ica,"""South Coast, Peru""",True,UR223,,G-KH0461
+KH0462,Ethnologisches Museum,VA67259,Germany,1000535.0,UR225,"""Ethnologisches Museum, Berlin, Germany""",VA 67259,unknown,unknown,True,UR225,,G-KH0462
+KH0463,Ethnologisches Museum,VA42551,Germany,1000536.0,UR226,"""Ethnologisches Museum, Berlin, Germany""",VA44677a(A),Pachacamac,"""Central Coast, Peru""",True,UR226,,G-KH0463
+KH0464,Ethnologisches Museum,VA44677a(A),Germany,1000537.0,UR227,"""Ethnologisches Museum, Berlin, Germany""",VA44677a(B),Pisco,"""South Coast, Peru""",True,UR227,,G-KH0464
+KH0465,Ethnologisches Museum,VA44677a(B),Germany,1000538.0,UR228,"""Ethnologisches Museum, Berlin, Germany""",VA 44677 a(b),Pisco,"""South Coast, Peru""",True,UR228,,G-KH0465
+KH0466,Ethnologisches Museum,VA47092,Germany,1000539.0,UR229,"""Ethnologisches Museum, Berlin, Germany""",VA 47092,Ica,"""South Coast, Peru""",True,UR229,,G-KH0466
+KH0467,Ethnologisches Museum,VA42576,Germany,1000540.0,UR230,"""Ethnologisches Museum, Berlin, Germany""",VA 42576,Pachacamac,"""Central Coast, Peru""",True,UR230,,G-KH0467
+KH0468,Ethnologisches Museum,VA16135a & VA16135b,Germany,1000541.0,UR231,"""Ethnologisches Museum, Berlin, Germany""",VA63038(A),Ica/Pisco,"""South Coast, Peru""",True,UR231,,G-KH0468
+KH0469,Ethnologisches Museum,VA63038(A),Germany,1000542.0,UR232,"""Ethnologisches Museum, Berlin, Germany""",VA63038(B),Huacho,"""North-Central Coast, Peru""",True,UR232,,G-KH0469
+KH0470,Ethnologisches Museum,VA63038(B),Germany,1000543.0,UR233,"""Ethnologisches Museum, Berlin, Germany""",VA 63038 b,Huacho,"""North-Central Coast, Peru""",True,UR233,,G-KH0470
+KH0471,Ethnologisches Museum,VA66837,Germany,1000544.0,UR234,"""Ethnologisches Museum, Berlin, Germany""",VA 66837,unknown,unknown,True,UR234,,G-KH0471
+KH0472,Ethnologisches Museum,VA66830,Germany,1000545.0,UR235,"""Ethnologisches Museum, Berlin, Germany""",VA 66830,unknown,unknown,True,UR235,,G-KH0472
+KH0473,Ethnologisches Museum,VA66834,Germany,1000551.0,UR237,"""Ethnologisches Museum, Berlin, Germany""",VA 66834,unknown,unknown,True,UR237,,G-KH0473
+KH0474,Ethnologisches Museum,VA47093,Germany,1000552.0,UR238,"""Ethnologisches Museum, Berlin, Germany""",VA 47093,Ica,"""South Coast, Peru""",True,UR238,,G-KH0474
+KH0475,Ethnologisches Museum,VA66841,Germany,1000553.0,UR239,"""Ethnologisches Museum, Berlin, Germany""",VA 66841,unknown,unknown,True,UR239,,G-KH0475
+KH0476,Ethnologisches Museum,VA66839,Germany,1000554.0,UR240,"""Ethnologisches Museum, Berlin, Germany""",VA 66839,unknown,unknown,True,UR240,,G-KH0476
+KH0477,Ethnologisches Museum,VA42594,Germany,1000549.0,UR241,"""Ethnologisches Museum, Berlin, Germany""",VA 42594,Unknown,unknown,True,UR241,,G-KH0477
+KH0478,Ethnologisches Museum,VA47094,Germany,1000547.0,UR242,"""Ethnologisches Museum, Berlin, Germany""",VA42607(A),Ica,"""South Coast, Peru""",True,UR242,,G-KH0478
+KH0479,Ethnologisches Museum,VA42607(A),Germany,1000548.0,UR243,"""Ethnologisches Museum, Berlin, Germany""",VA42607(B),Pachacamac,"""Central Coast, Peru""",True,UR243,,G-KH0479
+KH0480,Ethnologisches Museum,VA42607(B),Germany,1000555.0,UR244,"""Ethnologisches Museum, Berlin, Germany""",VA42607(C),Pachacamac,"""Central Coast, Peru""",True,UR244,,G-KH0480
+KH0481,Ethnologisches Museum,VA42607(C),Germany,1000550.0,UR245,"""Ethnologisches Museum, Berlin, Germany""",VA42607(D),Pachacamac,"""Central Coast, Peru""",True,UR245,,G-KH0481
+KH0482,Ethnologisches Museum,VA42607(D),Germany,1000556.0,UR246,"""Ethnologisches Museum, Berlin, Germany""",VA 42607 d,Pachacamac,"""Central Coast, Peru""",True,UR246,,G-KH0482
+KH0483,Ethnologisches Museum,VA42610,Germany,1000558.0,UR247,"""Ethnologisches Museum, Berlin, Germany""",VA 42610,Pachacamac,"""Central Coast, Peru""",True,UR247,KH0140,G-KH0140
+KH0484,Ethnologisches Museum,VA42608,Germany,1000559.0,UR248,"""Ethnologisches Museum, Berlin, Germany""",VA42578i28,Pachacamac,"""Central Coast, Peru""",True,UR248,,G-KH0484
+KH0485,Ethnologisches Museum,VA42578i,Germany,1000560.0,UR249,"""Ethnologisches Museum, Berlin, Germany""",VA 42578,Pachacamac,"""Central Coast, Peru""",True,UR249,,G-KH0485
+KH0486,Ethnologisches Museum,VA47112,Germany,1000561.0,UR250,"""Ethnologisches Museum, Berlin, Germany""",VA 47112,Ica,"""South Coast, Peru""",True,UR250,,G-KH0486
+KH0487,GRASSI Museum für Völkerkunde,SAM 5555(d),Germany,1000589.0,UR251,"Museum fur Volkerkunde, Leipzig",SAM5555(d),unknown,,True,UR251,,G-KH0487
+KH0488,GRASSI Museum für Völkerkunde,SAM 12402,Germany,1000590.0,UR252,"Museum fur Volkerkunde, Leipzig",SAM 12402,unknown,,True,UR252,,G-KH0488
+KH0489,GRASSI Museum für Völkerkunde,SAM 12405,Germany,1000591.0,UR253,"Museum fur Volkerkunde, Leipzig",SAM 12405,Pachacamac,,True,UR253,,G-KH0489
+KH0490,GRASSI Museum für Völkerkunde,SAM 12408,Germany,1000592.0,UR254,"Museum fur Volkerkunde, Leipzig",SAM 12408,Pachacamac,,True,UR254,,G-KH0490
+KH0491,Complejo arqueológico Inkawasi,9228-13,Peru,1000597.0,UR255,Projecto Incahuasi,9228-13,Incahuasi,,True,UR255,,G-KH0491
+KH0492,Complejo arqueológico Inkawasi,9228-13,Peru,1000598.0,UR256,Proyecto Incahuasi,9228-13,Incahuasi,,True,UR256,,G-KH0492
+KH0493,Complejo arqueológico Inkawasi,9228-13,Peru,1000595.0,UR257,Projecto Arqueologico Incahuasi,9228-13,Incahuasi,,True,UR257,,G-KH0493
+KH0494,Complejo arqueológico Inkawasi,9228-13,Peru,1000599.0,UR258,Proyecto Incahuasi,9228-13,Incahuasi,,True,UR258,,G-KH0492
+KH0495,Complejo arqueológico Inkawasi,9228-13A,Peru,1000600.0,UR259,Proyecto Incahuasi,9228-13A,Incahuasi,,True,UR259,,G-KH0495
+KH0496,Complejo arqueológico Inkawasi,9228-13B,Peru,1000601.0,UR260,Proyecto Incahuasi,9228-13B,Incahuasi,,True,UR260,,G-KH0496
+KH0497,Complejo arqueológico Inkawasi,9228-13C,Peru,1000602.0,UR261,Proyecto Incahuasi,9228-13C,Incahuasi,,True,UR261,,G-KH0497
+KH0498,Complejo arqueológico Inkawasi,12009-13,Peru,1000603.0,UR262,Proyecto Incahuasi,12009-13,Incahuasi,,True,UR262,,G-KH0498
+KH0499,Complejo arqueológico Inkawasi,12704-2014,Peru,1000604.0,UR263,Proyecto Incahuasi,12704-2014,Incahuasi,,True,UR263,,G-KH0499
+KH0500,Complejo arqueológico Inkawasi,12703-2014,Peru,1000605.0,UR264,Proyecto Incahuasi,12703-2014,Incahuasi,,True,UR264,,G-KH0500
+KH0501,Complejo arqueológico Inkawasi,12703-2014,Peru,1000606.0,UR265,Proyecto Incahuasi,12703-2014,Incahuasi,,True,UR265,,G-KH0500
+KH0502,Complejo arqueológico Inkawasi,13829,Peru,1000607.0,UR266,Proyecto Incahuasi,13829,Incahuasi,,True,UR266,,G-KH0502
+KH0503,Complejo arqueológico Inkawasi,13092,Peru,1000608.0,UR267A,Proyecto Incahuasi,13092,Incahuasi,,True,UR267A,,G-KH0503
+KH0504,Complejo arqueológico Inkawasi,13092,Peru,1000609.0,UR267B,Proyecto Incahuasi,13092,Incahuasi,,True,UR267B,,G-KH0503
+KH0505,Complejo arqueológico Inkawasi,13835,Peru,1000610.0,UR268,Proyecto Incahuasi ,13835,Incahuasi,,True,UR268,,G-KH0505
+KH0506,Complejo arqueológico Inkawasi,13828,Peru,1000611.0,UR269,Proyecto Incahuasi,13828,Incahuasi,,True,UR269,,G-KH0506
+KH0507,Complejo arqueológico Inkawasi,13830,Peru,1000612.0,UR270,Proyecto Incahuasi,13830,Incahuasi,,True,UR270,,G-KH0507
+KH0508,Complejo arqueológico Inkawasi,13842,Peru,1000613.0,UR271,Proyecto Incahuasi,13842,Incahuasi,,True,UR271,,G-KH0508
+KH0509,Complejo arqueológico Inkawasi,13839,Peru,1000614.0,UR272,Proyecto Incahuasi,13839,Incahuasi,,True,UR272,,G-KH0509
+KH0510,Complejo arqueológico Inkawasi,13831-2014,Peru,1000615.0,UR273A,Proyecto Incahuasi,13831-2014,Incahuasi,,True,UR273A,,G-KH0510
+KH0511,Complejo arqueológico Inkawasi,13831-2014,Peru,1000616.0,UR273B,Proyecto Incahuasi,13831-2014,Incahuasi,,True,UR273B,,G-KH0510
+KH0512,Complejo arqueológico Inkawasi,13832-2014,Peru,1000617.0,UR274A,Proyecto Inahuasi,13832-2014,Incahuasi,,True,UR274A,,G-KH0512
+KH0513,Complejo arqueológico Inkawasi,13832-2014,Peru,1000618.0,UR274B,Proyecto Incahuasi,13832-2014,Incahuasi,,True,UR274B,,G-KH0513
+KH0514,Complejo arqueológico Inkawasi,13836-2014,Peru,1000619.0,UR275,Proyecto Incahuasi,13836-2014,Incahuasi,,True,UR275,,G-KH0514
+KH0515,Complejo arqueológico Inkawasi,13837-2014,Peru,1000620.0,UR276,Proyecto Incahuasi,13837-2014,Incahuasi,,True,UR276,,G-KH0515
+KH0516,Complejo arqueológico Inkawasi,13834-2014,Peru,1000622.0,UR277,Proyecto Incahuasi,13834-2014,Incahuasi,,True,UR277,,G-KH0516
+KH0517,Complejo arqueológico Inkawasi,13833-2014,Peru,1000623.0,UR278,Proyecto Incahuasi,13833-2014,Incahuasi,,True,UR278,,G-KH0517
+KH0518,Complejo arqueológico Inkawasi,13838-2014,Peru,1000621.0,UR279,Proyecto Incahuasi,13838-2014,Incahuasi,,True,UR279,,G-KH0518
+KH0519,Complejo arqueológico Inkawasi,16474-2014,Peru,1000624.0,UR280,Proyecto Incahuasi,16474-2014,Incahuasi,,True,UR280,,G-KH0519
+KH0520,"Museo Nacional de Arqueología, Antropología e Historia del Perú",35268A,Peru,1000649.0,UR282,"Museo Nac., Pueblo Libre",35268A,"Huaca San Pedro, Armatambo",,True,UR282,,G-KH0520
+KH0521,"Museo Nacional de Arqueología, Antropología e Historia del Perú",35268B,Peru,1000650.0,UR283,"Museo Nac., Pueblo Libre",35268B,"Huaca San Pedro, Armatambo",,True,UR283,,G-KH0521
+KH0522,"Museo Nacional de Arqueología, Antropología e Historia del Perú",35269,Peru,1000651.0,UR284,"Museo Nac., Pueblo Libre",35269,"Armatambo, Huaca San Pedro",,True,UR284,,G-KH0522
+KH0523,"Museo Nacional de Arqueología, Antropología e Historia del Perú",36212,Peru,1000652.0,UR285,"Museo Nac., Pueblo Libre",36212,"Armatambo, Huaca San Pedro",,True,UR285,,G-KH0523
+KH0524,"Museo Nacional de Arqueología, Antropología e Historia del Perú",36213,Peru,1000653.0,UR286,"Museo Nac., Pueblo Libre",36213,"Armatambo, Huaca San Pedro",,True,UR286,,G-KH0524
+KH0525,"Museo Nacional de Arqueología, Antropología e Historia del Perú",36223A,Peru,1000654.0,UR287,"Museo Nac., Pueblo Libre",36223A,"Armatambo, Huaca San Pedro",,True,UR287,,G-KH0525
+KH0526,"Museo Nacional de Arqueología, Antropología e Historia del Perú",36223B,Peru,1000655.0,UR288,"Museo Nac., Pueblo Libre",36223B,"Armatambo, Huaca San Pedro",,True,UR288,,G-KH0526
+KH0527,"Museo Nacional de Arqueología, Antropología e Historia del Perú",36225,Peru,1000656.0,UR289,"Museo Nac., Pueblo Libre",36225,"Armatambo, Huaca San Pedro",,True,UR289,,G-KH0527
+KH0528,"Museo Nacional de Arqueología, Antropología e Historia del Perú",36224,Peru,1000657.0,UR290,"Museo Nac., Pueblo Libre",36224,"Armatambo, Huaca San Pedro",,True,UR290,,G-KH0528
+KH0529,"Museo Nacional de Arqueología, Antropología e Historia del Perú",36268,Peru,1000658.0,UR291A,"Museo Nac., Pueblo Libre",36268,"Armatambo, Huaca San Pedro",,True,UR291A,,G-KH0529
+KH0530,"Museo Nacional de Arqueología, Antropología e Historia del Perú",36226,Peru,1000659.0,UR292A,"Museo Nac., Pueblo Libre",36226,"Armatambo, Huaca San Pedro",,True,UR292A,,G-KH0530
+KH0531,"Museo Nacional de Arqueología, Antropología e Historia del Perú",36216,Peru,1000660.0,UR293,"Museo Nac., Pueblo Libre",36216,"Armatambo, Huaca San Pedro",,True,UR293,,G-KH0531
+KH0532,"Museo Nacional de Arqueología, Antropología e Historia del Perú",36217,Peru,1000661.0,UR294,"Museo Nac., Pueblo Libre",36217,"Armatambo, Huaca San Pedro",,True,UR294,,G-KH0532
+KH0533,Museo de Sitio de Pachacamac,"MSP 1385A/
+RN 43366",Peru,1000420.0,HP001,Museo de Sitio de Pachacamac,MSP 1385A/RN 43366,Pachacamac,near Lima,True,HP001,,G-KH0533
+KH0534,Museo de Sitio de Pachacamac,"MSP 1385B/
+RN 43366",Peru,1000421.0,HP002,Museo de Sitio de Pachacamac,MSP 1385B/RN 43366,Pachacamac,,True,HP002,,G-KH0534
+KH0535,Museo de Sitio de Pachacamac,"MSP 1386/
+RN 43367",Peru,1000422.0,HP003,Museo de Sitio de Pachacamac,MSP 1389/RN 43370,Pachacamac,,True,HP003,,G-KH0535
+KH0536,Museo de Sitio de Pachacamac,"MSP 1389/
+RN 43370",Peru,1000423.0,HP004,Museo de Sitio de Pachacamac,MSP 1389/RN 43367,Pachacamac,,True,HP004,,G-KH0536
+KH0537,Museo de Sitio de Pachacamac,"MSP 1391/
+RN 43372",Peru,1000424.0,HP005,Museo de Sitio de Pachacamac,MSP 1391/RN 43372,Pachacamac,,True,HP005,,G-KH0537
+KH0538,Museo de Sitio de Pachacamac,"MSP 1392/
+RN 43373",Peru,1000425.0,HP006,Museo de Sitio de Pachacamac,MSP 1392/RN 43373,Pachacamac,,True,HP006,,G-KH0538
+KH0539,Museo de Sitio de Pachacamac,"MSP 1393/
+RN 43374",Peru,1000426.0,HP007,Museo de Sitio de Pachacamac,MSP 1393/RN 43374,Pachacamac,,True,HP007,,G-KH0539
+KH0540,Museo de Sitio de Pachacamac,"MSP 1394/
+RN 43375",Peru,1000427.0,HP008,Museo de Sitio de Pachacamac,MSP 1394/RN 43375,Pachacamac,,True,HP008,,G-KH0540
+KH0541,Museo de Sitio de Pachacamac,"MSP 1395/
+RN 43376",Peru,1000428.0,HP009,Museo de Sitio de Pachacamac,MSP 1395/RN 43376,Pachacamac,,True,HP009,,G-KH0541
+KH0542,Museo de Sitio de Pachacamac,"MSP 1396/
+RN 43377",Peru,1000429.0,HP010,Museo de Sitio de Pachacamac,MSP 1396/RN 43377,Pachacamac,,True,HP010,,G-KH0542
+KH0543,Museo de Sitio de Pachacamac,"MSP 1397/
+RN 43378",Peru,1000430.0,HP011,Museo de Sitio de Pachacamac,MSP 1397/RN 43378,Pachacamac,,True,HP011,,G-KH0543
+KH0544,Museo de Sitio de Pachacamac,"MSP 1400/
+RN 43381",Peru,1000431.0,HP012,Museo de Sitio de Pachacamac,MSP 1400/RN 43381,Pachacamac,,True,HP012,,G-KH0544
+KH0545,Museo de Sitio de Pachacamac,"MSP 1403/
+RN 43384",Peru,1000432.0,HP013,Museo de Sitio de Pachacamac,MSP 1403/RN 43384,Pachacamac,,True,HP013,,G-KH0545
+KH0546,Museo de Sitio de Pachacamac,"MSP 1404/
+RN 43385",Peru,1000433.0,HP014,Museo de Sitio de Pachacamac,MSP 1404/RN 43385,Pachacamac,,True,HP014,,G-KH0546
+KH0547,Museo de Sitio de Pachacamac,"MSP 1405/
+RN 43386",Peru,1000434.0,HP015,Museo de Sitio de Pachacamac,MSP 1405/RN 43386,"""Cieneguilla, Valle de Lurin""",,True,HP015,,G-KH0547
+KH0548,Museo de Sitio de Pachacamac,"MSP 1406/
+RN 43387",Peru,1000435.0,HP016,Museo de Sitio de Pachacamac,MSP 1406/RN 43387,"""Cieneguilla, Valle de Lurin""",,True,HP016,,G-KH0548
+KH0549,Museo de Sitio de Pachacamac,"MSP 1409/
+RN 43390",Peru,1000436.0,HP017,Museo de Sitio de Pachacamac,MSP 1409/RN 43390,Pachacamac,,True,HP017,,G-KH0549
+KH0550,Museo de Sitio de Pachacamac,"MSP 1410/
+RN 43391",Peru,1000437.0,HP018,Museo de Sitio de Pachacamac,MSP 1410/RN 43391,Pachacamac,,True,HP018,,G-KH0550
+KH0551,Museo de Sitio de Pachacamac,"MSP 1412/
+RN 43393",Peru,1000438.0,HP019,Museo de Sitio de Pachacamac,MSP 1412/RN 43393,Pachacamac,,True,HP019,,G-KH0551
+KH0552,Museo de Sitio de Pachacamac,"MSP 1413/
+RN 43394",Peru,1000439.0,HP020,Museo de Sitio de Pachacamac,MSP 1413/RN 43394,Pachacamac,,True,HP020,,G-KH0552
+KH0553,Museo de Sitio de Pachacamac,"MSP 1414/
+RN 43395",Peru,1000440.0,HP021,Museo de Sitio de Pachacamac,MSP 1414/RN 43395,Pachacamac,,True,HP021,,G-KH0553
+KH0554,Museo de Sitio de Pachacamac,"MSP 1417/
+RN 43398",Peru,1000441.0,HP022,Museo de Sitio de Pachacamac,MSP 1417/RN 43398,Pachacamac,,True,HP022,,G-KH0554
+KH0555,Museo de Sitio de Pachacamac,"MSP 1418/
+RN 43399",Peru,1000442.0,HP023,Museo de Sitio de Pachacamac,MSP 1418/RN 43399,Pachacamac,,True,HP023,,G-KH0555
+KH0556,Museo de Sitio de Pachacamac,"MSP 1419/
+RN 43400",Peru,1000443.0,HP024,Museo de Sitio de Pachacamac,MSP 1419/RN 43400,Pachacamac,,True,HP024,,G-KH0556
+KH0557,Museo de Sitio de Pachacamac,"MSP 1420/
+RN 43401",Peru,1000444.0,HP025,Museo de Sitio de Pachacamac,MSP 1420/RN 43401,Pachacamac,,True,HP025,,G-KH0557
+KH0558,Museo de Sitio de Pachacamac,"MSP 1421/
+RN 43402",Peru,1000445.0,HP026,Museo de Sitio de Pachacamac,MSP 1422/RN 43403,Pachacamac,,True,HP026,,G-KH0558
+KH0559,Museo de Sitio de Pachacamac,"MSP 1422/
+RN 43403",Peru,1000446.0,HP027,Museo de Sitio de Pachacamac,MSP 1422/RN 43404,Pachacamac,,True,HP027,,G-KH0559
+KH0560,Museo de Sitio de Pachacamac,"MSP 1423/
+RN 43404",Peru,1000447.0,HP028,Museo de Sitio de Pachacamac,MSP 1423/RN 43404,Pachacamac,,True,HP028,,G-KH0560
+KH0561,Museo de Sitio de Pachacamac,"MSP 1425A/
+RN 43406",Peru,1000448.0,HP029,Museo de Sitio de Pachacamac,MSP 1425A/RN 43406,Pachacamac,,True,HP029,,G-KH0561
+KH0562,Museo de Sitio de Pachacamac,"MSP 1425B/
+RN 43406",Peru,1000449.0,HP030,Museo de Sitio de Pachacamac,MSP 1425B/RN 43406,Pachacamac,,True,HP030,,G-KH0562
+KH0563,Museo de Sitio de Pachacamac,"MSP 1426/
+RN 43407",Peru,1000450.0,HP031,Museo de Sitio de Pachacamac,MSP 1426/RN 43407,Pachacamac,,True,HP031,,G-KH0563
+KH0564,Museo de Sitio de Pachacamac,"MSP 1429/
+RN 43405",Peru,1000451.0,HP032,Museo de Sitio de Pachacamac,MSP 1429/RN 43405,Pachacamac,,True,HP032,,G-KH0564
+KH0565,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 543,Peru,1000562.0,HP033,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP543,"Ullujaya, Ocucaje, Ica",,True,HP033,,G-KH0565
+KH0566,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 1721,Peru,1000563.0,HP034,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP1721,"Ullujaya, Ocucaje, Ica",,True,HP034,,G-KH0566
+KH0567,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 4134,Peru,1000566.0,HP037,"Museo Nacional de Historia, Archaeología y Antropología de Perú",MNAAHP 4202,"Costa Central, Huacho",,True,HP037,,G-KH0567
+KH0568,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 4202,Peru,1000567.0,HP038,"Museo Nacional de Arqueología, Antropología e Historia de Perú",MNAAHP,unknown,,True,HP038,,G-KH0568
+KH0569,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 4203,Peru,1000593.0,HP039,"Museo Nacional de Arqueologia, Anthropologia e Histora del Peru",MNAAHP 4203,Costa Sur,,True,HP039,,G-KH0569
+KH0570,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5691,Peru,1000569.0,HP040,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP5691,unknown,,True,HP040,,G-KH0570
+KH0571,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5701,Peru,1000571.0,HP042,"Museo Nacional de Arqueología, Antropología, e Historia del Perú",MNAAHP5701,unknown,,True,HP042,,G-KH0571
+KH0572,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5704,Peru,1000572.0,HP043,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5704,unknown,,True,HP043,,G-KH0572
+KH0573,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5713,Peru,1000573.0,HP044,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5713,unknown,,True,HP044,,G-KH0573
+KH0574,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5719,Peru,1000574.0,HP045,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5719,"Región Sur, Quillagua, Valle de Loa",,True,HP045,,G-KH0574
+KH0575,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5720A,Peru,1000575.0,HP046 A,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru",MNAAHP 5720 A,unknown,,True,HP046 A;HP046A,,G-KH0575
+KH0576,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5720B,Peru,1000576.0,HP046 B,"Museo Nacional de Arqueologia, Antropologia e Historia Nacional del Peru",MNAAHP 5720 B,unknown,,True,HP046 B;HP046B,,G-KH0576
+KH0577,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5722,Peru,1000577.0,HP047,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru",MNAAHP 5722,"Armatambo, Lima, Central Coast",,True,HP047,,G-KH0577
+KH0578,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5723,Peru,1000578.0,HP048,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru",MNAAHP 5723,unknown,,True,HP048,,G-KH0578
+KH0579,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5724,Peru,1000579.0,HP049,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru",MNAAHP 5724,unknown,,True,HP049,,G-KH0579
+KH0580,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5725,Peru,1000580.0,HP050,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru",MNAAHP 5725,foothills of Cerro Solar,,True,HP050,,G-KH0580
+KH0581,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5726A,Peru,1000581.0,HP051 A,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru",MNAAHP 5726 A,unknown,,True,HP051 A;HP051A,,G-KH0581
+KH0582,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 5726B,Peru,1000582.0,HP051 B,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru",MNAAHP 5726 B,unknown,,True,HP051 B;HP051B,,G-KH0582
+KH0583,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 6345,Peru,1000583.0,HP052,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru",MNAAHP 6345,unknown,,True,HP052,,G-KH0583
+KH0584,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 25086,Peru,1000584.0,HP053,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru",MNAAHP 25086,unknown,,True,HP053,,G-KH0584
+KH0585,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 25577,Peru,1000585.0,HP054,"Museo Nacion de Arqueologia, Anthropologia e Historia del Peru",MNAAHP 25577,unknown,,True,HP054,,G-KH0585
+KH0586,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 29934,Peru,1000588.0,HP055,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru",MNAAHP 29934,unknown,,True,HP055,,G-KH0586
+KH0587,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 29935,Peru,1000586.0,HP056,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru",MNAAHP 30564,unknown,,True,HP056,,G-KH0587
+KH0588,"Museo Nacional de Arqueología, Antropología e Historia del Perú",MNAAHP 30564,Peru,1000587.0,HP057,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru",B397/T41299.22,unknown,,True,HP057,,G-KH0588
+KH0589,Dallas Museum of Art,B397/T41299.22,USA,1000453.0,QU01,Dallas Museum of Art,B376/T41299.23,,"""Inka, Late Horizon""",True,QU01;QU001,,G-KH0589
+KH0590,Dallas Museum of Art,B376/T41299.23,USA,1000455.0,QU02,Dallas Museum of Art,B388/T41299.24,,"""Inka, Late Horizon""",True,QU02;QU002,,G-KH0590
+KH0591,Dallas Museum of Art,B388/T41299.24,USA,1000454.0,QU03,Dallas Museum of Art,B378/T41299.25,,"""Inka, Late Horizon""",True,QU03;QU003,,G-KH0591
+KH0592,Dallas Museum of Art,B378/T41299.25,USA,1000456.0,QU04,Dallas Museum of Art,B377/T41299.26,,"""Inka, Late Horizon""",True,QU04;QU004,,G-KH0592
+KH0593,Dallas Museum of Art,B377/T41299.26,USA,1000457.0,QU05,Dallas Museum of Art,B384/T41299.27,,"""Inka, Late Horizon""",True,QU05;QU005,,G-KH0593
+KH0594,Dallas Museum of Art,B384/T41299.27,USA,1000458.0,QU06,Dallas Museum of Art,B372/T41299.28,,"""Inka, Late Horizon""",True,QU06;QU006,,G-KH0594
+KH0595,Dallas Museum of Art,B372/T41299.28,USA,1000459.0,QU07,Dallas Museum of Art,B367/T41299.29,,"""Inka, Late Horizon""",True,QU07;QU007,,G-KH0595
+KH0596,Dallas Museum of Art,B367/T41299.29,USA,1000460.0,QU08,Dallas Museum of Art,B366/T41299.30,,"""Inka, Late Horizon""",True,QU08;QU008,,G-KH0596
+KH0597,Dallas Museum of Art,B366/T41299.30,USA,1000461.0,QU09,Dallas Museum of Art,B374/T41299.31,,"""Inka, Late Horizon""",True,QU09;QU009,,G-KH0597
+KH0598,Dallas Museum of Art,B374/T41299.31,USA,1000462.0,QU10,Dallas Museum of Art,B375/T41299.32,,"""Inka, Late Horizon""",True,QU10;QU010,,G-KH0598
+KH0599,Dallas Museum of Art,B375/T41299.32,USA,1000463.0,QU11,Dallas Museum of Art,B391/T41299.20,,"""Inka, Late Horizon""",True,QU11;QU011,,G-KH0599
+KH0600,Dallas Museum of Art,B391/T41299.20,USA,,,,,,,False,QU012,,G-KH0600
+KH0601,Dallas Museum of Art,B369 / T41299.33.A-B,USA,1000464.0,QU13,Dallas Museum of Art,B399/T41299.34,,"""Inka, Late Horizon""",True,QU13;QU013,,G-KH0601
+KH0602,Dallas Museum of Art,B399/T41299.34,USA,1000465.0,QU14,Dallas Museum of Art,B373/T41299.18,,"""Inka, Late Horizon""",True,QU14;QU014,,G-KH0602
+KH0603,Dallas Museum of Art,B373/T41299.18,USA,1000466.0,QU15,Dallas Museum of Art,B383&B383A/T41299.35.A-B,,"""Inka, Late Horizon""",True,QU15;QU015,,G-KH0603
+KH0604,Dallas Museum of Art,B383 & B383A / T41299.35.A-B,USA,1000467.0,QU16,Dallas Museum of Art,B395/T41299.36,,"""Inka, Late Horizon""",True,QU16;QU016,,G-KH0604
+KH0605,Dallas Museum of Art,B395/T41299.36,USA,1000468.0,QU17,Dallas Museum of Art,B382/T41299.37,,"""Inka, Late Horizon""",True,QU17;QU017,,G-KH0605
+KH0606,Dallas Museum of Art,B382/T41299.37,USA,1000469.0,QU18,Dallas Museum of Art,B371/T41299.38,,"""Inka, Late Horizon""",True,QU18;QU018,,G-KH0606
+KH0607,Dallas Museum of Art,B371/T41299.38,USA,1000470.0,QU19,Dallas Museum of Art,T41299.38,,"""Inka, Late Horizon""",True,QU19;QU019,,G-KH0607
+KH0608,Complejo arqueológico Inkawasi,PAI-001-2016,Peru,1000625.0,JC001,Proyecto Incahuasi,PAI-001-2016,Incahuasi,,True,JC001,,G-KH0608
+KH0609,Complejo arqueológico Inkawasi,PAI-003-2016,Peru,1000626.0,JC002,Proyecto Incahuasi,PAI-003-2016,Incahuasi,,True,JC002,,G-KH0609
+KH0610,Complejo arqueológico Inkawasi,PAI-003-2016,Peru,1000627.0,JC003,Proyecto Incahuasi,PAI-003-2016,Incahuasi,,True,JC003,,G-KH0609
+KH0611,Complejo arqueológico Inkawasi,PAI-005-2016,Peru,1000628.0,JC004,Proyecto Incahuasi,PAI-005-2016,Incahuasi,,True,JC004,,G-KH0611
+KH0612,Complejo arqueológico Inkawasi,PAI-005-2016,Peru,1000629.0,JC005,Proyecto Incahuasi,PAI-005-2016,Incahuasi,,True,JC005,,G-KH0611
+KH0613,Complejo arqueológico Inkawasi,PAI-002-2016,Peru,1000630.0,JC006,Proyecto Incahuasi,PAI-002-2016,Incahuasi,,True,JC006,,G-KH0613
+KH0614,Complejo arqueológico Inkawasi,PAI-004-2016,Peru,1000631.0,JC007,Proyecto Incahuasi,PAI-004-2016,Incahuasi,,True,JC007,,G-KH0614
+KH0615,Complejo arqueológico Inkawasi,PAI-1156-2016,Peru,1000632.0,JC008,Proyecto Incahuasi,PAI-1156-2016,Incahuasi,,True,JC008,,G-KH0615
+KH0616,Complejo arqueológico Inkawasi,PAI-007-2016,Peru,1000633.0,JC009,Proyecto Incahuasi,PAI-007-2016,Incahuasi,,True,JC009,,G-KH0616
+KH0617,Complejo arqueológico Inkawasi,PAI-009-2016,Peru,1000634.0,JC010,Proyecto Incahuasi,PAI-009-2016,Incahuasi,,True,JC010,,G-KH0617
+KH0618,Complejo arqueológico Inkawasi,PAI-008-2016,Peru,1000635.0,JC011,Proyecto Incahuasi,PAI-008-2016,Incahuasi,,True,JC011,,G-KH0618
+KH0619,Complejo arqueológico Inkawasi,PAI-008-2016,Peru,1000636.0,JC012,Proyecto Incahuasi,PAI-008-2016,Incahuasi,,True,JC012,,G-KH0618
+KH0620,Complejo arqueológico Inkawasi,PAI-008-2016,Peru,1000637.0,JC013,Proyecto Incahuasi,PAI-008-2016,Incahuasi,,True,JC013,,G-KH0618
+KH0621,Complejo arqueológico Inkawasi,PAI-1444-2016,Peru,1000638.0,JC014,Proyecto Incahuasi,PAI-1444-2016,Incahuasi,,True,JC014,,G-KH0621
+KH0622,Complejo arqueológico Inkawasi,PAI-1441-2016,Peru,1000639.0,JC015,Proyecto Incahuasi,PAI-1441-2016,Incahuasi,,True,JC015,,G-KH0622
+KH0623,Complejo arqueológico Inkawasi,PAI-1459-2016,Peru,1000640.0,JC016,Proyecto Incahuasi,PAI-1459-2016,Incahuasi,,True,JC016,,G-KH0623
+KH0624,Complejo arqueológico Inkawasi,PAI-1456-2016,Peru,1000641.0,JC017,Proyecto Incahuasi,PAI-1456-2016,Incahuasi,,True,JC017,,G-KH0624
+KH0625,Complejo arqueológico Inkawasi,PAI-1453-2016,Peru,1000642.0,JC018,Proyecto Incahuasi,PAI-1453-2016,Incahuasi,,True,JC018,,G-KH0625
+KH0626,Complejo arqueológico Inkawasi,PAI-1455-2016,Peru,1000643.0,JC019,Proyecto Incahuasi,PAI-1455-2016,Incahuasi,,True,JC019,,G-KH0626
+KH0627,Complejo arqueológico Inkawasi,PAI-1454-2016,Peru,1000644.0,JC020,Proyecto Incahausi,PAI-1454-2016,Incahuasi,,True,JC020,,G-KH0627
+KH0628,Complejo arqueológico Inkawasi,PAI-1440-2016,Peru,1000645.0,JC021,Proyecto Incahuasi,PAI-1440-2016,Incahuasi,,True,JC021,,G-KH0628
+KH0629,Complejo arqueológico Inkawasi,PAI-1443-2016,Peru,1000646.0,JC022,Proyecto Incahuasi,PAI-1443-2016,Incahuasi,,True,JC022,,G-KH0629
+KH0630,Complejo arqueológico Inkawasi,PAI-1436-2016,Peru,1000647.0,JC023,Proyecto Incahuasi,PAI-1436-2016,Incahuasi,,True,JC023,,G-KH0630
+KH0631,University of St Andrews,SA004,Scotland,,,,,,,False,SH001,,G-KH0631
+KH0632,University of St Andrews,SA005,Scotland,,,,,,,False,SH002,,G-KH0632
+KH0633,The British Museum,"Am1937,0213.84",England,,,,,,,False,,,G-KH0633
+KH0634,The British Museum,"Am1937,0213.84",England,,,,,,,False,,,G-KH0634
+KH0635,The British Museum,"Am1937,0213.84",England,,,,,,,False,,,G-KH0635
+KH0636,University of St Andrews,SA001,Scotland,,,,,,,False,,,G-KH0636
+KH0637,University of St Andrews,SA002,Scotland,,,,,,,False,,,G-KH0637
+KH0638,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0638
+KH0639,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0639
+KH0640,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0640
+KH0641,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0641
+KH0642,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0642
+KH0643,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0643
+KH0644,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0644
+KH0645,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0645
+KH0646,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0646
+KH0647,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0647
+KH0648,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0648
+KH0649,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0649
+KH0650,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0650
+KH0651,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0651
+KH0652,"Museo Nacional de Arqueología, Antropología e Historia del Perú",RT-16905,Peru,,,,,,,False,,,G-KH0652
+KH0653,Sitio arqueológico Huacones-Vilcahuasi,789,Peru,,,,,,,False,JC024,,G-KH0653
+KH0654,Sitio arqueológico Huacones-Vilcahuasi,788,Peru,,,,,,,False,JC025,,G-KH0654
+KH0655,Sitio arqueológico Huacones-Vilcahuasi,792,Peru,,,,,,,False,JC026,,G-KH0655
+KH0656,Sitio arqueológico Huacones-Vilcahuasi,785,Peru,,,,,,,False,JC027,,G-KH0656
+KH0657,Sitio arqueológico Huacones-Vilcahuasi,787,Peru,,,,,,,False,JC028,,G-KH0657
+KH0658,Sitio arqueológico Huacones-Vilcahuasi,791,Peru,,,,,,,False,JC029,,G-KH0658
+KH0659,Sitio arqueológico Huacones-Vilcahuasi,783,Peru,,,,,,,False,JC030,,G-KH0659
+KH0660,Sitio arqueológico Huacones-Vilcahuasi,790,Peru,,,,,,,False,JC031,,G-KH0660
+KH0661,Sitio arqueológico Huacones-Vilcahuasi,786,Peru,,,,,,,False,JC032,,G-KH0661
+KH0662,Sitio arqueológico Huacones-Vilcahuasi,784,Peru,,,,,,,False,JC033,,G-KH0662
+KH0663,Sitio arqueológico Huacones-Vilcahuasi,782,Peru,,,,,,,False,JC034,,G-KH0663
+KH0664,Museo de América,14809,Spain,,,,,,,False,MM018,,G-KH0664
+KH0665,Maiman Collection (Deaccessioned),936,Israel,,,,,,,False,BA001,,G-KH0665
+KH0666,Beloit College,8896,USA,,,,,,,False,QU020,,G-KH0666
+KH0667,Beloit College,7260,USA,,,,,,,False,QU021,,G-KH0667
+KH0668,Beloit College,1194.04,USA,,,,,,,False,QU022,,G-KH0668
+KH0669,"Michael C. Carlos Museum, Emory University",2002.1.130,USA,,,,,,,False,QU023,,G-KH0669
+KH0670,"Michael C. Carlos Museum, Emory University",2002.1.118,USA,,,,,,,False,QU024,,G-KH0670
+KH0671,"Michael C. Carlos Museum, Emory University",2002.1.40,USA,,,,,,,False,QU025,,G-KH0671
+KH0672,Museum für Völkerkunde,61.54:2 dop 1,Germany,,,,,,,False,AN001;MM006,,G-KH0672
+KH0673,Museum für Völkerkunde,61.54:2 dop 2,Germany,,,,,,,False,AN002;MM007,,G-KH0673
+KH0674,Dumbarton Oaks,PC.WBC.2016.072,USA,,,,,,,False,UR297,,G-KH0674
+KH0675,Dumbarton Oaks,PC.WBC.2016.071,USA,,,,,,,False,UR298,,G-KH0675
+KH0676,Brooklyn Museum,80.1012 aka 2708,USA,,,,,,,False,JS001,,G-KH0676
+KH0677,Landesmuseum Hannover,Grü-209,Germany,,,,,,,False,MM001,,G-KH0677
+KH0678,Lippisches Landesmuseum,Unknown,Germany,,,,,,,False,MM002,,G-KH0678
+KH0679,Lippisches Landesmuseum,Unknown,Germany,,,,,,,False,MM003,,G-KH0679
+KH0680,Lippisches Landesmuseum,Unknown,Germany,,,,,,,False,MM004,,G-KH0680
+KH0681,"Museum am Rothenbaum, Kulturen und Kunste der Welt (MARKK)",xx am 80 (provisional number),Germany,,,,,,,False,MM005,,G-KH0681
+KH0682,Museum der Kulturen,IVc.366.03,Switzerland,,,,,,,False,MM008,,G-KH0682
+KH0683,Museum der Kulturen,IVc.366.03,Switzerland,,,,,,,False,MM009,,G-KH0683
+KH0684,Museum der Kulturen,IVc.366.03,Switzerland,,,,,,,False,MM010,,G-KH0684
+KH0685,Museum der Kulturen,IVc.366.03,Switzerland,,,,,,,False,MM011,,G-KH0685
+KH0686,Museum der Kulturen,IVc.366.03,Switzerland,,,,,,,False,MM012,,G-KH0686
+KH0687,Museum der Kulturen,IVc.366.03,Switzerland,,,,,,,False,MM013,,G-KH0687
+KH0688,Museum der Kulturen,IVc.366.03,Switzerland,,,,,,,False,MM014,,G-KH0688
+KH0689,Museum der Kulturen,IVc.366.03,Switzerland,,,,,,,False,MM015,,G-KH0689
+KH0690,Museum der Kulturen,IVc.366.03,Switzerland,,,,,,,False,MM016,,G-KH0690
+KH0691,Museum der Kulturen,IVc.366.03,Switzerland,,,,,,,False,MM017,,G-KH0691
+KH0692,Linden Museum,M32902,Germany,,,,,,,False,MM019,,G-KH0692
+KH0693,Linden Museum,69195,Germany,,,,,,,False,MM020,,G-KH0693
+KH0694,Weltkulturenmuseum,NS 35318,Germany,,,,,,,False,MM021,,G-KH0694
+KH0695,McGill University Library,002.49b,Canada,,,,,,,False,MM022,,G-KH0695
+KH0696,Maiman Collection (Deaccessioned),52290,Israel,,,,,,,False,AK001,,G-KH0696
+KH0697,Maiman Collection (Deaccessioned),9--26/52290,Israel,,,,,,,False,AK002,,G-KH0697
+KH0698,Maiman Collection (Deaccessioned),MC935,Israel,,,,,,,False,AK003,,G-KH0698
+KH0699,College of Southern Idaho,P.85.6,USA,,,,,,,False,KT001,,G-KH0699
+KH0700,Stanford University Archaeology Collections,80.1012 aka 2708,USA,,,,,,,False,SB001,,G-KH0700
+KH0701,"Art, Design and Architecture Museum, UC Santa Barbara",1966.79,USA,,,,,,,False,AB001,,G-KH0701
+KH0702,Museo Amano,R4303,Peru,,,,,,,False,,,G-KH0702

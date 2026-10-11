@@ -11,5 +11,5 @@
 ## Commands
 
 - `uv sync` installs the pinned environment.
-- `make data` fetches raw sources (KFG honours a 10 s crawl delay, about 2 hours) and verifies checksums.
+- `make data` fetches raw sources (KFG honours a 10 s crawl delay, about 3 hours) and verifies checksums.
 - `make test`, `make lint`, `make prereg-check` are the checks CI runs.

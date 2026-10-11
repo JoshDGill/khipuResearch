@@ -33,6 +33,7 @@ check: lint test prereg-check
 
 steward:
 	$(RUN) python -m steward.okr
+	$(RUN) python -m steward.crosswalk
 
 phase1: steward
 	@echo "phase1: reproductions not implemented yet (see docs/EXECUTION_PLAN.md §10)" && exit 1

@@ -10,6 +10,7 @@ data/clean/*
 !data/clean/.gitkeep
 !data/clean/id_crosswalk.csv
 !data/clean/quality_flags.csv
+!data/clean/duplicates.csv
 data/controls/*
 !data/controls/.gitkeep
 
